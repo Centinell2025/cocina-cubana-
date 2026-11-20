@@ -1,0 +1,7 @@
+{
+  "name": "cocina-cubana",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Recetario cubano con 200 recetas, pastelería y herramientas de cocina",
+  "scripts": {"test": "node scripts/validate.mjs"}
+}

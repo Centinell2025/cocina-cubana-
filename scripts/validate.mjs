@@ -1,0 +1,54 @@
+import assert from 'node:assert/strict';
+import {readFileSync,existsSync} from 'node:fs';
+import {fileURLToPath} from 'node:url';
+import {resolve,dirname} from 'node:path';
+import vm from 'node:vm';
+const root=resolve(dirname(fileURLToPath(import.meta.url)),'..');
+const read=path=>readFileSync(resolve(root,path),'utf8');
+const recipes=JSON.parse(read('dist/recipes.json'));
+const sources=JSON.parse(read('dist/sources.json'));
+const counts={carnes:25,aves:20,pescados:20,arroces:20,granos_sopas:20,viandas_ensaladas:15,entrantes:15,pasteleria:30,postres:25,bebidas:10};
+assert.equal(recipes.length,200,'Exactly 200 recipes');
+assert.equal(new Set(recipes.map(r=>r.id)).size,200,'Unique IDs');
+assert.equal(new Set(recipes.map(r=>r.title.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase())).size,200,'Unique normalized recipe titles');
+const sourceIds=new Set(sources.map(s=>s.id));
+for(const[category,count]of Object.entries(counts))assert.equal(recipes.filter(r=>r.category===category).length,count,category);
+for(const[rIndex,r]of recipes.entries()){
+  assert.equal(r.id,'r'+String(rIndex+1).padStart(3,'0'));
+  for(const field of ['title','category','description','difficulty','tradition','yieldUnit'])assert.ok(typeof r[field]==='string'&&r[field].length,r.id+' '+field);
+  assert.ok(r.servings>0&&Number.isInteger(r.servings));
+  for(const key of ['prepMinutes','cookMinutes','restMinutes'])assert.ok(Number.isFinite(r[key])&&r[key]>=0,r.id+' '+key);
+  assert.ok(r.ingredients.length>=2,r.id+' ingredients');
+  assert.ok(r.steps.length>=5,r.id+' full method');
+  for(const i of r.ingredients){assert.ok(i.name&&i.unit);assert.ok(i.amount===null||(Number.isFinite(i.amount)&&i.amount>0),r.id+' ingredient amount');}
+  for(const step of r.steps)assert.ok(typeof step==='string'&&step.length>=35,r.id+' detailed instructions');
+  for(const s of r.sourceIds)assert.ok(sourceIds.has(s),r.id+' unresolved source '+s);
+  assert.ok(existsSync(resolve(root,'dist/assets/'+r.category+'.svg')));
+}
+for(const s of sources){assert.ok(s.title&&s.id);assert.match(s.url,/^https:\/\//);}
+const manifest=JSON.parse(read('dist/manifest.webmanifest'));
+for(const i of manifest.icons)assert.ok(existsSync(resolve(root,'dist',i.src)));
+for(const file of ['index.html','styles.css','app.js','sw.js','recipes.json','sources.json'])assert.ok(existsSync(resolve(root,'dist',file)));
+const js=read('dist/app.js');
+new vm.Script(js);
+new vm.Script(read('dist/sw.js'));
+let saved=null;
+const context=vm.createContext({console,structuredClone,URL,Intl,setTimeout,clearTimeout,Map,Set,Date,localStorage:{getItem:()=>null,setItem:(key,value)=>saved=value},document:{},window:{},confirm:()=>true});
+vm.runInContext(js.slice(0,js.indexOf("// Browser event bindings")),context);
+context.seed=recipes;
+vm.runInContext(`recipes=seed;recipes.forEach(r=>{r.searchText=norm([r.title,r.description,CATEGORIES[r.category].name,...r.ingredients.map(i=>i.name),...r.tags].join(' '));recipeMap.set(r.id,r);});toast=()=>{};navigate=()=>{};`,context);
+const run=expression=>vm.runInContext(expression,context);
+assert.equal(run('filteredRecipes().length'),200);
+run("filters.q='ROPA VIEJA'");assert.equal(run('filteredRecipes()[0].id'),'r001');
+run("filters.q='limón'");const withAccent=run('filteredRecipes().map(r=>r.id).join()');run("filters.q='limon'");assert.equal(run('filteredRecipes().map(r=>r.id).join()'),withAccent);
+run("filters.q='';filters.time='30'");assert.ok(run('filteredRecipes().length')>0);assert.ok(run('filteredRecipes().every(r=>total(r)<=30)'));
+run("filters.time='all';filters.category='pasteleria'");assert.equal(run('filteredRecipes().length'),30);
+run("currentView='favoritos';state.favorites=['r136'];filters.category='all'");assert.equal(run('filteredRecipes().length'),1);
+run("currentView='menu';state.menu={'lunes-comida':{id:'r001',servings:3},'martes-cena':{id:'r001',servings:6}};menuToShopping()");assert.equal(run('state.shopping.length'),1);assert.equal(run('state.shopping[0].servings'),9);
+const expected=recipes[0].ingredients.find(i=>i.name==='falda de res').amount*1.5;
+assert.equal(run("shoppingEntries().find(i=>i.name==='falda de res').amount"),expected);
+run("state.menu={'lunes-comida':{id:'r002',servings:4}};menuToShopping()");assert.equal(run('state.shopping.length'),1);assert.equal(run('state.shopping[0].id'),'r002');
+run("addShopping('r002',8);addShopping('r002',8)");assert.equal(run('state.shopping.length'),1);assert.equal(run('state.shopping[0].servings'),8);
+run("state.notes.r001='<img src=x onerror=alert(1)>';save()");assert.ok(JSON.parse(saved).notes.r001.includes('<img'));
+assert.equal(run("esc(state.notes.r001)"),'&lt;img src=x onerror=alert(1)&gt;');
+console.log('PASS: 200 recipes, 10 category counts, unique titles/IDs, complete ingredients/steps, source references, PWA assets, syntax, search, accents, time filter, favorites, menu totals, shopping replacement/deduplication, persistence and escaping.');

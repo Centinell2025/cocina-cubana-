@@ -1,0 +1,218 @@
+[
+  {
+    "id": "cuba-cocina",
+    "url": "https://www.cuba.travel/serviciosturisticos/gastronomia",
+    "title": "Cuba Travel — Gastronomía",
+    "coverage": "Marco cultural y presencia de sofritos, carnes, productos marinos y verduras en la cocina cubana. Las fórmulas concretas son redacción original; este texto no valida cada receta."
+  },
+  {
+    "id": "cuba-tipicos",
+    "url": "https://www.cuba.travel/sobre-cuba/comida-tipica-cubana",
+    "title": "Cuba Travel — Comida típica cubana",
+    "coverage": "Identificación del cerdo asado entre las preparaciones representativas. No se copian ingredientes ni instrucciones del sitio."
+  },
+  {
+    "id": "miami-platos",
+    "url": "https://www.miamiandbeaches.com/restaurants/miami-cuban-food-guide",
+    "title": "Greater Miami Convention & Visitors Bureau — Cuban Food in Miami",
+    "coverage": "Referencia para la identidad del picadillo con aceitunas y pasas y del boliche relleno de chorizo."
+  },
+  {
+    "id": "rabo-referencia",
+    "url": "https://www.cibercuba.com/noticias/2023-09-12-u1-e199370-s32479-rabo-encendido-receta-cubana-chuparse-dedos",
+    "title": "CiberCuba — Rabo encendido, una receta cubana",
+    "coverage": "Confirma la denominación y el carácter tradicional del plato; la receta de la app se redactó con proporciones propias."
+  },
+  {
+    "id": "pulpeta-referencia",
+    "url": "https://www.cibercuba.com/cocina/recetas/pulpeta",
+    "title": "CiberCuba Cocina — Pulpeta o carne fría",
+    "coverage": "Referencia de identidad culinaria para el rollo de carne molida relleno. La app ofrece instrucciones originales de horno."
+  },
+  {
+    "id": "tasajo-referencia",
+    "url": "https://guije.com/cocina/otras/tasajo.htm",
+    "title": "Guije — Recetas de tasajo en la cocina cubana",
+    "coverage": "Referencia cultural de las denominaciones tasajo y aporreado; no se trasladan instrucciones históricas de seguridad ni recetas antiguas literalmente."
+  },
+  {
+    "id": "chilindron-referencia",
+    "url": "https://www.cibercuba.com/cocina/recetas/chilindron-chivo",
+    "title": "CiberCuba Cocina — Chilindrón de chivo",
+    "coverage": "Identidad del guiso cubano de chivo. Cantidades, tiempos e instrucciones de la app son una formulación editorial propia."
+  },
+  {
+    "id": "barbacoa-referencia",
+    "url": "https://cocinaconcuba.wordpress.com/2013/09/15/pollo-a-la-barbacoa/",
+    "title": "Cocina con Cuba — Pollo a la barbacoa",
+    "coverage": "Referencia para el uso doméstico cubano del nombre barbacoa en una preparación con salsa de soya y mantequilla. La variante se marca como versión casera."
+  },
+  {
+    "id": "pescados-referencia",
+    "url": "https://www.cibercuba.com/s/cocinacubana/categoria/pescados-y-mariscos",
+    "title": "CiberCuba Cocina — Pescados y mariscos",
+    "coverage": "Denominaciones enchilado, langosta y pisto de pescado; contexto culinario, no verificación de cada fórmula."
+  },
+  {
+    "id": "seguridad-temperaturas",
+    "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+    "title": "FoodSafety.gov — Safe Minimum Internal Temperature Chart",
+    "coverage": "Referencia primaria para temperaturas mínimas de aves, carnes molidas, pescado, piezas de carne y recalentado, así como el aspecto de crustáceos cocidos."
+  },
+  {
+    "id": "sides-congri",
+    "title": "Receta Cubana: congrí oriental",
+    "url": "https://recetacubana.com/arroz-congri/",
+    "coverage": "Verificación del uso de frijoles colorados y sofrito en el congrí oriental. Cantidades y redacción de esta app son propias."
+  },
+  {
+    "id": "sides-moros",
+    "title": "Receta Cubana: moros y cristianos",
+    "url": "https://recetacubana.com/moros-y-cristianos/",
+    "coverage": "Verificación de la preparación conjunta de arroz y frijoles negros. Los nombres regionales y familiares pueden variar."
+  },
+  {
+    "id": "sides-imperial",
+    "title": "A Sassy Spoon: Cuban Arroz Imperial",
+    "url": "https://asassyspoon.com/cuban-arroz-imperial/",
+    "coverage": "Verificación de las capas características de arroz, pollo, mayonesa y queso. No se reprodujo la receta del sitio."
+  },
+  {
+    "id": "sides-chorrera",
+    "title": "Receta Cubana: arroz con pollo a la chorrera",
+    "url": "https://recetacubana.es/arroz-con-pollo-a-la-chorrera/",
+    "coverage": "Verificación de su consistencia caldosa y del uso de cerveza en esta variante."
+  },
+  {
+    "id": "sides-frito",
+    "title": "Receta Cubana: arroz frito",
+    "url": "https://recetacubana.com/arroz-frito/",
+    "coverage": "Verificación del arroz frito como preparación de influencia china en la cocina cubana."
+  },
+  {
+    "id": "sides-ajiaco",
+    "title": "A Sassy Spoon: Ajiaco Cubano",
+    "url": "https://asassyspoon.com/ajiaco-cuban-country-stew/",
+    "coverage": "Verificación de la combinación de carnes, maíz, plátanos y distintas viandas. La fórmula y los pasos son elaboración editorial propia."
+  },
+  {
+    "id": "sides-croquetas",
+    "title": "A Sassy Spoon: Croquetas de Jamón",
+    "url": "https://asassyspoon.com/ham-croquettes/",
+    "coverage": "Verificación de la base de bechamel y jamón y de la necesidad de enfriar antes de formar. Redacción y proporciones propias."
+  },
+  {
+    "id": "sides-tamal",
+    "title": "A Sassy Spoon: Tamal en Cazuela",
+    "url": "https://asassyspoon.com/tamal-en-cazuela/",
+    "coverage": "Verificación del tamal en cazuela como preparación salada de maíz, sofrito y cerdo, distinta del majarete."
+  },
+  {
+    "id": "sides-fufu",
+    "title": "Receta Cubana: fufú de plátano",
+    "url": "https://recetacubana.com/fufu-de-platano/",
+    "coverage": "Verificación del plátano cocido y majado como base del fufú cubano."
+  },
+  {
+    "id": "sides-safety",
+    "title": "FoodSafety.gov: temperaturas mínimas internas de cocción",
+    "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+    "coverage": "Fuente oficial para pollo y sobras a 74 °C; carne molida a 71 °C; pescado y cortes enteros de res o cerdo a 63 °C, con reposo de tres minutos para estos cortes de carne; huevos con clara y yema firmes."
+  },
+  {
+    "id": "sides-beans",
+    "title": "University of California Agriculture and Natural Resources: cuidado con frijoles rojos secos",
+    "url": "https://www.ucanr.edu/sites/default/files/2022-01/362156.pdf",
+    "coverage": "Guía universitaria que recoge el remojo, descarte de agua y hervor de treinta minutos recomendado para frijoles rojos secos."
+  },
+  {
+    "id": "sides-yuca",
+    "title": "FAO: Cassava, Leaflet No. 5",
+    "url": "https://www.fao.org/4/x5425e/x5425e05.htm",
+    "coverage": "Verificación del pelado, cocción completa de la yuca en trozos y descarte del agua de cocción. La app especifica yuca dulce comercial."
+  },
+  {
+    "id": "sides-chill",
+    "title": "CDC: Preventing Food Poisoning",
+    "url": "https://www.cdc.gov/food-safety/prevention/index.html",
+    "coverage": "Referencia para refrigerar alimentos perecederos y sobras dentro de dos horas, o una hora por encima de 32 °C."
+  },
+  {
+    "id": "dulce-pastelitos",
+    "title": "A Sassy Spoon — Guava Cheese Pastries",
+    "url": "https://asassyspoon.com/pastelitos-de-guayaba/",
+    "coverage": "Contraste del uso de hojaldre y pasta de guayaba para pastelitos; la versión sin queso tiene cantidades y redacción propias."
+  },
+  {
+    "id": "dulce-pastelitos-queso",
+    "title": "King Arthur Baking — Guava Cream Cheese Pastries",
+    "url": "https://www.kingarthurbaking.com/recipes/guava-cream-cheese-pastries-pastelitos-recipe",
+    "coverage": "Contraste de la pareja guayaba/queso y del formato de pastelito; la app usa hojaldre comercial y otra formulación."
+  },
+  {
+    "id": "dulce-marquesitas",
+    "title": "My Cuban Traumas — Marquesitas",
+    "url": "https://mycubantraumas.blogspot.com/2022/01/marquesitas.html",
+    "coverage": "Identificación de la marquesita cubana como porción de panetela rellena y cubierta con merengue. No se confundió con la crepa de Yucatán. La versión de la app modifica bizcocho, proporciones y cocción del merengue."
+  },
+  {
+    "id": "dulce-torticas",
+    "title": "CasaCuba, Florida International University — Torticas de Morón, Fernando Saralegui",
+    "url": "https://casacuba.fiu.edu/programs/virtual-ventanita/encasa/fernando-saralegui/encasa-con-fernando---torticas-de-moron--.pdf",
+    "coverage": "Contraste del perfil de galleta quebradiza, grasa sólida, lima y acabado pálido. No se trasladaron afirmaciones históricas/geográficas del documento."
+  },
+  {
+    "id": "dulce-capuchinos",
+    "title": "Three Guys From Miami — Capuchinos",
+    "url": "https://icuban.com/food/capuchinos.html",
+    "coverage": "Contraste del bizcocho de yemas bañado en almíbar y del formato tradicional de cono. La app adapta el molde y usa una fórmula propia de almidón."
+  },
+  {
+    "id": "dulce-pan-gloria",
+    "title": "Todo Cuba — Pan de Gloria",
+    "url": "https://www.todocuba.org/la-receta-cubana-del-pan-de-gloria-paso-a-paso/",
+    "coverage": "Contraste del pan dulce de especias y acabado de miel y azúcar. Se corrigió el borrador para no presentar pasas y huevos como rasgos necesarios. La adaptación doméstica prescinde de malta en polvo."
+  },
+  {
+    "id": "dulce-pan-cubano",
+    "title": "King Arthur Baking — Cuban Sandwich, receta de pan",
+    "url": "https://www.kingarthurbaking.com/recipes/cuban-sandwich-recipe",
+    "coverage": "Contraste del pan para bocaditos; fórmula doméstica directa propia. No se reproduce el relleno del sándwich de la fuente."
+  },
+  {
+    "id": "dulce-medianoche",
+    "title": "Three Guys From Miami — Pan Medianoche",
+    "url": "https://icuban.com/food/pan_medianoche.html",
+    "coverage": "Contraste del pan dulce enriquecido con huevo y formado en rollos. La app utiliza leche y mantequilla en su propia formulación."
+  },
+  {
+    "id": "dulce-gaceniga",
+    "title": "My Cuban Traumas — Gaceñiga",
+    "url": "https://mycubantraumas.blogspot.com/2011/10/gaceniga.html",
+    "coverage": "Contraste de la forma rectangular del panqué y la variante con pasas. No se incorporaron relatos de origen histórico."
+  },
+  {
+    "id": "dulce-masas-reales",
+    "title": "Cocina de Revista — Masareales",
+    "url": "https://micocinaderevista.blogspot.com/2013/08/masareales.html",
+    "coverage": "Contraste de masa dulce con guayaba entre capas. Se elaboró una proporción propia y pasos originales."
+  },
+  {
+    "id": "dulce-tatianoff",
+    "title": "CiberCuba Cocina — Tatianoff",
+    "url": "https://www.cibercuba.com/cocina/recetas/tatianoff",
+    "coverage": "Contraste del cake de varias capas y crema de mantequilla/cacao. La app evita huevo crudo en la cobertura y no reproduce la historia del plato."
+  },
+  {
+    "id": "dulce-cusube",
+    "title": "ASALE — Cusubé",
+    "url": "https://www.asale.org/damer/cusub%C3%A9",
+    "coverage": "Referencia terminológica primaria: preparación dulce seca de almidón de yuca. ASALE no aporta una receta; las cantidades de la app constituyen una adaptación doméstica propia."
+  },
+  {
+    "id": "seguridad-huevos",
+    "title": "FoodSafety.gov — Safe Minimum Internal Temperatures",
+    "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+    "coverage": "Referencia oficial para la temperatura mínima de 71 °C en preparaciones con huevo. No respalda tiempos de horneado, fórmulas de merengue ni texturas de las recetas; esos detalles son decisiones culinarias de la adaptación."
+  }
+]

@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#0e514b">
+  <meta name="description" content="200 recetas de cocina cubana, pastelería y postres. Cocina paso a paso, guarda tus favoritos y organiza tu menú y tus compras.">
+  <title>Cocina Cubana · El sabor de casa</title>
+  <link rel="icon" href="assets/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="assets/icon-192.png">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Saltar al contenido</a>
+  <aside class="sidebar" aria-label="Navegación principal">
+    <a class="brand" href="#inicio" aria-label="Cocina Cubana, inicio"><span class="brand-icon" aria-hidden="true">✦</span><span>Cocina<span class="brand-bottom">Cubana<span class="brand-dot">.</span></span></span></a>
+    <div class="sidebar-caption">EL SABOR DE CASA</div>
+    <nav id="main-nav"></nav>
+    <div class="sidebar-note"><span aria-hidden="true">✳</span><p>Un poquito de Cuba<br>en tu cocina.</p><small>Recetas para compartir.</small></div>
+    <div class="sidebar-bottom"><button class="plain-button" id="text-size-button" aria-pressed="false"><span aria-hidden="true">Aa</span> Texto grande</button><button class="plain-button" data-view="ayuda"><span data-icon="help"></span> Ayuda y privacidad</button><span class="version-label">Recetario · Edición 1.0</span></div>
+  </aside>
+  <div class="app-shell">
+    <header class="topbar"><a href="#inicio" class="mobile-brand">Cocina Cubana<span>.</span></a><div class="breadcrumb" id="breadcrumb">Nuestra cocina</div><div class="header-right"><span class="offline-indicator" id="offline-indicator" hidden>Sin conexión</span><button class="icon-button" id="install-button" hidden aria-label="Instalar aplicación"><span data-icon="download"></span></button><button class="header-saved" data-view="favoritos" aria-label="Abrir mi recetario"><span data-icon="heart"></span><span>Mi recetario</span><b id="favorite-count">0</b></button><button class="icon-button" data-view="ayuda" aria-label="Ayuda, privacidad y texto grande"><span data-icon="help"></span></button></div></header>
+    <main id="main" tabindex="-1"><div class="loading-state"><span class="loading-spinner"></span><h1>Preparando el recetario…</h1><p>Los sabores de casa, en un solo lugar.</p></div></main>
+    <footer class="app-footer"><span>Cocina Cubana <b>·</b> Hecho para cocinar y compartir</span><button data-view="ayuda">Acerca del recetario</button></footer>
+  </div>
+  <nav class="mobile-nav" aria-label="Navegación móvil" id="mobile-nav"></nav>
+  <dialog id="recipe-dialog" class="recipe-dialog" aria-labelledby="recipe-title"></dialog>
+  <dialog id="plan-dialog" class="small-dialog" aria-labelledby="plan-title"></dialog>
+  <dialog id="picker-dialog" class="picker-dialog" aria-labelledby="picker-title"></dialog>
+  <dialog id="cook-dialog" class="cook-dialog" aria-labelledby="cook-title"></dialog>
+  <div class="timer-dock" id="timer-dock" hidden></div>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <script src="app.js" defer></script>
+</body>
+</html>
