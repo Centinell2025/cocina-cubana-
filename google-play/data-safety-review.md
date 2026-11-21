@@ -1,7 +1,7 @@
 # Cocina Cubana: revisión de Seguridad de los datos
 
 **Borrador para la propietaria — 21 de noviembre de 2026.**  
-Aplicación: `com.beaconoftheeagle.cocinacubana`, versión `1.0.0` (código `1`).
+Aplicación: `com.beaconoftheeagle.cocinacubana`, versión `1.0.1` (código `2`).
 
 Estas conclusiones se basan en la arquitectura preparada y el contenido auditado. Deben contrastarse con el AAB final, el manifiesto combinado y la prueba en Android. Este documento no representa respuestas ya enviadas a Google.
 
@@ -55,8 +55,12 @@ Si el usuario envía un correo de soporte, la empresa sí recibe ese mensaje. Es
 
 ## Referencias oficiales
 
-- [Cómo completar Seguridad de los datos](https://support.google.com/googleplay/android-developer/answer/10417469?hl=es): incluye tratamiento en el dispositivo, servicios de terceros y excepciones para ciertas transferencias iniciadas por el usuario.
+- [Cómo completar Seguridad de los datos](https://support.google.com/googleplay/android-developer/answer/10787469?hl=es): incluye tratamiento en el dispositivo, servicios de terceros y excepciones para ciertas transferencias iniciadas por el usuario.
 - [Política de datos del usuario](https://support.google.com/googleplay/android-developer/answer/10144311?hl=es): política de privacidad, transparencia y correspondencia con el comportamiento real.
 - [Eliminación de cuentas](https://support.google.com/googleplay/android-developer/answer/13327111?hl=es): revisar si una versión posterior incorpora creación de cuentas.
 
 **Cambio futuro:** añadir anuncios, cuentas, sincronización, analítica, notificaciones con servicios remotos o un lector de voz en línea exige volver a revisar este documento, la política y las respuestas de Play Console.
+
+## Estado en Play Console
+
+El 21 de noviembre de 2026 se guardó el cuestionario con «No» a recopilación o compartición de datos declarables, tras revisar el manifiesto sin permisos de red, las voces sin conexión y el respaldo desactivado. Público configurado desde los 13 años. No equivale a aprobación de Google ni a una prueba ejecutada en Android. Véase `estado-publicacion.md`. El correo de Centinell fue confirmado por la propietaria.

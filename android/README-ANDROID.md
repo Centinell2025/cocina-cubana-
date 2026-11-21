@@ -106,7 +106,7 @@ La configuración de destino API, la compilación y los controles del proyecto n
 
 ### Smoke test Android aislado
 
-Se incluye un único test de instrumentación sin bibliotecas de pruebas externas. Verifica el manifiesto sin permisos, respaldo desactivado, API 36, catálogos español e inglés de 1.078 recetas, 1.078 imágenes locales, arranque de la Activity, DOM, puente Android, decodificación de una imagen y ausencia de recursos remotos al iniciar. Solo acepta el identificador `.debug`; no abre ni modifica la instalación de producción o la de prueba de la propietaria. No hace clics, no introduce datos ni genera capturas.
+Se incluye un único test de instrumentación sin bibliotecas de pruebas externas. Verifica el manifiesto sin permisos, respaldo desactivado, API 36, catálogos español e inglés de 1.041 recetas, 1.041 imágenes locales, arranque de la Activity, DOM, puente Android, decodificación de una imagen y ausencia de recursos remotos al iniciar. Solo acepta el identificador `.debug`; no abre ni modifica la instalación de producción o la de prueba de la propietaria. No hace clics, no introduce datos ni genera capturas.
 
 ```sh
 ./gradlew :app:assembleDebug :app:assembleDebugAndroidTest
