@@ -2,4 +2,11 @@ node_modules/
 *.log
 *.tar.gz
 .DS_Store
-/work/
+
+# Android build outputs and local signing configuration
+.gradle/
+**/build/
+local.properties
+*.jks
+*.keystore
+*.p12

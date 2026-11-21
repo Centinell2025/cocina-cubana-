@@ -217,3 +217,9 @@ Se retiran 36 bebidas ajenas a la selección tradicional, incluidas todas las qu
 ## 1.13.1 — Retirada de peras
 
 Se eliminan las cuatro recetas con pera de ambos catálogos, de las colecciones y del manifiesto de imágenes: r623, r626, r931 y r941. Se conservan los IDs del resto y se actualizan el total (1041), las categorías y la caché de la aplicación.
+
+
+## Android 1.0.1 (código 2)
+
+El proyecto Android está en `android/`; las instrucciones de compilación están en `android/README-ANDROID.md`. Incluye el catálogo actual de 1041 recetas en español e inglés y todas sus imágenes para consulta sin conexión. El AAB firmado fue cargado y aceptado en Google Play Console para prueba interna; esto no acredita publicación de producción. La verificación de la entrega está en `google-play/releases/1.0.1/verification.json`. La prueba funcional en un dispositivo Android sigue pendiente. Las claves privadas y los archivos de firma no forman parte del repositorio.
+

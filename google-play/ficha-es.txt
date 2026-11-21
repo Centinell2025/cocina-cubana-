@@ -1,0 +1,37 @@
+NOMBRE DE LA APLICACIÓN
+Cocina Cubana
+
+DESCRIPCIÓN BREVE
+Recetas cubanas sin conexión, favoritos, menú semanal y lista de compras
+
+DESCRIPCIÓN COMPLETA
+Lleva la cocina cubana contigo. Explora 1.041 recetas en español e inglés, con ingredientes, preparación e imágenes incluidas en la aplicación para consultarlas sin conexión.
+
+Encuentra ideas para cada ocasión entre carnes, aves, pescados y mariscos, arroces, granos y sopas, viandas y ensaladas, entrantes, pastelería, postres y bebidas.
+
+Organiza tu cocina a tu manera:
+• Busca recetas y explora sus categorías.
+• Guarda tus favoritas y añade notas personales.
+• Prepara tu menú semanal y tu lista de compras.
+• Consulta ingredientes y pasos mientras cocinas.
+• Utiliza el temporizador con la aplicación abierta.
+• Escucha la lectura con las voces sin conexión instaladas en tu dispositivo.
+• Comparte recetas mediante la aplicación que elijas e imprime con las opciones de Android.
+• Exporta o importa tus datos en un archivo JSON elegido por ti.
+
+Las recetas y sus imágenes están incluidas en la app. Los favoritos, notas, menús, compras y preferencias se guardan en tu dispositivo. No necesitas crear una cuenta; la aplicación no incluye anuncios ni herramientas de analítica.
+
+Puedes cambiar entre español e inglés. La disponibilidad de lectura en voz alta depende de las voces sin conexión instaladas. El temporizador funciona mientras usas la app y puede retrasarse si Android la suspende o el dispositivo entra en reposo.
+
+Los enlaces a fuentes se abren en tu navegador únicamente cuando los seleccionas. Compartir, imprimir o guardar un archivo en un proveedor externo utiliza el servicio que tú elijas y puede requerir conexión.
+
+Cocina Cubana es una aplicación de Beacon of the Eagle LLC.
+
+CATEGORÍA SUGERIDA
+Comida y bebida
+
+NOTAS PARA LA PROPIETARIA — NO PEGAR COMO DESCRIPCIÓN
+Precio previsto en Estados Unidos: US$2.50, pago único. Países de distribución pendientes de configurar en Console.
+Correo candidato de soporte: centinellsuite@gmail.com. Confirmar antes de publicar.
+No anunciar registro de derechos de autor ni afirmar que todas las recetas fueron probadas en cocina.
+Validar las funciones descritas en un teléfono Android antes de enviar a revisión.

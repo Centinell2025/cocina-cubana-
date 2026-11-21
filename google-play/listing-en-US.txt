@@ -1,0 +1,37 @@
+APP NAME
+Cocina Cubana
+
+SHORT DESCRIPTION
+Offline Cuban recipes, favorites, weekly meal planning and shopping lists
+
+FULL DESCRIPTION
+Bring Cuban cooking with you. Explore 1,041 recipes in Spanish and English, with ingredients, preparation steps and images included in the app for offline use.
+
+Find ideas for everyday meals and special occasions across meat, poultry, fish and seafood, rice, beans and soups, root vegetables and salads, starters, pastries, desserts and drinks.
+
+Make the collection your own:
+• Search recipes and browse categories.
+• Save favorites and add personal notes.
+• Organize your weekly menu and shopping list.
+• Follow ingredients and preparation steps while cooking.
+• Use the timer while the app is open.
+• Listen with offline voices installed on your device.
+• Share recipes through an app you choose and print using Android's available options.
+• Export or import your data using a JSON file you select.
+
+Recipes and their images are included in the app. Favorites, notes, menus, shopping lists and preferences stay on your device. No account is required, and the app includes no advertisements or analytics tools.
+
+Switch between Spanish and English. Read-aloud availability depends on the offline voices installed on your device. The timer runs while you use the app and may be delayed if Android suspends it or the device goes to sleep.
+
+Source links open in your browser only when you select them. Sharing, printing or saving a file with an external provider uses the service you choose and may require an internet connection.
+
+Cocina Cubana is an app by Beacon of the Eagle LLC.
+
+SUGGESTED CATEGORY
+Food & Drink
+
+OWNER NOTES — DO NOT PASTE INTO THE STORE DESCRIPTION
+Planned US price: US$2.50, one-time purchase. Distribution countries remain to be configured in Console.
+Proposed support email: centinellsuite@gmail.com. The owner must confirm it before publication.
+Do not claim copyright registration or that every recipe has been kitchen-tested.
+Verify the described features on an Android phone before submitting for review.

@@ -1,0 +1,103 @@
+plugins {
+    id 'com.android.application'
+}
+
+def signingNames = [
+    'COCINA_KEYSTORE_PATH',
+    'COCINA_KEYSTORE_PASSWORD',
+    'COCINA_KEY_ALIAS',
+    'COCINA_KEY_PASSWORD'
+]
+def signingValues = signingNames.collectEntries { name -> [(name): System.getenv(name)] }
+def hasAnySigningValue = signingValues.values().any { value -> value != null && !value.isEmpty() }
+def hasAllSigningValues = signingValues.values().every { value -> value != null && !value.isEmpty() }
+if (hasAnySigningValue && !hasAllSigningValues) {
+    throw new GradleException('Define las cuatro variables COCINA_KEYSTORE_PATH, COCINA_KEYSTORE_PASSWORD, COCINA_KEY_ALIAS y COCINA_KEY_PASSWORD, o elimina las cuatro para generar un paquete sin firma.')
+}
+
+android {
+    namespace 'com.beaconoftheeagle.cocinacubana'
+    compileSdk 36
+    buildToolsVersion '35.0.0'
+
+    defaultConfig {
+        applicationId 'com.beaconoftheeagle.cocinacubana'
+        minSdk 26
+        targetSdk 36
+        versionCode 2
+        versionName '1.0.1'
+        resConfigs 'es', 'en'
+        manifestPlaceholders = [launcherLabel: 'Cocina Cubana']
+        testInstrumentationRunner 'com.beaconoftheeagle.cocinacubana.OfflineSmokeInstrumentation'
+    }
+
+    sourceSets {
+        main {
+            // The complete catalog is packaged in the Android bundle, including illustrations.
+            assets.srcDirs = [rootProject.file('../dist')]
+        }
+    }
+
+    signingConfigs {
+        if (hasAllSigningValues) {
+            release {
+                storeFile file(signingValues['COCINA_KEYSTORE_PATH'])
+                storePassword signingValues['COCINA_KEYSTORE_PASSWORD']
+                keyAlias signingValues['COCINA_KEY_ALIAS']
+                keyPassword signingValues['COCINA_KEY_PASSWORD']
+            }
+        }
+    }
+
+    buildTypes {
+        debug {
+            debuggable true
+            applicationIdSuffix '.debug'
+            versionNameSuffix '-debug'
+            manifestPlaceholders = [launcherLabel: 'Cocina Cubana QA']
+        }
+        release {
+            debuggable false
+            minifyEnabled false
+            shrinkResources false
+            if (hasAllSigningValues) {
+                signingConfig signingConfigs.release
+            }
+        }
+        preview {
+            initWith release
+            debuggable false
+            applicationIdSuffix '.preview'
+            versionNameSuffix '-preview'
+            manifestPlaceholders = [launcherLabel: 'Cocina Cubana Prueba']
+            matchingFallbacks = ['release']
+        }
+    }
+
+    buildFeatures {
+        buildConfig true
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+}
+
+dependencies {
+    implementation 'androidx.webkit:webkit:1.14.0'
+}
+
+tasks.register('checkUploadSigning') {
+    group = 'verification'
+    description = 'Checks whether the release upload-signing environment is configured.'
+    doLast {
+        if (!hasAllSigningValues) {
+            throw new GradleException('La firma de carga no está configurada. Un AAB sin firma no puede subirse a Google Play. Configura las cuatro variables COCINA_* sin guardarlas en el proyecto.')
+        }
+        if (!file(signingValues['COCINA_KEYSTORE_PATH']).isFile()) {
+            throw new GradleException('No se encuentra el archivo de clave de carga indicado por COCINA_KEYSTORE_PATH.')
+        }
+        logger.lifecycle('Firma de carga configurada mediante variables de entorno.')
+    }
+}

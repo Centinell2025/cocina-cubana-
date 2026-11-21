@@ -1,0 +1,16 @@
+COCINA CUBANA — ANDROID 1.0.1 (CÓDIGO 2)
+
+Paquete de Google Play: Cocina_Cubana_1.0.1_Google_Play.aab
+Paquete: com.beaconoftheeagle.cocinacubana
+Contiene 1041 recetas en español, 1041 en inglés y 1041 imágenes individuales.
+El AAB está firmado con la clave de carga existente. Android mínimo 8 / API 26; objetivo Android 16 / API 36.
+
+APK opcional de prueba: Cocina_Cubana_1.0.1_Prueba.apk, app separada Cocina Cubana Prueba.
+Compilación, firmas, estructura y correspondencia de todos los recursos verificadas.
+Prueba de funcionamiento en un teléfono Android pendiente; no se simulan capturas de tienda.
+
+Precio previsto en Estados Unidos: US$2.50, pago único.
+Política pública: https://centinell2025.github.io/cocina-cubana-/dist/privacy.html
+Soporte: centinellsuite@gmail.com
+
+La app ya fue creada en Play Console y el AAB fue cargado y aceptado en una versión interna. Se conserva como borrador mientras se configuran probadores y se autoriza su publicación interna. No está publicada para el público ni aprobada para producción.

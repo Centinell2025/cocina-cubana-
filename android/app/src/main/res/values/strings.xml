@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cocina Cubana</string>
+    <string name="accept">Aceptar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="retry">Volver a abrir</string>
+    <string name="share_chooser">Compartir con</string>
+    <string name="error_title">No se pudo abrir el recetario</string>
+    <string name="error_loading">Cierra y vuelve a abrir la aplicación. Si el problema continúa, actualiza Android System WebView desde Google Play.</string>
+    <string name="error_renderer">Android cerró la pantalla del recetario. Puedes volver a abrirla; tus datos guardados permanecen en este dispositivo.</string>
+    <string name="update_webview">Actualizar WebView o Chrome</string>
+    <string name="error_webview_old">Actualiza Android System WebView o Chrome a la versión 100 o posterior desde Google Play y vuelve a abrir la aplicación. Este recetario necesita una versión compatible para mostrar correctamente sus funciones.</string>
+    <string name="error_bridge">Actualiza Android System WebView para usar las funciones de Android de esta aplicación.</string>
+    <string name="error_request">No se pudo procesar esta acción.</string>
+    <string name="error_action">Esta acción no está disponible.</string>
+    <string name="error_text">El texto está vacío o supera el tamaño permitido.</string>
+    <string name="error_busy">Termina primero la selección de archivo que está abierta.</string>
+    <string name="error_file_size">La copia supera el máximo de 32 MiB.</string>
+    <string name="error_file_format">Selecciona una copia JSON válida de Cocina Cubana.</string>
+    <string name="error_file_read">No se pudo abrir la copia seleccionada.</string>
+    <string name="error_file_write">No se pudo guardar la copia. Elige otra ubicación y vuelve a intentarlo.</string>
+    <string name="error_file_picker">No hay un selector de documentos disponible en este dispositivo.</string>
+    <string name="error_file_interrupted">La selección de archivo se interrumpió al reiniciarse la aplicación. Vuelve a exportar o importar la copia.</string>
+    <string name="error_external">No hay una aplicación disponible para abrir este enlace.</string>
+    <string name="error_print">La impresión no está disponible en este dispositivo.</string>
+    <string name="error_speech">La lectura en voz alta no está disponible en este dispositivo.</string>
+    <string name="error_speech_starting">El lector de voz está iniciándose. Vuelve a intentarlo en un momento.</string>
+    <string name="error_offline_voice">Instala una voz sin conexión para este idioma en los ajustes de voz de Android y vuelve a intentarlo.</string>
+    <string name="error_speech_text">El texto supera el límite de lectura en voz alta.</string>
+    <string name="error_download">Usa «Exportar mis datos» en Ayuda para guardar una copia.</string>
+</resources>

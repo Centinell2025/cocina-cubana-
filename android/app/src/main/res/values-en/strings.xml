@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cocina Cubana</string>
+    <string name="accept">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="retry">Open again</string>
+    <string name="share_chooser">Share with</string>
+    <string name="error_title">The recipe collection could not open</string>
+    <string name="error_loading">Close and reopen the app. If the problem continues, update Android System WebView in Google Play.</string>
+    <string name="error_renderer">Android closed the recipe screen. You can reopen it; your saved data remains on this device.</string>
+    <string name="update_webview">Update WebView or Chrome</string>
+    <string name="error_webview_old">Update Android System WebView or Chrome to version 100 or later in Google Play, then reopen the app. This recipe collection needs a compatible version to display its features correctly.</string>
+    <string name="error_bridge">Update Android System WebView to use this app’s Android features.</string>
+    <string name="error_request">This action could not be processed.</string>
+    <string name="error_action">This action is not available.</string>
+    <string name="error_text">The text is empty or exceeds the allowed size.</string>
+    <string name="error_busy">Finish the document selection that is already open.</string>
+    <string name="error_file_size">The backup exceeds the 32 MiB limit.</string>
+    <string name="error_file_format">Select a valid Cocina Cubana JSON backup.</string>
+    <string name="error_file_read">The selected backup could not be opened.</string>
+    <string name="error_file_write">The backup could not be saved. Select a different location and try again.</string>
+    <string name="error_file_picker">No document picker is available on this device.</string>
+    <string name="error_file_interrupted">Document selection was interrupted when the app restarted. Please export or import the backup again.</string>
+    <string name="error_external">No app is available to open this link.</string>
+    <string name="error_print">Printing is not available on this device.</string>
+    <string name="error_speech">Reading aloud is not available on this device.</string>
+    <string name="error_speech_starting">The voice reader is starting. Please try again in a moment.</string>
+    <string name="error_offline_voice">Install an offline voice for this language in Android’s voice settings, then try again.</string>
+    <string name="error_speech_text">The text exceeds the text-to-speech limit.</string>
+    <string name="error_download">Use “Export my data” in Help to save a backup.</string>
+</resources>

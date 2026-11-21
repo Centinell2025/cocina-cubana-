@@ -1,0 +1,34 @@
+{
+  "version": "1.0.1",
+  "version_code": 2,
+  "package": "com.beaconoftheeagle.cocinacubana",
+  "artifacts": [
+    {
+      "filename": "Cocina_Cubana_1.0.1_Google_Play.aab",
+      "bytes": 116554668,
+      "sha256": "b5ff382f0be0fd7ca01fbb5ab7554e75d0df25ad73829bf5a74510d464c962d5",
+      "recipes_es": 1041,
+      "recipes_en": 1041,
+      "images": 1041
+    },
+    {
+      "filename": "Cocina_Cubana_1.0.1_Prueba.apk",
+      "bytes": 116511049,
+      "sha256": "a5352966d2449ea31e5689ff16261bf1bbb2c0e513f456590af51a613d5d9219",
+      "recipes_es": 1041,
+      "recipes_en": 1041,
+      "images": 1041
+    }
+  ],
+  "native_device_test": "not_run_no_device_available",
+  "google_play_uploaded": true,
+  "checks": {
+    "aab_signature": "verified_with_jarsigner",
+    "apk_signature": "verified_with_apksigner",
+    "bundle_structure": "bundletool_validation_passed",
+    "packaged_web_assets": "all_match_current_web_source_byte_for_byte"
+  },
+  "google_play_release": "internal_testing",
+  "google_play_release_status": "draft",
+  "google_play_public": false
+}
