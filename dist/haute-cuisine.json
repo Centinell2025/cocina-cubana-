@@ -1,0 +1,177 @@
+{
+  "title": "Del recetario al pase",
+  "intro": "La alta cocina empieza por un sabor reconocible y bien ejecutado. Esta edición propone afinar cada receta cubana con preparación ordenada, control de la cocción, emplatado intencional y servicio a tiempo.",
+  "status": "Propuestas culinarias para desarrollar y probar en cocina. Esta colección no tiene distinciones, certificación ni afiliación Michelin. Las estrellas se conceden a restaurantes y la máxima distinción es de tres.",
+  "referenceSourceIds": ["alta-cocina-michelin"],
+  "principles": [
+    {"title": "Producto", "text": "Escoge el ingrediente por su madurez, frescura y comportamiento en la receta. Registra proveedor, variedad y peso útil cuando cambies de lote."},
+    {"title": "Sabor", "text": "Prueba una porción completa con su salsa y acompañamiento. Ajusta sal, acidez y dulzor en pequeñas cantidades y anota el resultado."},
+    {"title": "Técnica", "text": "Define un punto de cocción observable. Usa la temperatura segura de la ficha cuando corresponda; el tiempo y el color por sí solos no la sustituyen."},
+    {"title": "Identidad", "text": "Decide qué sabor o textura hace reconocible al plato. Conserva ese centro al proponer una nueva forma de servirlo."},
+    {"title": "Constancia", "text": "Pesa porciones y comprueba varias tandas. Una ficha estable necesita pruebas con tus ingredientes, equipos y ritmo de servicio."}
+  ],
+  "principlesNote": "Estas acciones son nuestra aplicación editorial de criterios de calidad culinaria. No son un sistema de puntuación de Michelin ni una garantía de obtener estrellas.",
+  "workshops": [
+    {
+      "title": "Preparación previa · mise en place",
+      "subtitle": "Organizar antes de encender el fuego",
+      "steps": ["Lee la receta completa y separa cocción, enfriado, reposo y acabado.", "Pesa los ingredientes y prepara los cortes indicados. Rotula componentes y reserva los perecederos en frío.", "Coloca utensilios y vajilla al alcance. Define qué preparación puede esperar y cuál debe salir al momento."],
+      "recipeIds": ["r001", "r148", "r166"]
+    },
+    {
+      "title": "Fondos, sofritos y salsas",
+      "subtitle": "Concentración y equilibrio",
+      "steps": ["Cocina el sofrito con control del fuego, sin quemar el ajo ni la base de tomate.", "Para concentrar una salsa, reduce su líquido y prueba antes de añadir más sal; no espeses todas las preparaciones de la misma manera.", "Decide si conviene conservar una textura rústica o pasar la salsa por un colador. Sírvela en una cantidad que acompañe al ingrediente principal."],
+      "recipeIds": ["r026", "r046", "r015"]
+    },
+    {
+      "title": "Texturas con intención",
+      "subtitle": "Cremoso, crujiente y jugoso",
+      "steps": ["Elige un contraste que aporte sabor y que ya pertenezca a la fórmula.", "Monta frituras y hojaldres cerca del servicio para conservar su textura; evita cubrirlos de salsa con anticipación.", "En purés y cremas, controla el agua y comprueba el acabado antes de añadir más grasa."],
+      "recipeIds": ["r107", "r124", "r136"]
+    },
+    {
+      "title": "Pastelería y frío",
+      "subtitle": "Precisión que se puede repetir",
+      "steps": ["Pesa la masa y el relleno por pieza. Mantén el molde y el espesor de la tanda base como referencia.", "Respeta los tiempos de reposo y enfriado antes de cortar o desmoldar.", "Registra temperatura real del horno y rendimiento final. Conserva en frío las cremas y rellenos perecederos según las indicaciones de la receta."],
+      "recipeIds": ["r146", "r148", "r166"]
+    },
+    {
+      "title": "Emplatado y servicio",
+      "subtitle": "El plato debe poder comerse bien",
+      "steps": ["Sitúa el componente principal y deja espacio para usar los cubiertos. Evita alturas inestables y adornos que no se comen.", "Usa el acabado específico de cada ficha con los ingredientes que ya incluye; una decoración adicional requiere ajustar la fórmula.", "Coordina el montaje de toda la mesa, limpia los bordes y sirve las preparaciones calientes, frías o templadas como indique su ficha."],
+      "recipeIds": ["r001", "r049", "r173"]
+    },
+    {
+      "title": "Cuaderno de pruebas",
+      "subtitle": "Convertir una propuesta en una ficha propia",
+      "steps": ["Anota fecha, tamaño de tanda, equipo, pesos de entrada y rendimiento final en las notas de la receta.", "Registra tiempo real, punto de cocción y observaciones de sabor, textura y servicio.", "Repite la preparación y compara. Modifica una variable cada vez antes de fijar la versión que usarás en producción."],
+      "recipeIds": ["r071", "r150", "r188"]
+    }
+  ],
+  "menus": [
+    {
+      "id": "memoria",
+      "name": "Memoria de la mesa cubana",
+      "description": "Cinco pases para recorrer viandas, legumbres, un guiso y el cierre dulce. Es una selección actual del recetario, no un menú histórico reconstruido.",
+      "courses": [
+        {"label": "Bocado de bienvenida", "recipeId": "r124", "portion": "1 fritura pequeña", "service": "Freír al momento y servir sin apilar."},
+        {"label": "Cuchara", "recipeId": "r086", "portion": "60–80 ml de frijoles con su caldo", "service": "Servir en una taza pequeña precalentada."},
+        {"label": "Centro de la mesa", "recipeId": "r001", "portion": "70–90 g de preparación terminada", "service": "Repartir hebras y salsa de forma uniforme."},
+        {"label": "Prepostre", "recipeId": "r173", "portion": "1 casco pequeño con poco almíbar", "service": "Servir fresco en un cuenco independiente."},
+        {"label": "Cierre", "recipeId": "r166", "portion": "1 porción pequeña de 50–70 g", "service": "Desmoldar en frío y repartir el caramelo de la receta."}
+      ]
+    },
+    {
+      "id": "costa",
+      "name": "Costa, huerta y coco",
+      "description": "Un recorrido de cinco pases con vegetales, pescado y fruta. Combina recetas existentes con un servicio de degustación propuesto por esta edición.",
+      "courses": [
+        {"label": "Bienvenida", "recipeId": "r134", "portion": "3–4 láminas pequeñas", "service": "Terminar la fritura antes de recibir a la mesa."},
+        {"label": "Huerta", "recipeId": "r114", "portion": "40–60 g de ensalada", "service": "Cortar y aliñar el aguacate cerca del servicio."},
+        {"label": "Plato del mar", "recipeId": "r049", "portion": "70–90 g de pescado cocido", "service": "Retirar espinas y distribuir el mojo en pequeñas cantidades."},
+        {"label": "Fruta", "recipeId": "r189", "portion": "30–40 ml", "service": "Presentar la preparación congelada en un recipiente pequeño."},
+        {"label": "Dulce final", "recipeId": "r167", "portion": "50–70 g de flan", "service": "Cortar en frío y mantener una porción limpia."}
+      ]
+    },
+    {
+      "id": "dulce",
+      "name": "Salón de dulces y café",
+      "description": "Cuatro bocados dulces y café. Alterna masas, cremas y fruta con porciones pequeñas; no hace falta acumular toda una porción habitual de cada receta.",
+      "courses": [
+        {"label": "Primer bocado", "recipeId": "r146", "portion": "1 tortica pequeña", "service": "Servir completamente fría para conservar la textura."},
+        {"label": "Hojaldre", "recipeId": "r137", "portion": "1 pieza pequeña", "service": "Servir recién horneada, cuando el relleno deje de quemar."},
+        {"label": "Cuchara", "recipeId": "r170", "portion": "40–60 ml de majarete", "service": "Porcionar en vasitos y enfriar según la ficha."},
+        {"label": "Corte dulce", "recipeId": "r160", "portion": "1 cuadrado pequeño", "service": "Cortar las masas reales una vez frías."},
+        {"label": "Café", "recipeId": "r191", "portion": "25–40 ml", "service": "Preparar al final del pase."}
+      ]
+    }
+  ],
+  "menuNote": "Los tamaños de degustación son sugerencias de servicio, no rendimientos comprobados. Calcula las tandas con el peso final real y los invitados; no multipliques todos los tiempos ni reduzcas temperaturas. Cada enlace conserva los ingredientes y la tanda base de su receta.",
+  "servicePlan": [
+    {"when": "Con anticipación", "action": "Prepara las elaboraciones que necesitan reposo o frío según sus fichas. Planifica la conservación de cada componente y rotula los recipientes."},
+    {"when": "Antes de recibir", "action": "Organiza los cortes y el material del primer pase. Revisa cantidades, alérgenos declarados y el orden de salida."},
+    {"when": "En el pase", "action": "Termina frituras, hojaldres y pescado cuando corresponda. Comprueba la cocción y monta porciones iguales sin detener toda la mesa."},
+    {"when": "Después del servicio", "action": "Registra rendimiento y ajustes en las notas de cada receta. Enfría y conserva los alimentos perecederos siguiendo una guía oficial."}
+  ],
+  "safetySourceIds": ["seguridad-temperaturas", "sides-chill"],
+  "occasions": [
+    {
+      "id": "ocasion-familia",
+      "name": "Domingo en familia",
+      "description": "Pollo asado al mojo con moros y cristianos, ensalada de aguacate y flan de leche para compartir. Prepara el flan con antelación y corta el aguacate cerca de sentarse a la mesa.",
+      "recipeIds": [
+        "r027",
+        "r068",
+        "r114",
+        "r166"
+      ],
+      "beverageId": "r196",
+      "pairing": "El aroma de guayaba y su acidez suave acompañan el mojo y contrastan con el tostado del pollo."
+    },
+    {
+      "id": "ocasion-cena-elegante",
+      "name": "Una cena con calma",
+      "description": "Abre con una porción pequeña de crema de malanga; continúa con lomo a la naranja y boniato asado, y termina con un éclair de café. Deja la crema del dulce fría y organiza el horno para servir carne y guarnición juntas.",
+      "recipeIds": [
+        "r094",
+        "r013",
+        "r111",
+        "r253"
+      ],
+      "beverageId": "r197",
+      "pairing": "El tamarindo aporta un contraste agridulce frente al lomo a la naranja y la textura cremosa de la malanga."
+    },
+    {
+      "id": "ocasion-mesa-vegetal",
+      "name": "Mesa vegetal",
+      "description": "Arroz de vegetales al sofrito y quimbombó guisado, con aguacate fresco y casquitos de guayaba al cierre. Mantén el caldo de verduras indicado en la receta de arroz y sirve el guiso junto a su acompañamiento.",
+      "recipeIds": [
+        "r114",
+        "r119",
+        "r080",
+        "r173"
+      ],
+      "beverageId": "r199",
+      "pairing": "La limonada con hierbabuena ofrece un contraste cítrico y herbal entre el sofrito, el aguacate y el quimbombó."
+    },
+    {
+      "id": "ocasion-merienda",
+      "name": "La merienda del café",
+      "description": "Una selección de pastelitos de guayaba y queso, panetela de vainilla y torticas para compartir en bocados pequeños. Prepara panetela y torticas antes y termina el hojaldre cerca del servicio, dejando templar su relleno.",
+      "recipeIds": [
+        "r137",
+        "r142",
+        "r146"
+      ],
+      "beverageId": "r192",
+      "pairing": "El café con leche combina notas tostadas y textura cremosa con el hojaldre, la vainilla y el cítrico de las torticas."
+    },
+    {
+      "id": "ocasion-costa",
+      "name": "Sabores de la costa",
+      "description": "Enchilado de camarones con arroz blanco y ensalada de tomate y pepino, seguido de flan de coco. Deja el postre refrigerado con antelación y cocina los camarones al final para conservar su textura.",
+      "recipeIds": [
+        "r046",
+        "r066",
+        "r115",
+        "r167"
+      ],
+      "beverageId": "r199",
+      "pairing": "El limón y la hierbabuena aportan frescura aromática frente a la salsa de tomate del enchilado y el coco del postre."
+    },
+    {
+      "id": "ocasion-celebracion",
+      "name": "Mesa de celebración",
+      "description": "Lechón al mojo, congrí oriental con frijoles colorados y yuca, con cake cubano de merengue para el cierre. Planifica la marinada refrigerada y la cocción larga del cerdo, y prepara el cake con tiempo para que repose.",
+      "recipeIds": [
+        "r004",
+        "r067",
+        "r106",
+        "r150"
+      ],
+      "beverageId": "r191",
+      "pairing": "El café con espumita acompaña el cake al final con notas tostadas que contrastan con la guayaba y el merengue."
+    }
+  ]
+}

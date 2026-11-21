@@ -1,0 +1,109 @@
+{
+  "edition": "Patrimonio y alta cocina",
+  "period": "1726–2026",
+  "intro": "Una lectura de tres siglos de cocina cubana, con antecedentes indígenas anteriores a ese periodo. Reunimos hitos documentados, memorias de la isla y de la diáspora, y una propuesta contemporánea para cocinar con precisión.",
+  "scope": "1726 es el inicio de la ventana editorial de 300 años, no una fecha de nacimiento de la cocina cubana. Esta cronología es una selección, no una historia exhaustiva. Las recetas de la app son formulaciones actuales: un ingrediente antiguo no convierte una receta nueva en histórica.",
+  "terminology": "Aquí, raíces indígenas se refiere a los pueblos originarios del Caribe, entre ellos los taínos. No se usa como sinónimo de la cocina de la India. Las aportaciones españolas y africanas son diversas; ninguna receta se reduce automáticamente a una sola procedencia.",
+  "roots": [
+    {
+      "id": "indigenas",
+      "name": "Raíces indígenas del Caribe",
+      "subtitle": "Yuca, casabe y continuidad cultural",
+      "text": "El Smithsonian documenta comunidades y descendientes indígenas en las Antillas, incluidas las sierras cubanas, y prácticas vivas como la preparación del casabe. Hablar de esta raíz exige reconocer a sus portadores actuales, además de su pasado.",
+      "kitchen": "En nuestra propuesta, las viandas se trabajan con cortes limpios y texturas contrastadas. Son reinterpretaciones actuales, no reconstrucciones de una mesa taína. Para cocinar yuca se utiliza yuca dulce comercial, bien pelada y cocida; el casabe se adquiere ya elaborado.",
+      "recipeIds": ["r106", "r107", "r177"],
+      "sourceIds": ["historia-taino", "sides-yuca", "historia-casabe"]
+    },
+    {
+      "id": "africanas",
+      "name": "Aportaciones africanas y afrocubanas",
+      "subtitle": "Saberes transmitidos, trabajo y creación",
+      "text": "El estudio de recetarios cubanos del siglo XIX encuentra fufú y quimbombó, y examina cómo las jerarquías raciales influyeron en su presencia posterior. Esta historia incluye la violencia de la esclavitud y también la agencia de quienes cocinaron y transmitieron sus saberes.",
+      "kitchen": "El fufú y el quimbombó se presentan como platos con identidad propia. El refinamiento puede consistir en controlar humedad, sal, corte y temperatura, sin borrar sus texturas ni su memoria.",
+      "recipeIds": ["r110", "r119", "r033"],
+      "sourceIds": ["historia-recetarios", "historia-cafe"]
+    },
+    {
+      "id": "espanolas",
+      "name": "Diálogos con las cocinas españolas",
+      "subtitle": "Recetarios, guisos y repostería",
+      "text": "El catálogo de la Real Academia de Gastronomía registra una edición habanera de 1864 del manual de J. P. Legran que reúne cocinas cubana y española y dedica una parte a pastelería, dulcería y repostería. Es evidencia documental de ese diálogo, no del origen exclusivo de cada dulce.",
+      "kitchen": "Trabajamos los guisos, los flanes y las masas del catálogo con acabados actuales. La edición diferencia una preparación tradicional de una variante propia, y no asigna una nacionalidad única a técnicas compartidas.",
+      "recipeIds": ["r088", "r166", "r179"],
+      "sourceIds": ["historia-manual-1864"]
+    }
+  ],
+  "connections": {
+    "title": "Una cocina de muchos caminos",
+    "text": "Las tres raíces destacadas no agotan la historia. Cuba Travel también reconoce aportaciones chinas e italianas; UNESCO documenta el legado franco-haitiano del café. La isla y sus comunidades emigradas siguen intercambiando productos y formas de cocinar.",
+    "sourceIds": ["cuba-cocina", "historia-cafe", "historia-diaspora"]
+  },
+  "timeline": [
+    {
+      "period": "Antes de 1726",
+      "title": "Antecedentes que siguen vivos",
+      "text": "La ventana de tres siglos no abarca el comienzo de las culturas indígenas. El Smithsonian muestra la continuidad y revitalización de prácticas e identidades antillanas, incluida la preparación del casabe.",
+      "sourceIds": ["historia-taino"]
+    },
+    {
+      "period": "Hacia 1780–1820",
+      "title": "El azúcar y el orden colonial",
+      "text": "El Smithsonian sitúa en este periodo un fuerte auge azucarero asociado al aumento de la esclavización de personas africanas. Este marco ayuda a leer la economía alimentaria sin romantizar el sistema que la sostuvo.",
+      "sourceIds": ["historia-azucar"]
+    },
+    {
+      "period": "Finales del XVIII–siglo XIX",
+      "title": "Las rutas del café",
+      "text": "El paisaje cafetalero del sudeste cubano conserva huellas de propietarios principalmente franceses y haitianos y del trabajo de africanos esclavizados. UNESCO documenta su influencia regional, incluida la gastronomía.",
+      "sourceIds": ["historia-cafe"]
+    },
+    {
+      "period": "1857–1858",
+      "title": "La cocina entra en los manuales",
+      "text": "La investigación de recetarios estudia los manuales cubano-español de Legran y catalano-cubano de Cabrisas, publicados en 1857 y 1858 respectivamente.",
+      "sourceIds": ["historia-recetarios"]
+    },
+    {
+      "period": "1864",
+      "title": "Un lugar para dulces y pastelería",
+      "text": "La edición de Legran catalogada por la Real Academia de Gastronomía organiza guisos, salsas y otras preparaciones junto a una sección dedicada a pastelería, dulcería y repostería.",
+      "sourceIds": ["historia-manual-1864"]
+    },
+    {
+      "period": "1903",
+      "title": "La mesa se nombra criolla",
+      "text": "El Manual del cocinero criollo de José E. Triay participa en la construcción de una identidad culinaria nacional, según el análisis histórico de estos libros.",
+      "sourceIds": ["historia-recetarios"]
+    },
+    {
+      "period": "1943",
+      "title": "Ingredientes y cocción más precisos",
+      "text": "La cocina y el hogar, de Dolores Alfonso y Rodríguez, separa ingredientes medidos e incorpora tiempos, temperaturas y porciones. Es un antecedente documental de la ficha culinaria detallada.",
+      "sourceIds": ["historia-recetarios"]
+    },
+    {
+      "period": "1992–1997",
+      "title": "La memoria viaja",
+      "text": "La Biblioteca del Congreso describe Memories of a Cuban Kitchen (1992), escrito desde recuerdos de infancia de emigradas en Estados Unidos, y Cocina Cubana (1997), con testimonios de emigradas en España. La memoria culinaria también se escribe fuera de la isla.",
+      "sourceIds": ["historia-diaspora"]
+    },
+    {
+      "period": "2024",
+      "title": "El casabe, patrimonio compartido",
+      "text": "UNESCO inscribió los conocimientos y prácticas de elaboración y consumo del casabe en una candidatura de Cuba, República Dominicana, Haití, Honduras y Venezuela. La inscripción reconoce una tradición compartida y a sus comunidades portadoras.",
+      "sourceIds": ["historia-casabe"]
+    },
+    {
+      "period": "2026 · propuesta de esta edición",
+      "title": "Cocinar la memoria con criterio propio",
+      "text": "Esta app reúne recetas y acabados contemporáneos. Cada ficha conserva su preparación base y añade organización, técnica, presentación y servicio. Las nuevas interpretaciones no se presentan como recetas antiguas ni como platos premiados.",
+      "sourceIds": []
+    }
+  ],
+  "method": [
+    "Las fuentes enlazadas permiten distinguir documentos históricos, investigación, patrimonio vivo y decisiones de esta edición.",
+    "Una fecha de publicación prueba que existe ese documento; no demuestra cuándo se inventó cada plato.",
+    "Los enlaces entre una raíz cultural y una receta son propuestas de lectura. No establecen una genealogía exclusiva del plato.",
+    "Las formulaciones y acabados son originales de esta colección. Necesitan pruebas reales de cocina antes de adoptarse como fichas de producción de un restaurante."
+  ]
+}

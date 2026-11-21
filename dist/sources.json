@@ -214,5 +214,125 @@
     "title": "FoodSafety.gov — Safe Minimum Internal Temperatures",
     "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
     "coverage": "Referencia oficial para la temperatura mínima de 71 °C en preparaciones con huevo. No respalda tiempos de horneado, fórmulas de merengue ni texturas de las recetas; esos detalles son decisiones culinarias de la adaptación."
+  },
+  {
+    "id": "historia-taino",
+    "title": "Smithsonian NMAI — The New Old World: Antilles, Living Beyond the Myth",
+    "url": "https://americanindian.si.edu/explore/exhibitions/item?id=567",
+    "coverage": "Documentación de continuidad y revitalización indígena antillana, incluidas prácticas del casabe. No fecha ni autentica las formulaciones de esta app."
+  },
+  {
+    "id": "historia-casabe",
+    "title": "UNESCO — Decisión 19.COM 7.B.32, conocimientos y prácticas del casabe (2024)",
+    "url": "https://ich.unesco.org/en/decisions/19.COM/7.B.32",
+    "coverage": "Inscripción multinacional del casabe y reconocimiento de sus comunidades portadoras. La referencia patrimonial no es una guía doméstica para procesar yuca amarga."
+  },
+  {
+    "id": "historia-azucar",
+    "title": "Smithsonian Folklife — From Cuba to Catalonia, Let’s Rumba",
+    "url": "https://folklife.si.edu/magazine/rumba-from-cuba-to-catalonia",
+    "coverage": "Entrevista al investigador Michael Atwood Mason: contexto del auge azucarero aproximadamente entre 1780 y 1820 y su relación con la esclavitud. Se utiliza solo para ese contexto, no como fuente de recetas."
+  },
+  {
+    "id": "historia-cafe",
+    "title": "UNESCO — Paisaje arqueológico de las primeras plantaciones de café del sudeste de Cuba",
+    "url": "https://whc.unesco.org/en/list/1008",
+    "coverage": "Evidencia patrimonial de las plantaciones y del legado franco-haitiano, trabajo esclavizado y cultura regional. No permite atribuir un origen concreto a cada receta de café de esta colección."
+  },
+  {
+    "id": "historia-manual-1864",
+    "title": "Real Academia de Gastronomía — Nuevo manual del cocinero cubano y español, edición de 1864",
+    "url": "https://realacademiadegastronomia.com/libro-biblioteca-dda/nuevo-manual-del-cocinero-cubano-y-espaol-con-un-tratado-escojido-sic-de-dulcera-pastelera-y-botillera-al-estilo-de-cuba-dividido-en-tres-partes/",
+    "coverage": "Registro bibliográfico y estructura de la edición habanera de 1864 atribuida a J. P. Legran, incluida su parte de repostería. La fecha es de la edición, no de invención de sus platos."
+  },
+  {
+    "id": "historia-recetarios",
+    "title": "Latin American Research Review — Fine Dining: Race in Prerevolution Cuban Cookbooks",
+    "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/91A681689A3D05EE941ADE4D113B3059/S0023879100008165a.pdf/fine_dining_race_in_prerevolution_cuban_cookbooks.pdf",
+    "coverage": "Investigación histórica de recetarios de 1857 a 1956, representaciones raciales, presencia de fufú y quimbombó y evolución del formato de las recetas. Se resume el análisis; no se copian recetas."
+  },
+  {
+    "id": "historia-diaspora",
+    "title": "Library of Congress — Bibliografía anotada de alimentación: Cuba",
+    "url": "https://guides.loc.gov/bibliografia-anotada-alimentacion/paises/cuba",
+    "coverage": "Fichas de Memories of a Cuban Kitchen (1992) y Cocina Cubana (1997), vinculadas con memorias y testimonios de emigradas cubanas."
+  },
+  {
+    "id": "alta-cocina-michelin",
+    "title": "Guía Michelin — What is a MICHELIN Star?",
+    "url": "https://guide.michelin.com/us/en/article/features/what-is-a-michelin-star",
+    "coverage": "Fuente primaria para los cinco criterios de evaluación culinaria, el máximo de tres estrellas y su concesión a restaurantes. No respalda, evalúa ni certifica esta aplicación o sus recetas."
+  },
+  {
+    "id": "ampliacion-postres-cremitas",
+    "url": "https://recetacubana.com/cremitas-de-leche/",
+    "title": "Receta Cubana — Cremitas de leche",
+    "coverage": "Referencia culinaria para el nombre y la textura de las cremitas de leche cubanas. La proporción, el acabado y la redacción del recetario son propios; no se atribuyen relatos de origen regional."
+  },
+  {
+    "id": "ampliacion-postres-fanguito",
+    "url": "https://www.cibercuba.com/cocina/recetas/fanguito",
+    "title": "CiberCuba Cocina — Fanguito",
+    "coverage": "Se consultó únicamente la denominación cubana fanguito para el dulce de leche condensada. No se adopta la cocción de una lata cerrada indicada en esa página."
+  },
+  {
+    "id": "ampliacion-postres-leche-horno",
+    "url": "https://www.eaglebrand.com/recipe/homemade-caramel-sauce/",
+    "title": "Eagle Brand — Homemade Caramel Sauce",
+    "coverage": "Fuente del fabricante para el principio de caramelizar leche condensada vertida en una fuente, cubierta y al baño María en el horno. La app presenta una adaptación con su propio acabado."
+  },
+  {
+    "id": "ampliacion-postres-azucar",
+    "url": "https://annex.exploratorium.edu/cooking/candy/sugar-stages.html",
+    "title": "Exploratorium — Candy-making stages",
+    "coverage": "Referencia técnica primaria para distinguir el punto de bola blanda de los puntos quebradizos del azúcar; las fórmulas y proporciones de los dulces de la app son editoriales."
+  },
+  {
+    "id": "ampliacion-postres-frio",
+    "url": "https://www.fda.gov/consumers/consumer-updates/are-you-storing-food-safely",
+    "title": "FDA — Are You Storing Food Safely?",
+    "coverage": "Conservación general: frigorífico a 4 °C o menos, congelador a −18 °C y refrigeración oportuna de alimentos perecederos. No verifica las recetas ni asigna una vida útil a cada postre."
+  },
+  {
+    "id": "ampliacion-pasteleria-fermentacion",
+    "title": "King Arthur Baking — What is proofing bread?",
+    "url": "https://www.kingarthurbaking.com/blog/2023/08/31/proofing-bread",
+    "coverage": "Referencia general para distinguir fermentación inicial y levado de piezas formadas y observar el volumen. No valida las fórmulas, tiempos ni recetas originales de esta ampliación."
+  },
+  {
+    "id": "ampliacion-pasteleria-choux",
+    "title": "King Arthur Baking — Pâte à choux perfected",
+    "url": "https://www.kingarthurbaking.com/blog/2018/06/12/pate-a-choux-perfected",
+    "coverage": "Referencia técnica general sobre expansión por vapor y secado de la masa choux. Rellenos, proporciones, instrucciones y presentaciones de la app son propuestas editoriales propias y no recetas ensayadas por la fuente."
+  },
+  {
+    "id": "ampliacion-salados-contexto",
+    "title": "Cuba Travel — Gastronomía",
+    "url": "https://www.cuba.travel/serviciosturisticos/gastronomia",
+    "coverage": "Contexto general de la cocina cubana como encuentro de influencias africanas, españolas, indígenas y otras. No documenta el origen ni certifica las fórmulas de estas treinta reinterpretaciones contemporáneas."
+  },
+  {
+    "id": "ampliacion-salados-temperaturas",
+    "title": "FoodSafety.gov — Safe Minimum Internal Temperature Chart",
+    "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+    "coverage": "Referencia oficial para temperaturas mínimas de aves, conejo, pescado, cerdo, huevo y recalentado; también aspecto de crustáceos cocidos y apertura de moluscos. Las cantidades, técnicas de presentación y tiempos estimados son elaboración editorial propia."
+  },
+  {
+    "id": "manjar-oriental-santiago",
+    "title": "José Ramón Bravo Vega — Cocina criolla y autóctona de Santiago de Cuba (2022)",
+    "url": "https://vinculando.org/vacaciones_viajes/turismo_sostenible/acciones-para-el-rescate-de-la-cocina-criolla-y-autoctona-de-santiago-de-cuba.html",
+    "coverage": "Investigación sobre la cocina santiaguera que identifica el boniatillo con anís como manjar oriental. Respalda la denominación regional, no las cantidades de nuestra versión."
+  },
+  {
+    "id": "melcocha-delicias-1925",
+    "title": "Delicias de la Mesa (1925) — Melcocha y matahambre; transcripción de Guije",
+    "url": "https://mail.guije.com/libros/cocina01/postres1/index.htm",
+    "coverage": "Recetario histórico de La Habana que recoge melcocha de melado de caña y matahambre de catibía. Respalda esas denominaciones y contextos; las cantidades, controles y métodos de esta edición son propuestas actuales."
+  },
+  {
+    "id": "grosella-tropical-jcu",
+    "title": "James Cook University — Phyllanthus acidus",
+    "url": "https://www.jcu.edu.au/discover-nature-at-jcu/plants/plants-by-scientific-name2/phyllanthus-acidus",
+    "coverage": "Identificación de la grosella tropical como Phyllanthus acidus, fruto comestible con semillas y uso en preparaciones dulces. No valida las cantidades, tiempos ni conservación de esta receta."
   }
 ]

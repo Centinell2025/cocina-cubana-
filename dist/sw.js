@@ -1,6 +1,6 @@
 'use strict';
-const CACHE='cocina-cubana-1.0.2';
-const FILES=['./','index.html','styles.css','app.js','recipes.json','sources.json','manifest.webmanifest',...['carnes','aves','pescados','arroces','granos_sopas','viandas_ensaladas','entrantes','pasteleria','postres','bebidas','mesa-cubana','icon'].map(name=>'assets/'+name+'.svg'),'assets/icon-192.png','assets/icon-512.png'];
+const CACHE='cocina-cubana-2.2.0';
+const FILES=['./','index.html','styles.css?v=2.2.0','app.js?v=2.2.0','recipes.json?v=2.2.0','sources.json?v=2.2.0','heritage.json?v=2.2.0','haute-cuisine.json?v=2.2.0','meat-cuts.json?v=2.2.0','collections.json?v=2.2.0','manifest.webmanifest','assets/hero-cubano.png','assets/postres-editorial.png','assets/pasteleria-editorial.png','assets/costa-editorial.png','assets/raices-editorial.png','assets/jugos-editorial.png','assets/asados-editorial.png',...['carnes','aves','pescados','arroces','granos_sopas','viandas_ensaladas','entrantes','pasteleria','postres','bebidas','mesa-cubana','icon'].map(name=>'assets/'+name+'.svg'),'assets/icon-192.png','assets/icon-512.png'];
 self.addEventListener('install',event=>{event.waitUntil((async()=>{const cache=await caches.open(CACHE);await cache.addAll(FILES);await self.skipWaiting();})());});
 self.addEventListener('activate',event=>{event.waitUntil((async()=>{for(const key of await caches.keys())if(key.startsWith('cocina-cubana-')&&key!==CACHE)await caches.delete(key);await self.clients.claim();for(const client of await self.clients.matchAll())client.postMessage({type:'OFFLINE_READY'});})());});
 self.addEventListener('fetch',event=>{const request=event.request,url=new URL(request.url);if(request.method!=='GET'||url.origin!==self.location.origin)return;
@@ -8,4 +8,4 @@ self.addEventListener('fetch',event=>{const request=event.request,url=new URL(re
   const hit=await cache.match(request);if(hit)return hit;return fetch(request);
   })());
 });
-self.addEventListener('message',event=>{if(event.data?.type==='CHECK_CACHE')event.waitUntil((async()=>{const cache=await caches.open(CACHE);const recipes=await cache.match('recipes.json');if(recipes)event.source?.postMessage({type:'OFFLINE_READY'});})());});
+self.addEventListener('message',event=>{if(event.data?.type==='CHECK_CACHE')event.waitUntil((async()=>{const cache=await caches.open(CACHE);const recipes=await cache.match('recipes.json?v=2.2.0');if(recipes)event.source?.postMessage({type:'OFFLINE_READY'});})());});

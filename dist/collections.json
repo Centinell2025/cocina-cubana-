@@ -1,0 +1,348 @@
+{
+  "lists": {
+    "panes": {
+      "title": "Panes para nuestra mesa",
+      "eyebrow": "TRIGO, MAÍZ Y CASABE",
+      "description": "Pan de maíz, casabe tostado y panes de trigo para el desayuno, la merienda o el acompañamiento de una completa.",
+      "recipeIds": [
+        "r401",
+        "r404",
+        "r152",
+        "r153",
+        "r151",
+        "r244",
+        "r246",
+        "r266"
+      ],
+      "photo": "pasteleria-editorial.png",
+      "imageAlt": "Imagen ilustrativa de pastelería cubana",
+      "note": "El casabe se presenta como una preparación de servicio a partir de casabe comercial listo para comer. Su historia y elaboración tradicional se explican en Raíces y cultura."
+    },
+    "frutas": {
+      "title": "Dulces de frutas",
+      "eyebrow": "GUAYABA, MANGO, FRUTA BOMBA Y MÁS",
+      "description": "Una colección de frutas en miel y almíbar, compotas, mermeladas y frutas al horno. Elige por sabor o busca la fruta que tienes en casa.",
+      "recipeIds": [
+        "r409",
+        "r407",
+        "r410",
+        "r405",
+        "r406",
+        "r408",
+        "r173",
+        "r174",
+        "r172",
+        "r184",
+        "r185",
+        "r186",
+        "r190",
+        "r205",
+        "r206",
+        "r208",
+        "r209",
+        "r210",
+        "r211",
+        "r212",
+        "r213",
+        "r214",
+        "r215",
+        "r216",
+        "r217",
+        "r218",
+        "r381",
+        "r382",
+        "r383",
+        "r384",
+        "r385",
+        "r386",
+        "r387"
+      ],
+      "photo": "postres-editorial.png",
+      "imageAlt": "Imagen ilustrativa de postres cubanos"
+    },
+    "miel": {
+      "title": "Frutas en miel",
+      "eyebrow": "EL DULZOR DE LA MIEL DE ABEJA",
+      "description": "Fruta bomba, mango, guayaba, piña y pera, con miel de abeja medida en cada receta. Preparaciones suaves, fruta fresca y un acabado para servir con cuidado.",
+      "recipeIds": [
+        "r409",
+        "r407",
+        "r405",
+        "r406",
+        "r408",
+        "r381"
+      ],
+      "photo": "postres-editorial.png",
+      "imageAlt": "Imagen ilustrativa de postres cubanos",
+      "note": "Aquí las recetas llevan miel de abeja. El dulce de grosella y otras frutas cocidas con azúcar están en En almíbar; el melao de caña tiene su propio apartado."
+    },
+    "almibar": {
+      "title": "Frutas en almíbar",
+      "eyebrow": "GROSELLA, GUAYABA Y DULCES DE FRUTA",
+      "description": "Frutas cocidas con agua y azúcar, con el punto y la preparación explicados en cada ficha. Descubre el dulce de grosella tropical, los casquitos de guayaba y los cascos de toronja.",
+      "recipeIds": [
+        "r410",
+        "r173",
+        "r174",
+        "r172",
+        "r184",
+        "r215"
+      ],
+      "photo": "postres-editorial.png",
+      "imageAlt": "Imagen ilustrativa de postres cubanos",
+      "note": "Son preparaciones para refrigerar y consumir en el plazo indicado; estas recetas no son métodos de conserva a temperatura ambiente."
+    },
+    "melao": {
+      "title": "Dulces de melao de caña",
+      "eyebrow": "CAÑA, CARAMELO Y MEMORIA",
+      "description": "Melcocha de melao de caña y boniato en melao: dos formas de trabajar este ingrediente, con cantidades y pasos propios.",
+      "recipeIds": [
+        "r399",
+        "r394"
+      ],
+      "photo": "postres-editorial.png",
+      "imageAlt": "Imagen ilustrativa de postres cubanos",
+      "note": "El melao de caña y la miel de abeja son ingredientes distintos. Usa el que indica cada fórmula para conservar su textura y su sabor."
+    },
+    "jugos": {
+      "title": "Jugos y refrescos",
+      "eyebrow": "FRUTA, COLOR Y FRESCURA",
+      "description": "Guayaba, mango, piña y más frutas en jugos y refrescos sin alcohol. Cantidades medidas, preparación sencilla y un servicio fresco.",
+      "recipeIds": [
+        "r301",
+        "r302",
+        "r303",
+        "r304",
+        "r305",
+        "r306",
+        "r307",
+        "r308",
+        "r309",
+        "r310",
+        "r311",
+        "r312",
+        "r313",
+        "r314",
+        "r315",
+        "r316",
+        "r317",
+        "r318",
+        "r319",
+        "r320",
+        "r196",
+        "r197",
+        "r199"
+      ],
+      "photo": "jugos-editorial.png",
+      "imageAlt": "Imagen ilustrativa de jugos tropicales"
+    },
+    "batidos": {
+      "title": "Batidos para la merienda",
+      "eyebrow": "CREMOSOS Y LLENOS DE SABOR",
+      "description": "Mamey, guanábana, fruta bomba y trigo inflado en su propio espacio. Abre la ficha para elegir la leche, las cantidades y la textura de cada preparación.",
+      "recipeIds": [
+        "r193",
+        "r194",
+        "r195",
+        "r200"
+      ],
+      "photo": "jugos-editorial.png",
+      "imageAlt": "Imagen ilustrativa de jugos tropicales"
+    },
+    "helados": {
+      "title": "Helados, sorbetes y paletas",
+      "eyebrow": "EL LADO MÁS FRESCO DEL RECETARIO",
+      "description": "Mantecado, guayaba, mango, coco, maíz tierno y otras combinaciones. Encontrarás helados cremosos, sorbetes, granizados, semifríos y paletas.",
+      "recipeIds": [
+        "r395",
+        "r188",
+        "r231",
+        "r232",
+        "r233",
+        "r234",
+        "r235",
+        "r236",
+        "r237",
+        "r238",
+        "r239",
+        "r189"
+      ],
+      "photo": "postres-editorial.png",
+      "imageAlt": "Imagen ilustrativa de postres cubanos"
+    },
+    "calientes": {
+      "title": "Café y chocolate",
+      "eyebrow": "UNA PAUSA EN LA SOBREMESA",
+      "description": "Café cubano con espumita, café con leche y chocolate caliente para acompañar panes, pastelitos y dulces.",
+      "recipeIds": [
+        "r191",
+        "r192",
+        "r198"
+      ],
+      "photo": "jugos-editorial.png",
+      "imageAlt": "Imagen ilustrativa de jugos tropicales"
+    },
+    "fritos": {
+      "title": "Fritos y plátanos",
+      "eyebrow": "DORADOS, CRUJIENTES Y RECIÉN HECHOS",
+      "description": "Un espacio para elegir tostones, mariquitas, plátanos maduros y otras frituras del recetario. Cada propuesta enlaza con sus cantidades, tiempos y pasos de preparación.",
+      "recipeIds": [
+        "r108",
+        "r298",
+        "r134",
+        "r109",
+        "r107",
+        "r124",
+        "r125",
+        "r123",
+        "r121",
+        "r122",
+        "r282",
+        "r177"
+      ],
+      "photo": "hero-cubano.png",
+      "imageAlt": "Imagen ilustrativa de una mesa cubana",
+      "groups": [
+        {
+          "id": "tostones",
+          "title": "Tostones y plátano verde",
+          "description": "Tostones de doble fritura, una versión con setas y mariquitas cortadas en láminas finas. Tres formas de servir el plátano verde crujiente.",
+          "recipeIds": [
+            "r108",
+            "r298",
+            "r134"
+          ]
+        },
+        {
+          "id": "maduros",
+          "title": "Plátanos maduros fritos",
+          "description": "Tajadas de plátano maduro doradas en sartén, tiernas por dentro y listas para acompañar la comida.",
+          "recipeIds": [
+            "r109"
+          ]
+        },
+        {
+          "id": "frituras-variadas",
+          "title": "Frituras variadas",
+          "description": "Yuca en bastones, frituras de malanga y maíz, papas rellenas y croquetas. Los buñuelos de yuca aportan una opción dulce con almíbar.",
+          "recipeIds": [
+            "r107",
+            "r124",
+            "r125",
+            "r123",
+            "r121",
+            "r122",
+            "r282",
+            "r177"
+          ]
+        }
+      ]
+    }
+  },
+  "combinations": [
+    {
+      "id": "res-al-horno",
+      "title": "Res al horno para la mesa del domingo",
+      "description": "Redondo con café y cacao, arroz blanco y calabaza al mojo. El jugo de toronja y piña acompaña el asado; el cierre es un flan de leche.",
+      "mainId": "r321",
+      "sideIds": [
+        "r066",
+        "r113"
+      ],
+      "beverageId": "r315",
+      "dessertId": "r166",
+      "serviceTip": "Empieza por el flan para completar su cocción y refrigeración. Asa después el redondo; prepara el arroz y la calabaza durante la parte final del horno. Deja reposar la carne 15 minutos, termina el jugo y corta las lonchas justo antes de servir."
+    },
+    {
+      "id": "cerdo-para-compartir",
+      "title": "Cerdo crujiente para compartir",
+      "description": "Pierna de cerdo con piel crujiente, moros y cristianos, ensalada de aguacate y plátanos maduros fritos. Se acompaña de piña con lima y hierbabuena y casquitos de guayaba.",
+      "mainId": "r333",
+      "sideIds": [
+        "r068",
+        "r114",
+        "r109"
+      ],
+      "beverageId": "r301",
+      "dessertId": "r173",
+      "serviceTip": "Planifica las ocho horas de secado en frío de la piel y prepara los casquitos con su reposo. Haz el arroz mientras se asa la pierna y deja listos los ingredientes de los maduros, la ensalada y el jugo. Durante los 20 minutos de reposo final, fríe los maduros, corta el aguacate y prepara el jugo; sirve la salsa sin mojar la piel crujiente."
+    },
+    {
+      "id": "pollo-de-casa",
+      "title": "Pollo al mojo de la casa",
+      "description": "Pollo asado al mojo con arroz amarillo y habichuelas verdes al sofrito. El mango con naranja acompaña la comida y el majarete aporta el cierre dulce.",
+      "mainId": "r027",
+      "sideIds": [
+        "r069",
+        "r120"
+      ],
+      "beverageId": "r302",
+      "dessertId": "r170",
+      "serviceTip": "Organiza primero el adobo refrigerado del pollo y el enfriado del majarete. Empieza el arroz y las habichuelas durante la última parte del asado. Verifica la cocción del pollo según su ficha, respeta su reposo y licúa el jugo al servir."
+    },
+    {
+      "id": "mesa-de-la-costa",
+      "title": "Pargo y viandas para una mesa de costa",
+      "description": "Pargo al horno con mojo, yuca cocida y ensalada de col con limón. Se sirve con jugo de sandía y un granizado de tamarindo como postre.",
+      "mainId": "r049",
+      "sideIds": [
+        "r106",
+        "r116"
+      ],
+      "beverageId": "r307",
+      "dessertId": "r234",
+      "serviceTip": "Prepara el granizado con la antelación necesaria para congelarlo y rasparlo. Pon a cocer la yuca antes de hornear el pargo; desecha su agua de cocción como indica la ficha. Mientras el pescado está en el horno, prepara la ensalada de col y termina el jugo al momento de llevar el pescado a la mesa."
+    },
+    {
+      "id": "mesa-vegetal",
+      "title": "Legumbres, tostones y fruta",
+      "description": "Frijoles caritas con calabaza, tostones recién hechos y ensalada de tomate y pepino. La combinación se completa con maracuyá y agua de coco y sorbete de mango y lima.",
+      "mainId": "r098",
+      "sideIds": [
+        "r108",
+        "r115"
+      ],
+      "beverageId": "r319",
+      "dessertId": "r233",
+      "serviceTip": "Cuenta con el remojo refrigerado de los frijoles y la congelación del sorbete. Cocina las legumbres primero y conserva su punto de servicio según la ficha. Corta la ensalada y mezcla el jugo al final; termina la segunda fritura de los tostones justo antes de servir para mantenerlos crujientes."
+    },
+    {
+      "id": "cena-de-cuchara",
+      "title": "Cena de crema y tostadas",
+      "description": "Crema de malanga con tostadas cubanas y ensalada de tomate y pepino. Un jugo de melón y guayaba acompaña esta propuesta de cena de cuchara.",
+      "mainId": "r094",
+      "sideIds": [
+        "r133",
+        "r115"
+      ],
+      "beverageId": "r318",
+      "serviceTip": "Comienza por la crema de malanga y tritúrala cuando la vianda esté completamente tierna. Prepara la ensalada mientras cuece. Tuesta el pan y licúa el jugo al final; sirve la crema caliente y las tostadas recién hechas, separadas para conservar su textura."
+    },
+    {
+      "id": "cordero-de-horno-lento",
+      "title": "Cordero de horno lento y guarniciones",
+      "description": "Paleta de cordero con garbanzos y limón, arroz con maíz y ensalada de remolacha. Se acompaña de tamarindo con naranja y natilla de vainilla.",
+      "mainId": "r350",
+      "sideIds": [
+        "r079",
+        "r117"
+      ],
+      "beverageId": "r306",
+      "dessertId": "r176",
+      "serviceTip": "Prepara primero la natilla y la remolacha para completar sus tiempos de enfriado. La paleta necesita horno lento; empieza el arroz cuando esté entrando en la fase final con garbanzos. Aprovecha los 15 minutos de reposo de la carne para mezclar el jugo y terminar la ensalada."
+    },
+    {
+      "id": "parrilla-con-frutas",
+      "title": "Parrilla de res con piña y viandas",
+      "description": "Brochetas de cadera de res con piña, boniato al ajo y quimbombó guisado. Guayaba con mandarina para beber y turrón blando de maní en pequeñas porciones al final.",
+      "mainId": "r330",
+      "sideIds": [
+        "r111",
+        "r119"
+      ],
+      "beverageId": "r311",
+      "dessertId": "r180",
+      "serviceTip": "Prepara el turrón con tiempo para que se enfríe y organiza el adobo de la res en refrigeración. Cocina el quimbombó y hornea el boniato antes o durante las tandas de parrilla. Respeta los cinco minutos de reposo de las brochetas y prepara el jugo al servir."
+    }
+  ]
+}
