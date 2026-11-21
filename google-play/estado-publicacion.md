@@ -5,7 +5,7 @@ Actualizado el 21 de noviembre de 2026.
 - Paquete: `com.beaconoftheeagle.cocinacubana`.
 - Versión 1.0.1, código 2: activa y disponible para pruebas internas.
 - Lista activada solo para esta app: Centinell - Propietaria, con `centinellsuite@gmail.com` como único probador.
-- Configuración inicial: 13 de 14 tareas completas en Play Console.
+- Configuración inicial: Configuración de la app y ficha completadas; Google aceptó el guardado de todos los campos obligatorios.
 - Producción: inactiva. La app no está publicada para venta al público.
 
 ## Configuración guardada
@@ -23,12 +23,21 @@ Actualizado el 21 de noviembre de 2026.
 - IARC: términos aceptados con autorización expresa de la propietaria; referencias ocasionales a alcohol como ingrediente. ESRB Everyone con Alcohol Reference; PEGI 3. Clasificación guardada, pendiente del proceso de revisión de Google.
 - Precio base autorizado: US$2.50; Google calculó precios locales para 177 países/regiones de precios y redondeó varios importes. Estados Unidos se ajustó manualmente a US$2.50 antes de guardar.
 - Disponibilidad: selección de todos los países habilitados para la app de pago guardada para revisión; las regiones deshabilitadas no se seleccionaron.
-- Ficha: textos español e inglés, icono y banners con 1.041 recetas guardados como borrador. Se preparó la declaración de gráficos creados o editados con IA.
+- Ficha: textos español e inglés, icono, banners con 1.041 recetas y dos capturas horizontales de la interfaz por idioma guardados para revisión. Gráficos etiquetados como creados o editados con IA.
+
+## Capturas y alcance de verificación
+
+Se subieron dos capturas por idioma a «7-inch tablet screenshots», de 1360 × 765 píxeles, relación 16:9. Proceden del inicio y del catálogo de la interfaz web publicada, cuyos recursos coinciden con los empaquetados en Android 1.0.1. Se recortó la región visible del navegador; no se añadieron marcos ni barras Android. No acreditan una ejecución nativa ni una prueba de instalación Android. Archivos y procedencia: `screenshots-web-tablet/`.
+
+Google aceptó el guardado definitivo de la ficha. El resumen de publicación muestra español e inglés con toda la información requerida. La configuración inicial ya no aparece entre las tareas pendientes del panel.
 
 ## Pendiente
 
-Play Console rechazó el guardado definitivo de la ficha porque exige al menos dos capturas de teléfono o tablet. Deben corresponder a la app real. No se generaron capturas ficticias ni se ejecutó una prueba en un dispositivo Android.
+- La app sigue activa solo en prueba interna. Producción permanece inactiva.
+- No se creó una versión de producción ni se envió la app para revisión pública. La creación de ese borrador fue bloqueada por la revisión automática, que exige autorización explícita para pasar de la prueba interna a distribución pública.
+- Antes de prometer funcionamiento nativo verificado, ejecutar pruebas en un dispositivo Android.
+- Para venderla al público: autorización de la propietaria, preparar versión de producción, comprobar errores y advertencias, y enviar a revisión. La aprobación depende de Google.
 
-Después de incorporar las capturas: revisar la declaración de gráficos con IA, guardar la ficha, revisar los cambios en Resumen de publicación y completar el proceso de revisión y lanzamiento. Ninguna configuración guardada equivale por sí sola a una aprobación de Google o al lanzamiento público.
+En el resumen de publicación se guardó añadir 173 países/regiones habilitados para la app de pago. Los precios calculados cubren una lista distinta de países/regiones de precios; no deben confundirse con los destinos seleccionados.
 
 Enlace de invitación a la prueba interna, verificado en la sesión de la propietaria: https://play.google.com/apps/internaltest/4700790560559564741
