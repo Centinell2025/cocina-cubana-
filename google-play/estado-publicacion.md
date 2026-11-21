@@ -6,7 +6,7 @@ Actualizado el 21 de noviembre de 2026.
 - Versión 1.0.1, código 2: activa y disponible para pruebas internas.
 - Lista activada solo para esta app: Centinell - Propietaria, con `centinellsuite@gmail.com` como único probador.
 - Configuración inicial: Configuración de la app y ficha completadas; Google aceptó el guardado de todos los campos obligatorios.
-- Producción: versión 1.0.1, código 2, preparada y enviada para revisión. La consola muestra «Changes in review». Todavía no está aprobada ni disponible públicamente.
+- Producción: versión 1.0.1, código 2, publicada. El historial de envíos muestra el envío 1 con estado «Published» para Production, Closed testing - Alpha, Store Listing, App Content y Store settings. El resumen indica «Last published on November 21, 2026».
 
 ## Configuración guardada
 
@@ -20,10 +20,10 @@ Actualizado el 21 de noviembre de 2026.
 - Estado comercial: hereda la condición de comerciante ya declarada en la cuenta de Beacon.
 - Audiencia autorizada por la propietaria: 13–15, 16–17 y 18 años o más.
 - Seguridad de los datos: no recopila ni comparte datos declarables; cuestionario guardado según la arquitectura local verificada y las excepciones de Google para acciones iniciadas por el usuario.
-- IARC: términos aceptados con autorización expresa de la propietaria; referencias ocasionales a alcohol como ingrediente. ESRB Everyone con Alcohol Reference; PEGI 3. Clasificación guardada, pendiente del proceso de revisión de Google.
+- IARC: términos aceptados con autorización expresa de la propietaria; referencias ocasionales a alcohol como ingrediente. ESRB Everyone con Alcohol Reference; PEGI 3. Declaración incluida en el envío publicado.
 - Precio base autorizado: US$2.50; Google calculó precios locales para 177 países/regiones de precios y redondeó varios importes. Estados Unidos se ajustó manualmente a US$2.50 antes de guardar.
-- Disponibilidad: selección de todos los países habilitados para la app de pago guardada para revisión; las regiones deshabilitadas no se seleccionaron.
-- Ficha: textos español e inglés, icono, banners con 1.041 recetas y dos capturas horizontales de la interfaz por idioma guardados para revisión. Gráficos etiquetados como creados o editados con IA.
+- Disponibilidad: 173 países/regiones habilitados para la app de pago; las regiones deshabilitadas no se seleccionaron.
+- Ficha: textos español e inglés, icono, banners con 1.041 recetas y dos capturas horizontales de la interfaz por idioma incluidos en el envío publicado. Gráficos etiquetados como creados o editados con IA.
 
 ## Capturas y alcance de verificación
 
@@ -46,9 +46,21 @@ La propietaria autorizó expresamente preparar y enviar la versión pública par
 - Publicación administrada desactivada: el lanzamiento está configurado para publicarse cuando Google lo apruebe.
 - En Alpha se detectó un cambio pendiente que incluía la lista My First Words Kids - Internal Test. Se deseleccionó antes del envío y quedó únicamente Centinell - Propietaria. No se activó ningún lanzamiento de prueba cerrada.
 
-## Pendiente de Google y de pruebas nativas
+## Comprobación posterior al envío
 
-La aprobación y disponibilidad pública dependen de Google. Las comprobaciones automáticas pueden detectar incidencias adicionales. No se ha ejecutado una prueba en un dispositivo Android y las capturas son de la interfaz web coincidente, tal como se documenta arriba.
+El 21 de noviembre se verificaron las siguientes señales en la consola:
+
+- App content → Need attention: «You're all caught up», sin declaraciones pendientes.
+- Policy status: «No policy issues found».
+- Producción: pista activa, versión 1.0.1, 173 países/regiones.
+- Publishing overview: sin cambios pendientes, «Last published on November 21, 2026».
+- Submission activity: envío 1, presentado a las 2:53 PM, estado «Published».
+
+Las tareas incompletas del panel corresponden a pruebas cerradas, pruebas abiertas y prerregistro. No se crearon lanzamientos adicionales para completar esas opciones.
+
+Producción muestra tres recomendaciones técnicas: compatibilidad de edge-to-edge, retirada de `Window.setStatusBarColor`/`setNavigationBarColor` usados en `MainActivity.configureInsets`, y optimización R8. Son recomendaciones de una futura compilación, no declaraciones pendientes de configuración.
+
+No se ha ejecutado una prueba en un dispositivo Android y las capturas son de la interfaz web coincidente, tal como se documenta arriba. El estado de publicación se verificó en Play Console; no se comprobó en esta sesión la propagación de la ficha pública por país.
 
 Consola de revisión: https://play.google.com/console/u/0/developers/7692142318288481728/app/4974513976457807793/publishing
 
