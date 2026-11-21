@@ -1,10 +1,10 @@
 {
   "id": "./",
-  "name": "Cocina Cubana · Patrimonio y alta cocina",
+  "name": "Cocina Cubana · El sabor de casa",
   "short_name": "Cocina Cubana",
-  "description": "Recetas cubanas, postres, pastelería, historia cultural y acabados de alta cocina.",
+  "description": "1041 recetas cubanas en español e inglés, pastelería, menú semanal y lista de compras.",
   "lang": "es",
-  "start_url": "./",
+  "start_url": "./#inicio",
   "scope": "./",
   "display": "standalone",
   "background_color": "#fcfcf8",
@@ -25,24 +25,9 @@
   ],
   "shortcuts": [
     {
-      "name": "Asados",
-      "url": "./#asados",
-      "description": "Carnes y aves por tipo y corte"
-    },
-    {
-      "name": "Jugos y bebidas",
-      "url": "./#jugos",
-      "description": "Jugos tropicales y bebidas sin alcohol"
-    },
-    {
-      "name": "Postres",
-      "url": "./#postres",
-      "description": "65 recetas dulces y sus acabados"
-    },
-    {
-      "name": "Alta cocina",
-      "url": "./#altacocina",
-      "description": "Técnicas y menús de degustación"
+      "name": "Pastelería",
+      "url": "./#pasteleria",
+      "description": "Pastelitos, panetelas y otras masas dulces"
     },
     {
       "name": "Mi recetario",

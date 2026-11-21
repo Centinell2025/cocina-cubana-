@@ -1,0 +1,47 @@
+{
+  "total": 1041,
+  "illustrated": 1041,
+  "missing": 0,
+  "categories": {
+    "carnes": {
+      "recipes": 90,
+      "images": 90
+    },
+    "aves": {
+      "recipes": 100,
+      "images": 100
+    },
+    "pescados": {
+      "recipes": 103,
+      "images": 103
+    },
+    "arroces": {
+      "recipes": 100,
+      "images": 100
+    },
+    "granos_sopas": {
+      "recipes": 102,
+      "images": 102
+    },
+    "viandas_ensaladas": {
+      "recipes": 110,
+      "images": 110
+    },
+    "entrantes": {
+      "recipes": 110,
+      "images": 110
+    },
+    "pasteleria": {
+      "recipes": 198,
+      "images": 198
+    },
+    "postres": {
+      "recipes": 105,
+      "images": 105
+    },
+    "bebidas": {
+      "recipes": 23,
+      "images": 23
+    }
+  }
+}

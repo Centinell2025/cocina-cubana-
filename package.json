@@ -1,10 +1,9 @@
 {
   "name": "cocina-cubana",
-  "version": "2.2.0",
+  "version": "1.13.1",
   "private": true,
-  "description": "400 recetas cubanas, postres y pastelería, patrimonio cultural y alta cocina",
+  "description": "Recetario cubano bilingüe con 1041 recetas, pastelería y herramientas de cocina",
   "scripts": {
-    "test": "node scripts/validate.mjs",
-    "bundle": "node scripts/build-standalone.mjs"
+    "test": "node scripts/validate.mjs"
   }
 }

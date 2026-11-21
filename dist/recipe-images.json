@@ -1,0 +1,6248 @@
+{
+  "r001": {
+    "src": "assets/recipes/r001-3d.webp",
+    "title": "Ropa vieja",
+    "kind": "generated-3d",
+    "revision": "40696c0e0db0"
+  },
+  "r002": {
+    "src": "assets/recipes/r002-3d.webp",
+    "title": "Vaca frita",
+    "kind": "generated-3d",
+    "revision": "2fa2162e465e"
+  },
+  "r003": {
+    "src": "assets/recipes/r003-3d.webp",
+    "title": "Picadillo habanero",
+    "kind": "generated-3d",
+    "revision": "4a9ab303a14c"
+  },
+  "r004": {
+    "src": "assets/recipes/r004-3d.webp",
+    "title": "Lechón asado al mojo",
+    "kind": "generated-3d",
+    "revision": "8fc2a8bb4282"
+  },
+  "r005": {
+    "src": "assets/recipes/r005-3d.webp",
+    "title": "Masas de cerdo fritas",
+    "kind": "generated-3d",
+    "revision": "a0d8a28c23d4"
+  },
+  "r006": {
+    "src": "assets/recipes/r006-3d.webp",
+    "title": "Boliche mechado",
+    "kind": "generated-3d",
+    "revision": "780f58f3e7d5"
+  },
+  "r007": {
+    "src": "assets/recipes/r007-3d.webp",
+    "title": "Estofado de res a la criolla",
+    "kind": "generated-3d",
+    "revision": "75275a0c1232"
+  },
+  "r008": {
+    "src": "assets/recipes/r008-3d.webp",
+    "title": "Bistec de palomilla",
+    "kind": "generated-3d",
+    "revision": "5a46c49bd3fa"
+  },
+  "r009": {
+    "src": "assets/recipes/r009-3d.webp",
+    "title": "Bistec empanizado",
+    "kind": "generated-3d",
+    "revision": "a2428ca3e49b"
+  },
+  "r010": {
+    "src": "assets/recipes/r010-3d.webp",
+    "title": "Carne con papas",
+    "kind": "generated-3d",
+    "revision": "8018efd924de"
+  },
+  "r011": {
+    "src": "assets/recipes/r011-3d.webp",
+    "title": "Fricasé de cerdo",
+    "kind": "generated-3d",
+    "revision": "62460cb91f9f"
+  },
+  "r012": {
+    "src": "assets/recipes/r012-3d.webp",
+    "title": "Chuletas de cerdo encebolladas",
+    "kind": "generated-3d",
+    "revision": "b2127f67c633"
+  },
+  "r013": {
+    "src": "assets/recipes/r013-3d.webp",
+    "title": "Lomo de cerdo a la naranja",
+    "kind": "generated-3d",
+    "revision": "fcf1b83de946"
+  },
+  "r014": {
+    "src": "assets/recipes/r014-3d.webp",
+    "title": "Costillas de cerdo en cazuela",
+    "kind": "generated-3d",
+    "revision": "5316f2c5e4cf"
+  },
+  "r015": {
+    "src": "assets/recipes/r015-3d.webp",
+    "title": "Albóndigas criollas",
+    "kind": "generated-3d",
+    "revision": "f5e534f004ee"
+  },
+  "r016": {
+    "src": "assets/recipes/r016-3d.webp",
+    "title": "Pulpeta cubana",
+    "kind": "generated-3d",
+    "revision": "b6d582d2b967"
+  },
+  "r017": {
+    "src": "assets/recipes/r017-3d.webp",
+    "title": "Hígado encebollado",
+    "kind": "generated-3d",
+    "revision": "f1483da831b8"
+  },
+  "r018": {
+    "src": "assets/recipes/r018-3d.webp",
+    "title": "Carne asada en cazuela",
+    "kind": "generated-3d",
+    "revision": "e4d1dc5eeaf1"
+  },
+  "r019": {
+    "src": "assets/recipes/r019-3d.webp",
+    "title": "Cerdo al horno con piña",
+    "kind": "generated-3d",
+    "revision": "abf75fe96f23"
+  },
+  "r020": {
+    "src": "assets/recipes/r020-3d.webp",
+    "title": "Tasajo con sofrito",
+    "kind": "generated-3d",
+    "revision": "01c5e7f1f30d"
+  },
+  "r021": {
+    "src": "assets/recipes/r021-3d.webp",
+    "title": "Aporreado de res",
+    "kind": "generated-3d",
+    "revision": "056e8cd7cad9"
+  },
+  "r022": {
+    "src": "assets/recipes/r022-3d.webp",
+    "title": "Chilindrón de chivo",
+    "kind": "generated-3d",
+    "revision": "ca9d79c5cb1b"
+  },
+  "r023": {
+    "src": "assets/recipes/r023-3d.webp",
+    "title": "Lengua en salsa criolla",
+    "kind": "generated-3d",
+    "revision": "a3a7abef6a92"
+  },
+  "r024": {
+    "src": "assets/recipes/r024-3d.webp",
+    "title": "Fricasé de conejo",
+    "kind": "generated-3d",
+    "revision": "10dfc7e9bbdb"
+  },
+  "r025": {
+    "src": "assets/recipes/r025-3d.webp",
+    "title": "Lomo relleno de jamón y ciruelas",
+    "kind": "generated-3d",
+    "revision": "0d4901c36bb8"
+  },
+  "r026": {
+    "src": "assets/recipes/r026-3d.webp",
+    "title": "Fricasé de pollo",
+    "kind": "generated-3d",
+    "revision": "d43625593d0b"
+  },
+  "r027": {
+    "src": "assets/recipes/r027-3d.webp",
+    "title": "Pollo asado al mojo",
+    "kind": "generated-3d",
+    "revision": "fed4d736b606"
+  },
+  "r028": {
+    "src": "assets/recipes/r028-3d.webp",
+    "title": "Bistec de pollo a la plancha",
+    "kind": "generated-3d",
+    "revision": "81c503fe22f3"
+  },
+  "r029": {
+    "src": "assets/recipes/r029-3d.webp",
+    "title": "Vaca frita de pollo",
+    "kind": "generated-3d",
+    "revision": "6b4fca8662fa"
+  },
+  "r030": {
+    "src": "assets/recipes/r030-3d.webp",
+    "title": "Pollo frito criollo",
+    "kind": "generated-3d",
+    "revision": "f6047c0ad9ab"
+  },
+  "r031": {
+    "src": "assets/recipes/r031-3d.webp",
+    "title": "Pollo a la barbacoa cubana",
+    "kind": "generated-3d",
+    "revision": "83edd0181432"
+  },
+  "r032": {
+    "src": "assets/recipes/r032-3d.webp",
+    "title": "Pollo a la cerveza en cazuela",
+    "kind": "generated-3d",
+    "revision": "8cc9d07ab440"
+  },
+  "r033": {
+    "src": "assets/recipes/r033-3d.webp",
+    "title": "Pollo con quimbombó",
+    "kind": "generated-3d",
+    "revision": "930a221643e9"
+  },
+  "r034": {
+    "src": "assets/recipes/r034-3d.webp",
+    "title": "Pechugas rellenas de jamón y queso",
+    "kind": "generated-3d",
+    "revision": "f33d6326896d"
+  },
+  "r035": {
+    "src": "assets/recipes/r035-3d.webp",
+    "title": "Pollo empanizado",
+    "kind": "generated-3d",
+    "revision": "481581ae8a85"
+  },
+  "r036": {
+    "src": "assets/recipes/r036-3d.webp",
+    "title": "Albóndigas de pollo en salsa criolla",
+    "kind": "generated-3d",
+    "revision": "33635bffbe01"
+  },
+  "r037": {
+    "src": "assets/recipes/r037-3d.webp",
+    "title": "Picadillo de pavo a la criolla",
+    "kind": "generated-3d",
+    "revision": "8168a678a6c4"
+  },
+  "r038": {
+    "src": "assets/recipes/r038-3d.webp",
+    "title": "Pechuga de pavo al mojo",
+    "kind": "generated-3d",
+    "revision": "dbb6757075f3"
+  },
+  "r039": {
+    "src": "assets/recipes/r039-3d.webp",
+    "title": "Pollo a la jardinera criolla",
+    "kind": "generated-3d",
+    "revision": "d287fbbdab87"
+  },
+  "r040": {
+    "src": "assets/recipes/r040-3d.webp",
+    "title": "Pollo con salsa de maní y sofrito",
+    "kind": "generated-3d",
+    "revision": "50540e92b8f6"
+  },
+  "r041": {
+    "src": "assets/recipes/r041-3d.webp",
+    "title": "Pollo salteado con piña y pimientos",
+    "kind": "generated-3d",
+    "revision": "9d7cd65b5c08"
+  },
+  "r042": {
+    "src": "assets/recipes/r042-3d.webp",
+    "title": "Pollo guisado con maíz tierno",
+    "kind": "generated-3d",
+    "revision": "645885cf33d4"
+  },
+  "r043": {
+    "src": "assets/recipes/r043-3d.webp",
+    "title": "Pollo a la naranja en cazuela",
+    "kind": "generated-3d",
+    "revision": "5e785c387841"
+  },
+  "r044": {
+    "src": "assets/recipes/r044-3d.webp",
+    "title": "Pollo al ajillo criollo",
+    "kind": "generated-3d",
+    "revision": "8d997d863e2a"
+  },
+  "r045": {
+    "src": "assets/recipes/r045-3d.webp",
+    "title": "Gallina estofada a la criolla",
+    "kind": "generated-3d",
+    "revision": "00483ddaeb31"
+  },
+  "r046": {
+    "src": "assets/recipes/r046-3d.webp",
+    "title": "Enchilado de camarones",
+    "kind": "generated-3d",
+    "revision": "e9686a03a396"
+  },
+  "r047": {
+    "src": "assets/recipes/r047-3d.webp",
+    "title": "Langosta enchilada",
+    "kind": "generated-3d",
+    "revision": "582c987511bd"
+  },
+  "r048": {
+    "src": "assets/recipes/r048-3d.webp",
+    "title": "Pescado en escabeche",
+    "kind": "generated-3d",
+    "revision": "9599f64a9242"
+  },
+  "r049": {
+    "src": "assets/recipes/r049-3d.webp",
+    "title": "Pargo al horno con mojo",
+    "kind": "generated-3d",
+    "revision": "0744c915289c"
+  },
+  "r050": {
+    "src": "assets/recipes/r050-3d.webp",
+    "title": "Filete de pescado empanizado",
+    "kind": "generated-3d",
+    "revision": "d9ae19fd5f3c"
+  },
+  "r051": {
+    "src": "assets/recipes/r051-3d.webp",
+    "title": "Pescado en salsa criolla",
+    "kind": "generated-3d",
+    "revision": "0cf4356013d9"
+  },
+  "r052": {
+    "src": "assets/recipes/r052-3d.webp",
+    "title": "Aporreado de bacalao",
+    "kind": "generated-3d",
+    "revision": "93ea5ac87983"
+  },
+  "r053": {
+    "src": "assets/recipes/r053-3d.webp",
+    "title": "Bacalao con papas a la criolla",
+    "kind": "generated-3d",
+    "revision": "5723db4046ab"
+  },
+  "r054": {
+    "src": "assets/recipes/r054-3d.webp",
+    "title": "Camarones al ajillo",
+    "kind": "generated-3d",
+    "revision": "9262be77e417"
+  },
+  "r055": {
+    "src": "assets/recipes/r055-3d.webp",
+    "title": "Camarones en leche de coco",
+    "kind": "generated-3d",
+    "revision": "8625045d377b"
+  },
+  "r056": {
+    "src": "assets/recipes/r056-3d.webp",
+    "title": "Cangrejo enchilado",
+    "kind": "generated-3d",
+    "revision": "73373be4cc0d"
+  },
+  "r057": {
+    "src": "assets/recipes/r057-3d.webp",
+    "title": "Ruedas de sierra al mojo",
+    "kind": "generated-3d",
+    "revision": "32d98c89ce22"
+  },
+  "r058": {
+    "src": "assets/recipes/r058-3d.webp",
+    "title": "Pisto de pescado",
+    "kind": "generated-3d",
+    "revision": "fad6bc1f5b98"
+  },
+  "r059": {
+    "src": "assets/recipes/r059-3d.webp",
+    "title": "Sardinas frescas con tomate",
+    "kind": "generated-3d",
+    "revision": "84d45cebfdb5"
+  },
+  "r060": {
+    "src": "assets/recipes/r060-3d.webp",
+    "title": "Calamares en su tinta",
+    "kind": "generated-3d",
+    "revision": "b1743cfeacaf"
+  },
+  "r061": {
+    "src": "assets/recipes/r061-3d.webp",
+    "title": "Calamares guisados con pimientos",
+    "kind": "generated-3d",
+    "revision": "c2fe5d7fdc88"
+  },
+  "r062": {
+    "src": "assets/recipes/r062-3d.webp",
+    "title": "Pulpo guisado con papas",
+    "kind": "generated-3d",
+    "revision": "c6e58b4ea41e"
+  },
+  "r063": {
+    "src": "assets/recipes/r063-3d.webp",
+    "title": "Atún encebollado con naranja agria",
+    "kind": "generated-3d",
+    "revision": "8c65638900be"
+  },
+  "r064": {
+    "src": "assets/recipes/r064-3d.webp",
+    "title": "Pescado con quimbombó",
+    "kind": "generated-3d",
+    "revision": "15e0f29ff91c"
+  },
+  "r065": {
+    "src": "assets/recipes/r065-3d.webp",
+    "title": "Langosta a la plancha con ajo y limón",
+    "kind": "generated-3d",
+    "revision": "a01af1cb5d20"
+  },
+  "r066": {
+    "src": "assets/recipes/r066-3d.webp",
+    "title": "Arroz blanco suelto",
+    "kind": "generated-3d",
+    "revision": "fee558158646"
+  },
+  "r067": {
+    "src": "assets/recipes/r067-3d.webp",
+    "title": "Congrí oriental con frijoles colorados",
+    "kind": "generated-3d",
+    "revision": "271a12eeac71"
+  },
+  "r068": {
+    "src": "assets/recipes/r068-3d.webp",
+    "title": "Moros y cristianos",
+    "kind": "generated-3d",
+    "revision": "c505ab1c881b"
+  },
+  "r069": {
+    "src": "assets/recipes/r069-3d.webp",
+    "title": "Arroz amarillo criollo",
+    "kind": "generated-3d",
+    "revision": "8bb34743bd8a"
+  },
+  "r070": {
+    "src": "assets/recipes/r070-3d.webp",
+    "title": "Arroz con pollo cubano",
+    "kind": "generated-3d",
+    "revision": "4ecc5798114b"
+  },
+  "r071": {
+    "src": "assets/recipes/r071-3d.webp",
+    "title": "Arroz imperial",
+    "kind": "generated-3d",
+    "revision": "a7aa06a111fb"
+  },
+  "r072": {
+    "src": "assets/recipes/r072-3d.webp",
+    "title": "Arroz con pollo a la chorrera",
+    "kind": "generated-3d",
+    "revision": "1f7fe0eeb6ea"
+  },
+  "r073": {
+    "src": "assets/recipes/r073-3d.webp",
+    "title": "Arroz con cerdo al mojo",
+    "kind": "generated-3d",
+    "revision": "0bddf6da6566"
+  },
+  "r074": {
+    "src": "assets/recipes/r074-3d.webp",
+    "title": "Arroz con costillas de cerdo",
+    "kind": "generated-3d",
+    "revision": "47e549d7dd92"
+  },
+  "r075": {
+    "src": "assets/recipes/r075-3d.webp",
+    "title": "Arroz con camarones",
+    "kind": "generated-3d",
+    "revision": "0328031cf23a"
+  },
+  "r076": {
+    "src": "assets/recipes/r076-3d.webp",
+    "title": "Arroz con pescado criollo",
+    "kind": "generated-3d",
+    "revision": "39e7fff1a527"
+  },
+  "r077": {
+    "src": "assets/recipes/r077-3d.webp",
+    "title": "Arroz con calamares",
+    "kind": "generated-3d",
+    "revision": "93ffa0c8376d"
+  },
+  "r078": {
+    "src": "assets/recipes/r078-3d.webp",
+    "title": "Arroz frito cubano",
+    "kind": "generated-3d",
+    "revision": "55c57241b599"
+  },
+  "r079": {
+    "src": "assets/recipes/r079-3d.webp",
+    "title": "Arroz con maíz tierno",
+    "kind": "generated-3d",
+    "revision": "c15eb24904d9"
+  },
+  "r080": {
+    "src": "assets/recipes/r080-3d.webp",
+    "title": "Arroz de vegetales al sofrito",
+    "kind": "generated-3d",
+    "revision": "46a66c59c31d"
+  },
+  "r081": {
+    "src": "assets/recipes/r081-3d.webp",
+    "title": "Arroz con chorizo y pimiento",
+    "kind": "generated-3d",
+    "revision": "b776d7d050bb"
+  },
+  "r082": {
+    "src": "assets/recipes/r082-3d.webp",
+    "title": "Arroz con jamón y guisantes",
+    "kind": "generated-3d",
+    "revision": "39fbad259ed4"
+  },
+  "r083": {
+    "src": "assets/recipes/r083-3d.webp",
+    "title": "Arroz con frijoles caritas",
+    "kind": "generated-3d",
+    "revision": "be4e533770bb"
+  },
+  "r084": {
+    "src": "assets/recipes/r084-3d.webp",
+    "title": "Arroz con calabaza y ajo",
+    "kind": "generated-3d",
+    "revision": "aa5d7a06b976"
+  },
+  "r085": {
+    "src": "assets/recipes/r085-3d.webp",
+    "title": "Arroz con quimbombó",
+    "kind": "generated-3d",
+    "revision": "1ecd62973714"
+  },
+  "r086": {
+    "src": "assets/recipes/r086-3d.webp",
+    "title": "Frijoles negros de la casa",
+    "kind": "generated-3d",
+    "revision": "d7b1c3244572"
+  },
+  "r087": {
+    "src": "assets/recipes/r087-3d.webp",
+    "title": "Frijoles colorados con calabaza",
+    "kind": "generated-3d",
+    "revision": "b0e56c9c295d"
+  },
+  "r088": {
+    "src": "assets/recipes/r088-3d.webp",
+    "title": "Potaje de garbanzos con chorizo",
+    "kind": "generated-3d",
+    "revision": "b6083273fb2a"
+  },
+  "r089": {
+    "src": "assets/recipes/r089-3d.webp",
+    "title": "Potaje de chícharos partidos",
+    "kind": "generated-3d",
+    "revision": "ac56373b4ee8"
+  },
+  "r090": {
+    "src": "assets/recipes/r090-3d.webp",
+    "title": "Lentejas criollas con papas",
+    "kind": "generated-3d",
+    "revision": "3e0bf8bab547"
+  },
+  "r091": {
+    "src": "assets/recipes/r091-3d.webp",
+    "title": "Ajiaco cubano",
+    "kind": "generated-3d",
+    "revision": "33193ea785d8"
+  },
+  "r092": {
+    "src": "assets/recipes/r092-3d.webp",
+    "title": "Caldo gallego al estilo cubano",
+    "kind": "generated-3d",
+    "revision": "ef665168bf9e"
+  },
+  "r093": {
+    "src": "assets/recipes/r093-3d.webp",
+    "title": "Sopa de pollo con fideos",
+    "kind": "generated-3d",
+    "revision": "7ce1aeda6f2a"
+  },
+  "r094": {
+    "src": "assets/recipes/r094-3d.webp",
+    "title": "Crema de malanga",
+    "kind": "generated-3d",
+    "revision": "8941c5066e92"
+  },
+  "r095": {
+    "src": "assets/recipes/r095-3d.webp",
+    "title": "Crema de calabaza criolla",
+    "kind": "generated-3d",
+    "revision": "72cea096dcc8"
+  },
+  "r096": {
+    "src": "assets/recipes/r096-3d.webp",
+    "title": "Sopa de plátano verde",
+    "kind": "generated-3d",
+    "revision": "c159f90495f5"
+  },
+  "r097": {
+    "src": "assets/recipes/r097-3d.webp",
+    "title": "Potaje de frijoles blancos con acelga",
+    "kind": "generated-3d",
+    "revision": "0b0db3835e41"
+  },
+  "r098": {
+    "src": "assets/recipes/r098-3d.webp",
+    "title": "Frijoles caritas guisados",
+    "kind": "generated-3d",
+    "revision": "e30a4dd16c9c"
+  },
+  "r099": {
+    "src": "assets/recipes/r099-3d.webp",
+    "title": "Sopa de vegetales al sofrito",
+    "kind": "generated-3d",
+    "revision": "d64c28aa6616"
+  },
+  "r100": {
+    "src": "assets/recipes/r100-3d.webp",
+    "title": "Sopa de pescado con viandas",
+    "kind": "generated-3d",
+    "revision": "d84e7690f31a"
+  },
+  "r101": {
+    "src": "assets/recipes/r101-3d.webp",
+    "title": "Crema de maíz tierno",
+    "kind": "generated-3d",
+    "revision": "029b1e32b3ec"
+  },
+  "r102": {
+    "src": "assets/recipes/r102-3d.webp",
+    "title": "Caldo de res con viandas",
+    "kind": "generated-3d",
+    "revision": "4320f5fc5be2"
+  },
+  "r103": {
+    "src": "assets/recipes/r103-3d.webp",
+    "title": "Sopa de tomate y arroz",
+    "kind": "generated-3d",
+    "revision": "6fc906c9fcf0"
+  },
+  "r104": {
+    "src": "assets/recipes/r104-3d.webp",
+    "title": "Crema de boniato y ajo asado",
+    "kind": "generated-3d",
+    "revision": "6822d1071fed"
+  },
+  "r105": {
+    "src": "assets/recipes/r105-3d.webp",
+    "title": "Sopa de ajo con huevo",
+    "kind": "generated-3d",
+    "revision": "d04949ad0255"
+  },
+  "r106": {
+    "src": "assets/recipes/r106-3d.webp",
+    "title": "Yuca con mojo",
+    "kind": "generated-3d",
+    "revision": "e8b89d9ee99d"
+  },
+  "r107": {
+    "src": "assets/recipes/r107-3d.webp",
+    "title": "Yuca frita en bastones",
+    "kind": "generated-3d",
+    "revision": "26ff39ade34b"
+  },
+  "r108": {
+    "src": "assets/recipes/r108-3d.webp",
+    "title": "Tostones o chatinos",
+    "kind": "generated-3d",
+    "revision": "c34630cf1cdb"
+  },
+  "r109": {
+    "src": "assets/recipes/r109-3d.webp",
+    "title": "Plátanos maduros fritos",
+    "kind": "generated-3d",
+    "revision": "93d04bda9e9d"
+  },
+  "r110": {
+    "src": "assets/recipes/r110-3d.webp",
+    "title": "Fufú de plátano con chicharrón",
+    "kind": "generated-3d",
+    "revision": "e83e0d69fa8d"
+  },
+  "r111": {
+    "src": "assets/recipes/r111-3d.webp",
+    "title": "Boniato asado al ajo",
+    "kind": "generated-3d",
+    "revision": "bbd8a8a25de4"
+  },
+  "r112": {
+    "src": "assets/recipes/r112-3d.webp",
+    "title": "Malanga hervida con ajo y aceite",
+    "kind": "generated-3d",
+    "revision": "0fddc7775406"
+  },
+  "r113": {
+    "src": "assets/recipes/r113-3d.webp",
+    "title": "Calabaza al mojo suave",
+    "kind": "generated-3d",
+    "revision": "0b2878f6780a"
+  },
+  "r114": {
+    "src": "assets/recipes/r114-3d.webp",
+    "title": "Ensalada de aguacate y cebolla",
+    "kind": "generated-3d",
+    "revision": "4789d90d9e70"
+  },
+  "r115": {
+    "src": "assets/recipes/r115-3d.webp",
+    "title": "Ensalada de tomate y pepino",
+    "kind": "generated-3d",
+    "revision": "25c10c27022b"
+  },
+  "r116": {
+    "src": "assets/recipes/r116-3d.webp",
+    "title": "Ensalada de col con limón",
+    "kind": "generated-3d",
+    "revision": "e0f26d4026d2"
+  },
+  "r117": {
+    "src": "assets/recipes/r117-3d.webp",
+    "title": "Ensalada de remolacha y cebolla",
+    "kind": "generated-3d",
+    "revision": "5dd9f514e40b"
+  },
+  "r118": {
+    "src": "assets/recipes/r118-3d.webp",
+    "title": "Ensalada de papas cubana",
+    "kind": "generated-3d",
+    "revision": "87757530a2e6"
+  },
+  "r119": {
+    "src": "assets/recipes/r119-3d.webp",
+    "title": "Quimbombó guisado sin carne",
+    "kind": "generated-3d",
+    "revision": "bff65cf90aae"
+  },
+  "r120": {
+    "src": "assets/recipes/r120-3d.webp",
+    "title": "Habichuelas verdes con sofrito",
+    "kind": "generated-3d",
+    "revision": "12a3c743464a"
+  },
+  "r121": {
+    "src": "assets/recipes/r121-3d.webp",
+    "title": "Croquetas de jamón",
+    "kind": "generated-3d",
+    "revision": "602df66e376b"
+  },
+  "r122": {
+    "src": "assets/recipes/r122-3d.webp",
+    "title": "Croquetas de pollo",
+    "kind": "generated-3d",
+    "revision": "a89870bcccb1"
+  },
+  "r123": {
+    "src": "assets/recipes/r123-3d.webp",
+    "title": "Papas rellenas de picadillo",
+    "kind": "generated-3d",
+    "revision": "8cd431ccffcc"
+  },
+  "r124": {
+    "src": "assets/recipes/r124-3d.webp",
+    "title": "Frituras de malanga",
+    "kind": "generated-3d",
+    "revision": "bad4f86574e7"
+  },
+  "r125": {
+    "src": "assets/recipes/r125-3d.webp",
+    "title": "Frituras de maíz tierno",
+    "kind": "generated-3d",
+    "revision": "e8c022d3f285"
+  },
+  "r126": {
+    "src": "assets/recipes/r126-3d.webp",
+    "title": "Tamales cubanos en hojas",
+    "kind": "generated-3d",
+    "revision": "2d09ee016a1b"
+  },
+  "r127": {
+    "src": "assets/recipes/r127-3d.webp",
+    "title": "Tamal en cazuela",
+    "kind": "generated-3d",
+    "revision": "e09d86a26f40"
+  },
+  "r128": {
+    "src": "assets/recipes/r128-3d.webp",
+    "title": "Sándwich cubano prensado",
+    "kind": "generated-3d",
+    "revision": "e11c6c62df31"
+  },
+  "r129": {
+    "src": "assets/recipes/r129-3d.webp",
+    "title": "Medianoche cubana",
+    "kind": "generated-3d",
+    "revision": "b18d976dedd1"
+  },
+  "r130": {
+    "src": "assets/recipes/r130-3d.webp",
+    "title": "Pan con lechón y cebolla",
+    "kind": "generated-3d",
+    "revision": "19f26d02b5b6"
+  },
+  "r131": {
+    "src": "assets/recipes/r131-3d.webp",
+    "title": "Pan con bistec",
+    "kind": "generated-3d",
+    "revision": "e96af28dc219"
+  },
+  "r132": {
+    "src": "assets/recipes/r132-3d.webp",
+    "title": "Frita cubana",
+    "kind": "generated-3d",
+    "revision": "5a752decdd69"
+  },
+  "r133": {
+    "src": "assets/recipes/r133-3d.webp",
+    "title": "Tostada cubana con mantequilla",
+    "kind": "generated-3d",
+    "revision": "118d23808f28"
+  },
+  "r134": {
+    "src": "assets/recipes/r134-3d.webp",
+    "title": "Mariquitas de plátano",
+    "kind": "generated-3d",
+    "revision": "216e79cf24fa"
+  },
+  "r135": {
+    "src": "assets/recipes/r135-3d.webp",
+    "title": "Huevos a la habanera",
+    "kind": "generated-3d",
+    "revision": "ebd52a63b003"
+  },
+  "r136": {
+    "src": "assets/recipes/r136-3d.webp",
+    "title": "Pastelitos de guayaba",
+    "kind": "generated-3d",
+    "revision": "0731e2330f45"
+  },
+  "r137": {
+    "src": "assets/recipes/r137-3d.webp",
+    "title": "Pastelitos de guayaba y queso",
+    "kind": "generated-3d",
+    "revision": "a25a2a14e8a8"
+  },
+  "r138": {
+    "src": "assets/recipes/r138-3d.webp",
+    "title": "Pastelitos de queso",
+    "kind": "generated-3d",
+    "revision": "acc302a092ec"
+  },
+  "r139": {
+    "src": "assets/recipes/r139-3d.webp",
+    "title": "Pastelitos de coco",
+    "kind": "generated-3d",
+    "revision": "b4f09b9782b3"
+  },
+  "r140": {
+    "src": "assets/recipes/r140-3d.webp",
+    "title": "Empanadillas de guayaba al horno",
+    "kind": "generated-3d",
+    "revision": "8cf67234f20a"
+  },
+  "r141": {
+    "src": "assets/recipes/r141-3d.webp",
+    "title": "Empanadillas de boniato y canela",
+    "kind": "generated-3d",
+    "revision": "927df5154d8f"
+  },
+  "r142": {
+    "src": "assets/recipes/r142-3d.webp",
+    "title": "Panetela de vainilla",
+    "kind": "generated-3d",
+    "revision": "dc0f08bd1f22"
+  },
+  "r143": {
+    "src": "assets/recipes/r143-3d.webp",
+    "title": "Panetela borracha sin alcohol",
+    "kind": "generated-3d",
+    "revision": "78edbf6a05c7"
+  },
+  "r144": {
+    "src": "assets/recipes/r144-3d.webp",
+    "title": "Brazo gitano de guayaba",
+    "kind": "generated-3d",
+    "revision": "1ad286f2e21e"
+  },
+  "r145": {
+    "src": "assets/recipes/r145-3d.webp",
+    "title": "Marquesitas cubanas",
+    "kind": "generated-3d",
+    "revision": "49f6e417802e"
+  },
+  "r146": {
+    "src": "assets/recipes/r146-3d.webp",
+    "title": "Torticas de Morón",
+    "kind": "generated-3d",
+    "revision": "bedf6da57cd1"
+  },
+  "r147": {
+    "src": "assets/recipes/r147-3d.webp",
+    "title": "Galletas de mantequilla para el café",
+    "kind": "generated-3d",
+    "revision": "6e340532d5b7"
+  },
+  "r148": {
+    "src": "assets/recipes/r148-3d.webp",
+    "title": "Señoritas de crema",
+    "kind": "generated-3d",
+    "revision": "6cbbe5d23bff"
+  },
+  "r149": {
+    "src": "assets/recipes/r149-3d.webp",
+    "title": "Capuchinos en moldes pequeños",
+    "kind": "generated-3d",
+    "revision": "5cd8ebec53c3"
+  },
+  "r150": {
+    "src": "assets/recipes/r150-3d.webp",
+    "title": "Cake cubano con merengue",
+    "kind": "generated-3d",
+    "revision": "2e186bf46c94"
+  },
+  "r151": {
+    "src": "assets/recipes/r151-3d.webp",
+    "title": "Pan de gloria casero",
+    "kind": "generated-3d",
+    "revision": "ba34068e2ae2"
+  },
+  "r152": {
+    "src": "assets/recipes/r152-3d.webp",
+    "title": "Pan cubano casero",
+    "kind": "generated-3d",
+    "revision": "7835701a740d"
+  },
+  "r153": {
+    "src": "assets/recipes/r153-3d.webp",
+    "title": "Pan de medianoche",
+    "kind": "generated-3d",
+    "revision": "5205b0c84630"
+  },
+  "r154": {
+    "src": "assets/recipes/r154-3d.webp",
+    "title": "Panquecitos de naranja",
+    "kind": "generated-3d",
+    "revision": "b46115d9b2ef"
+  },
+  "r155": {
+    "src": "assets/recipes/r155-3d.webp",
+    "title": "Gaceñiga con pasas",
+    "kind": "generated-3d",
+    "revision": "69ad98a25297"
+  },
+  "r156": {
+    "src": "assets/recipes/r156-3d.webp",
+    "title": "Coquitos horneados",
+    "kind": "generated-3d",
+    "revision": "cfc15ae5893e"
+  },
+  "r157": {
+    "src": "assets/recipes/r157-3d.webp",
+    "title": "Merenguitos",
+    "kind": "generated-3d",
+    "revision": "232b5d85a6b3"
+  },
+  "r158": {
+    "src": "assets/recipes/r158-3d.webp",
+    "title": "Tartaletas de coco",
+    "kind": "generated-3d",
+    "revision": "b655f34f33c6"
+  },
+  "r159": {
+    "src": "assets/recipes/r159-3d.webp",
+    "title": "Tartaletas de guayaba",
+    "kind": "generated-3d",
+    "revision": "bd183609f9e9"
+  },
+  "r160": {
+    "src": "assets/recipes/r160-3d.webp",
+    "title": "Masas reales de guayaba",
+    "kind": "generated-3d",
+    "revision": "24bff3cd64a2"
+  },
+  "r161": {
+    "src": "assets/recipes/r161-3d.webp",
+    "title": "Palmeritas de hojaldre",
+    "kind": "generated-3d",
+    "revision": "916e8d10524e"
+  },
+  "r162": {
+    "src": "assets/recipes/r162-3d.webp",
+    "title": "Cuernitos de crema pastelera",
+    "kind": "generated-3d",
+    "revision": "185b178caac1"
+  },
+  "r163": {
+    "src": "assets/recipes/r163-3d.webp",
+    "title": "Tatianoff casero",
+    "kind": "generated-3d",
+    "revision": "aa3bf14dcb21"
+  },
+  "r164": {
+    "src": "assets/recipes/r164-3d.webp",
+    "title": "Rosquitas de anís al horno",
+    "kind": "generated-3d",
+    "revision": "754c844f41b3"
+  },
+  "r165": {
+    "src": "assets/recipes/r165-3d.webp",
+    "title": "Cusubé de yuca casero",
+    "kind": "generated-3d",
+    "revision": "5ef15aec4a63"
+  },
+  "r166": {
+    "src": "assets/recipes/r166-3d.webp",
+    "title": "Flan de leche",
+    "kind": "generated-3d",
+    "revision": "e3886794147d"
+  },
+  "r167": {
+    "src": "assets/recipes/r167-3d.webp",
+    "title": "Flan de coco",
+    "kind": "generated-3d",
+    "revision": "765af42806c0"
+  },
+  "r168": {
+    "src": "assets/recipes/r168-3d.webp",
+    "title": "Flan de calabaza",
+    "kind": "generated-3d",
+    "revision": "5e824e3d9feb"
+  },
+  "r169": {
+    "src": "assets/recipes/r169-3d.webp",
+    "title": "Arroz con leche y canela",
+    "kind": "generated-3d",
+    "revision": "03d6d19a265f"
+  },
+  "r170": {
+    "src": "assets/recipes/r170-3d.webp",
+    "title": "Majarete de maíz tierno",
+    "kind": "generated-3d",
+    "revision": "0f55939ef1ce"
+  },
+  "r171": {
+    "src": "assets/recipes/r171-3d.webp",
+    "title": "Boniatillo cremoso",
+    "kind": "generated-3d",
+    "revision": "1ec2a6fe8aea"
+  },
+  "r172": {
+    "src": "assets/recipes/r172-3d.webp",
+    "title": "Dulce de coco en almíbar",
+    "kind": "generated-3d",
+    "revision": "d94ce8bcf286"
+  },
+  "r173": {
+    "src": "assets/recipes/r173-3d.webp",
+    "title": "Casquitos de guayaba",
+    "kind": "generated-3d",
+    "revision": "a697dcb31b6e"
+  },
+  "r174": {
+    "src": "assets/recipes/r174-3d.webp",
+    "title": "Dulce de fruta bomba",
+    "kind": "generated-3d",
+    "revision": "b9fc4107d20c"
+  },
+  "r175": {
+    "src": "assets/recipes/r175-3d.webp",
+    "title": "Dulce de leche cortada",
+    "kind": "generated-3d",
+    "revision": "c92dee3bfbe0"
+  },
+  "r176": {
+    "src": "assets/recipes/r176-3d.webp",
+    "title": "Natilla de vainilla",
+    "kind": "generated-3d",
+    "revision": "399d988ef7d4"
+  },
+  "r177": {
+    "src": "assets/recipes/r177-3d.webp",
+    "title": "Buñuelos de yuca en almíbar",
+    "kind": "generated-3d",
+    "revision": "03bebf2e5ec0"
+  },
+  "r178": {
+    "src": "assets/recipes/r178-3d.webp",
+    "title": "Pudín de pan con pasas",
+    "kind": "generated-3d",
+    "revision": "c50331fc706e"
+  },
+  "r179": {
+    "src": "assets/recipes/r179-3d.webp",
+    "title": "Torrejas cubanas",
+    "kind": "generated-3d",
+    "revision": "18cab3294c70"
+  },
+  "r180": {
+    "src": "assets/recipes/r180-3d.webp",
+    "title": "Turrón blando de maní",
+    "kind": "generated-3d",
+    "revision": "3d96229aed2b"
+  },
+  "r181": {
+    "src": "assets/recipes/r181-3d.webp",
+    "title": "Maní garapiñado",
+    "kind": "generated-3d",
+    "revision": "35044da751a8"
+  },
+  "r182": {
+    "src": "assets/recipes/r182-3d.webp",
+    "title": "Yemitas dulces",
+    "kind": "generated-3d",
+    "revision": "606273374de6"
+  },
+  "r183": {
+    "src": "assets/recipes/r183-3d.webp",
+    "title": "Tocinillo del cielo",
+    "kind": "generated-3d",
+    "revision": "f91d17994902"
+  },
+  "r184": {
+    "src": "assets/recipes/r184-3d.webp",
+    "title": "Cascos de toronja en almíbar",
+    "kind": "generated-3d",
+    "revision": "907132898c10"
+  },
+  "r185": {
+    "src": "assets/recipes/r185-3d.webp",
+    "title": "Mermelada casera de mango",
+    "kind": "generated-3d",
+    "revision": "de0d6c5289f9"
+  },
+  "r186": {
+    "src": "assets/recipes/r186-3d.webp",
+    "title": "Dulce de plátano maduro",
+    "kind": "generated-3d",
+    "revision": "4f1aa6991ee7"
+  },
+  "r187": {
+    "src": "assets/recipes/r187-3d.webp",
+    "title": "Harina de maíz dulce",
+    "kind": "generated-3d",
+    "revision": "37689d6b9371"
+  },
+  "r188": {
+    "src": "assets/recipes/r188-3d.webp",
+    "title": "Helado de mantecado casero",
+    "kind": "generated-3d",
+    "revision": "0a26594499fa"
+  },
+  "r189": {
+    "src": "assets/recipes/r189-3d.webp",
+    "title": "Durofríos de piña",
+    "kind": "generated-3d",
+    "revision": "295b33e0bdf9"
+  },
+  "r190": {
+    "src": "assets/recipes/r190-3d.webp",
+    "title": "Coquitos prietos",
+    "kind": "generated-3d",
+    "revision": "f8297c4669ad"
+  },
+  "r191": {
+    "src": "assets/recipes/r191-3d.webp",
+    "title": "Café cubano con espumita",
+    "kind": "generated-3d",
+    "revision": "37570c234eef"
+  },
+  "r192": {
+    "src": "assets/recipes/r192-3d.webp",
+    "title": "Café con leche",
+    "kind": "generated-3d",
+    "revision": "fe4afbcb9754"
+  },
+  "r193": {
+    "src": "assets/recipes/r193-3d.webp",
+    "title": "Batido de mamey",
+    "kind": "generated-3d",
+    "revision": "37932b21f53d"
+  },
+  "r194": {
+    "src": "assets/recipes/r194-3d.webp",
+    "title": "Batido de guanábana",
+    "kind": "generated-3d",
+    "revision": "d5c258f0c63a"
+  },
+  "r195": {
+    "src": "assets/recipes/r195-3d.webp",
+    "title": "Batido de fruta bomba",
+    "kind": "generated-3d",
+    "revision": "58ae3fb1a728"
+  },
+  "r196": {
+    "src": "assets/recipes/r196-3d.webp",
+    "title": "Jugo de guayaba",
+    "kind": "generated-3d",
+    "revision": "8707e460564e"
+  },
+  "r197": {
+    "src": "assets/recipes/r197-3d.webp",
+    "title": "Refresco de tamarindo",
+    "kind": "generated-3d",
+    "revision": "5dd9aa630d6a"
+  },
+  "r198": {
+    "src": "assets/recipes/r198-3d.webp",
+    "title": "Chocolate caliente casero",
+    "kind": "generated-3d",
+    "revision": "c2a5da8ae405"
+  },
+  "r199": {
+    "src": "assets/recipes/r199-3d.webp",
+    "title": "Limonada con hierbabuena",
+    "kind": "generated-3d",
+    "revision": "7ed2ca828160"
+  },
+  "r200": {
+    "src": "assets/recipes/r200-3d.webp",
+    "title": "Batido de trigo inflado",
+    "kind": "generated-3d",
+    "revision": "8dc71b5ace13"
+  },
+  "r201": {
+    "src": "assets/recipes/r201-3d.webp",
+    "title": "Rollitos de res rellenos de plátano maduro",
+    "kind": "generated-3d",
+    "revision": "ecfaadeee5cb"
+  },
+  "r202": {
+    "src": "assets/recipes/r202-3d.webp",
+    "title": "Res guisada con boniato y aceitunas",
+    "kind": "generated-3d",
+    "revision": "a76bf0794037"
+  },
+  "r203": {
+    "src": "assets/recipes/r203-3d.webp",
+    "title": "Falda de res al café y naranja",
+    "kind": "generated-3d",
+    "revision": "de403c14a7c2"
+  },
+  "r204": {
+    "src": "assets/recipes/r204-3d.webp",
+    "title": "Tiras de res con col y salsa de soya",
+    "kind": "generated-3d",
+    "revision": "7648a70603c4"
+  },
+  "r205": {
+    "src": "assets/recipes/r205-3d.webp",
+    "title": "Albóndigas de res con calabaza y comino",
+    "kind": "generated-3d",
+    "revision": "f3d193c861fe"
+  },
+  "r206": {
+    "src": "assets/recipes/r206-3d.webp",
+    "title": "Pastel de res y fufú de plátano",
+    "kind": "generated-3d",
+    "revision": "7284e192deb8"
+  },
+  "r207": {
+    "src": "assets/recipes/r207-3d.webp",
+    "title": "Pimientos rellenos de res y maíz",
+    "kind": "generated-3d",
+    "revision": "91d47345f0c0"
+  },
+  "r208": {
+    "src": "assets/recipes/r208-3d.webp",
+    "title": "Berenjenas rellenas de res y queso",
+    "kind": "generated-3d",
+    "revision": "ccc641061597"
+  },
+  "r209": {
+    "src": "assets/recipes/r209-3d.webp",
+    "title": "Bistec de res con salsa de guayaba",
+    "kind": "generated-3d",
+    "revision": "17e94a70966e"
+  },
+  "r210": {
+    "src": "assets/recipes/r210-3d.webp",
+    "title": "Res estofada con garbanzos y zanahoria",
+    "kind": "generated-3d",
+    "revision": "3fe8c97bd0b8"
+  },
+  "r211": {
+    "src": "assets/recipes/r211-3d.webp",
+    "title": "Costilla de res al vino y ajo asado",
+    "kind": "generated-3d",
+    "revision": "49764a87c8e0"
+  },
+  "r212": {
+    "src": "assets/recipes/r212-3d.webp",
+    "title": "Carrilleras de res con malanga",
+    "kind": "generated-3d",
+    "revision": "598b8a0e7145"
+  },
+  "r213": {
+    "src": "assets/recipes/r213-3d.webp",
+    "title": "Falda braseada con cerveza negra",
+    "kind": "generated-3d",
+    "revision": "0e36084f12fc"
+  },
+  "r214": {
+    "src": "assets/recipes/r214-3d.webp",
+    "title": "Pulpeta de res con espinaca y zanahoria",
+    "kind": "generated-3d",
+    "revision": "d38b81cdd417"
+  },
+  "r215": {
+    "src": "assets/recipes/r215-3d.webp",
+    "title": "Brochetas de res con plátano y pimiento",
+    "kind": "generated-3d",
+    "revision": "e000a7074ce3"
+  },
+  "r216": {
+    "src": "assets/recipes/r216-3d.webp",
+    "title": "Hamburguesas al comino con cebolla encurtida",
+    "kind": "generated-3d",
+    "revision": "522e00900bd5"
+  },
+  "r217": {
+    "src": "assets/recipes/r217-3d.webp",
+    "title": "Hígado de res con pimientos asados",
+    "kind": "generated-3d",
+    "revision": "70049c06cedb"
+  },
+  "r218": {
+    "src": "assets/recipes/r218-3d.webp",
+    "title": "Lengua al limón con perejil",
+    "kind": "generated-3d",
+    "revision": "3550f48bb621"
+  },
+  "r219": {
+    "src": "assets/recipes/r219-3d.webp",
+    "title": "Rabo con calabaza y frijoles blancos",
+    "kind": "generated-3d",
+    "revision": "4c6c298f444f"
+  },
+  "r220": {
+    "src": "assets/recipes/r220-3d.webp",
+    "title": "Res guisada con berenjena y albahaca",
+    "kind": "generated-3d",
+    "revision": "f6f4366db876"
+  },
+  "r221": {
+    "src": "assets/recipes/r221-3d.webp",
+    "title": "Redondo mechado con zanahoria y tocino",
+    "kind": "generated-3d",
+    "revision": "5472784f155a"
+  },
+  "r222": {
+    "src": "assets/recipes/r222-3d.webp",
+    "title": "Filetes de res gratinados con champiñones",
+    "kind": "generated-3d",
+    "revision": "97c1eea1e6e1"
+  },
+  "r223": {
+    "src": "assets/recipes/r223-3d.webp",
+    "title": "Albóndigas de res en salsa de coco",
+    "kind": "generated-3d",
+    "revision": "98a4dfff3c6d"
+  },
+  "r224": {
+    "src": "assets/recipes/r224-3d.webp",
+    "title": "Res salteada con habichuelas y jengibre",
+    "kind": "generated-3d",
+    "revision": "922b598f15e4"
+  },
+  "r225": {
+    "src": "assets/recipes/r225-3d.webp",
+    "title": "Tortillón de picadillo y papa",
+    "kind": "generated-3d",
+    "revision": "fae1af5d7ba4"
+  },
+  "r226": {
+    "src": "assets/recipes/r226-3d.webp",
+    "title": "Solomillo de cerdo con mango asado",
+    "kind": "generated-3d",
+    "revision": "16cbe5e4f2b1"
+  },
+  "r227": {
+    "src": "assets/recipes/r227-3d.webp",
+    "title": "Chuletas de cerdo en salsa de café",
+    "kind": "generated-3d",
+    "revision": "a366ff44108e"
+  },
+  "r228": {
+    "src": "assets/recipes/r228-3d.webp",
+    "title": "Costillas con glaseado de guayaba",
+    "kind": "generated-3d",
+    "revision": "f835112458ea"
+  },
+  "r229": {
+    "src": "assets/recipes/r229-3d.webp",
+    "title": "Paleta de cerdo al tamarindo",
+    "kind": "generated-3d",
+    "revision": "f3f45cedc061"
+  },
+  "r230": {
+    "src": "assets/recipes/r230-3d.webp",
+    "title": "Cerdo desmechado con frijoles negros",
+    "kind": "generated-3d",
+    "revision": "0af9d6c39e49"
+  },
+  "r231": {
+    "src": "assets/recipes/r231-3d.webp",
+    "title": "Albóndigas de cerdo al cilantro y limón",
+    "kind": "generated-3d",
+    "revision": "0a58d828c854"
+  },
+  "r232": {
+    "src": "assets/recipes/r232-3d.webp",
+    "title": "Bistec de cerdo empanizado con casabe",
+    "kind": "generated-3d",
+    "revision": "c2981f1fe3b5"
+  },
+  "r233": {
+    "src": "assets/recipes/r233-3d.webp",
+    "title": "Solomillo de cerdo relleno de espinaca",
+    "kind": "generated-3d",
+    "revision": "34e1a864f538"
+  },
+  "r234": {
+    "src": "assets/recipes/r234-3d.webp",
+    "title": "Lomo de cerdo con coco y maíz",
+    "kind": "generated-3d",
+    "revision": "368bd1b19595"
+  },
+  "r235": {
+    "src": "assets/recipes/r235-3d.webp",
+    "title": "Cerdo salteado con col y ajonjolí",
+    "kind": "generated-3d",
+    "revision": "3e306e5d1240"
+  },
+  "r236": {
+    "src": "assets/recipes/r236-3d.webp",
+    "title": "Pinchos de cerdo con piña",
+    "kind": "generated-3d",
+    "revision": "afc1d38a1ce2"
+  },
+  "r237": {
+    "src": "assets/recipes/r237-3d.webp",
+    "title": "Costillas guisadas con malanga",
+    "kind": "generated-3d",
+    "revision": "277b94fce378"
+  },
+  "r238": {
+    "src": "assets/recipes/r238-3d.webp",
+    "title": "Cerdo agridulce de naranja",
+    "kind": "generated-3d",
+    "revision": "a076ececb9a2"
+  },
+  "r239": {
+    "src": "assets/recipes/r239-3d.webp",
+    "title": "Pastel de cerdo y boniato",
+    "kind": "generated-3d",
+    "revision": "5c890a2b9ec8"
+  },
+  "r240": {
+    "src": "assets/recipes/r240-3d.webp",
+    "title": "Chuletas con mojo de hierbabuena y tostones",
+    "kind": "generated-3d",
+    "revision": "9ed2dda759d0"
+  },
+  "r241": {
+    "src": "assets/recipes/r241-3d.webp",
+    "title": "Paleta de cerdo con cerveza y ciruelas",
+    "kind": "generated-3d",
+    "revision": "1e2320a1b0a4"
+  },
+  "r242": {
+    "src": "assets/recipes/r242-3d.webp",
+    "title": "Lomo de cerdo frío en escabeche",
+    "kind": "generated-3d",
+    "revision": "cb003c905aad"
+  },
+  "r243": {
+    "src": "assets/recipes/r243-3d.webp",
+    "title": "Cerdo guisado con berenjena",
+    "kind": "generated-3d",
+    "revision": "18a789f9cae4"
+  },
+  "r244": {
+    "src": "assets/recipes/r244-3d.webp",
+    "title": "Pulpeta de cerdo con maní tostado",
+    "kind": "generated-3d",
+    "revision": "d114057eb44c"
+  },
+  "r245": {
+    "src": "assets/recipes/r245-3d.webp",
+    "title": "Hígado de cerdo con tomate y aceitunas",
+    "kind": "generated-3d",
+    "revision": "42f78717a7e8"
+  },
+  "r246": {
+    "src": "assets/recipes/r246-3d.webp",
+    "title": "Chuletas de cerdo con calabaza al horno",
+    "kind": "generated-3d",
+    "revision": "59d09ba5333b"
+  },
+  "r247": {
+    "src": "assets/recipes/r247-3d.webp",
+    "title": "Solomillo de cerdo a la naranja y mostaza",
+    "kind": "generated-3d",
+    "revision": "077402925a77"
+  },
+  "r248": {
+    "src": "assets/recipes/r248-3d.webp",
+    "title": "Paletilla de cordero al mojo con papas",
+    "kind": "generated-3d",
+    "revision": "b9504c4af3e1"
+  },
+  "r249": {
+    "src": "assets/recipes/r249-3d.webp",
+    "title": "Cordero con garbanzos y pimiento",
+    "kind": "generated-3d",
+    "revision": "e865b54cded8"
+  },
+  "r250": {
+    "src": "assets/recipes/r250-3d.webp",
+    "title": "Albóndigas de cordero con hierbabuena",
+    "kind": "generated-3d",
+    "revision": "9d1d820301a8"
+  },
+  "r251": {
+    "src": "assets/recipes/r251-3d.webp",
+    "title": "Chuletas de cordero al ajo con berenjena",
+    "kind": "generated-3d",
+    "revision": "32ff16460162"
+  },
+  "r252": {
+    "src": "assets/recipes/r252-3d.webp",
+    "title": "Pierna de cordero con naranja y ajo",
+    "kind": "generated-3d",
+    "revision": "7455ece0315d"
+  },
+  "r253": {
+    "src": "assets/recipes/r253-3d.webp",
+    "title": "Cordero con quimbombó en salsa roja",
+    "kind": "generated-3d",
+    "revision": "93f51d48de5d"
+  },
+  "r254": {
+    "src": "assets/recipes/r254-3d.webp",
+    "title": "Chivo con frijoles colorados",
+    "kind": "generated-3d",
+    "revision": "12902d7603ff"
+  },
+  "r255": {
+    "src": "assets/recipes/r255-3d.webp",
+    "title": "Paleta de chivo al horno con mojo",
+    "kind": "generated-3d",
+    "revision": "859779a21f4e"
+  },
+  "r256": {
+    "src": "assets/recipes/r256-3d.webp",
+    "title": "Chivo con calabaza y maíz",
+    "kind": "generated-3d",
+    "revision": "75f2fd40838a"
+  },
+  "r257": {
+    "src": "assets/recipes/r257-3d.webp",
+    "title": "Albóndigas de chivo en salsa de maní",
+    "kind": "generated-3d",
+    "revision": "108df84a68da"
+  },
+  "r258": {
+    "src": "assets/recipes/r258-3d.webp",
+    "title": "Chivo con yuca en cazuela",
+    "kind": "generated-3d",
+    "revision": "0b8dda347a61"
+  },
+  "r259": {
+    "src": "assets/recipes/r259-3d.webp",
+    "title": "Conejo al horno con mojo y boniato",
+    "kind": "generated-3d",
+    "revision": "f7330d6d6a14"
+  },
+  "r260": {
+    "src": "assets/recipes/r260-3d.webp",
+    "title": "Conejo a la cerveza con champiñones",
+    "kind": "generated-3d",
+    "revision": "a78ead9a177a"
+  },
+  "r261": {
+    "src": "assets/recipes/r261-3d.webp",
+    "title": "Conejo con aceitunas y pimientos asados",
+    "kind": "generated-3d",
+    "revision": "879d0a8c1bb6"
+  },
+  "r262": {
+    "src": "assets/recipes/r262-3d.webp",
+    "title": "Conejo al ajillo con limón y perejil",
+    "kind": "generated-3d",
+    "revision": "452eb33fe90c"
+  },
+  "r263": {
+    "src": "assets/recipes/r263-3d.webp",
+    "title": "Conejo con coco y calabaza",
+    "kind": "generated-3d",
+    "revision": "ef1a4366a9b2"
+  },
+  "r264": {
+    "src": "assets/recipes/r264-3d.webp",
+    "title": "Albóndigas de conejo con tomate y albahaca",
+    "kind": "generated-3d",
+    "revision": "820e2989ac2f"
+  },
+  "r265": {
+    "src": "assets/recipes/r265-3d.webp",
+    "title": "Conejo relleno de espinaca y pasas",
+    "kind": "generated-3d",
+    "revision": "21adbc18c545"
+  },
+  "r266": {
+    "src": "assets/recipes/r266-3d.webp",
+    "title": "Rollitos de pollo con plátano y espinaca",
+    "kind": "generated-3d",
+    "revision": "7498ba6afd5e"
+  },
+  "r267": {
+    "src": "assets/recipes/r267-3d.webp",
+    "title": "Muslos de pollo al tamarindo",
+    "kind": "generated-3d",
+    "revision": "a7f19d6841ea"
+  },
+  "r268": {
+    "src": "assets/recipes/r268-3d.webp",
+    "title": "Alitas de pollo glaseadas con guayaba",
+    "kind": "generated-3d",
+    "revision": "95297719a4af"
+  },
+  "r269": {
+    "src": "assets/recipes/r269-3d.webp",
+    "title": "Pollo desmechado con frijoles colorados",
+    "kind": "generated-3d",
+    "revision": "8c9f0a033460"
+  },
+  "r270": {
+    "src": "assets/recipes/r270-3d.webp",
+    "title": "Pollo con coco y boniato",
+    "kind": "generated-3d",
+    "revision": "0afea5fc4161"
+  },
+  "r271": {
+    "src": "assets/recipes/r271-3d.webp",
+    "title": "Pechugas con champiñones y cilantro",
+    "kind": "generated-3d",
+    "revision": "486982776fde"
+  },
+  "r272": {
+    "src": "assets/recipes/r272-3d.webp",
+    "title": "Pastel de pollo y malanga",
+    "kind": "generated-3d",
+    "revision": "577bfe2d58a7"
+  },
+  "r273": {
+    "src": "assets/recipes/r273-3d.webp",
+    "title": "Pimientos rellenos de pollo y maíz",
+    "kind": "generated-3d",
+    "revision": "474874ff8e5a"
+  },
+  "r274": {
+    "src": "assets/recipes/r274-3d.webp",
+    "title": "Berenjenas rellenas de pollo y queso",
+    "kind": "generated-3d",
+    "revision": "e02baa42f14b"
+  },
+  "r275": {
+    "src": "assets/recipes/r275-3d.webp",
+    "title": "Brochetas de pollo con mango",
+    "kind": "generated-3d",
+    "revision": "dd57cd44ab53"
+  },
+  "r276": {
+    "src": "assets/recipes/r276-3d.webp",
+    "title": "Pollo en escabeche de zanahoria",
+    "kind": "generated-3d",
+    "revision": "16fdb8d45162"
+  },
+  "r277": {
+    "src": "assets/recipes/r277-3d.webp",
+    "title": "Pollo al horno con costra de casabe",
+    "kind": "generated-3d",
+    "revision": "23bb12f2cb08"
+  },
+  "r278": {
+    "src": "assets/recipes/r278-3d.webp",
+    "title": "Albóndigas de pollo con quimbombó",
+    "kind": "generated-3d",
+    "revision": "bbe990bfe633"
+  },
+  "r279": {
+    "src": "assets/recipes/r279-3d.webp",
+    "title": "Muslos de pollo con ciruelas y vino",
+    "kind": "generated-3d",
+    "revision": "8e145d92a1ee"
+  },
+  "r280": {
+    "src": "assets/recipes/r280-3d.webp",
+    "title": "Pollo con garbanzos y pimientos",
+    "kind": "generated-3d",
+    "revision": "08ee131fe966"
+  },
+  "r281": {
+    "src": "assets/recipes/r281-3d.webp",
+    "title": "Rollitos de pollo rellenos de maíz y queso",
+    "kind": "generated-3d",
+    "revision": "4ef722d207b7"
+  },
+  "r282": {
+    "src": "assets/recipes/r282-3d.webp",
+    "title": "Tiras de pollo crujientes con ajonjolí",
+    "kind": "generated-3d",
+    "revision": "9b5ce4b9adc3"
+  },
+  "r283": {
+    "src": "assets/recipes/r283-3d.webp",
+    "title": "Pollo al café con boniato",
+    "kind": "generated-3d",
+    "revision": "12e6a50b7d9a"
+  },
+  "r284": {
+    "src": "assets/recipes/r284-3d.webp",
+    "title": "Pollo salteado con col y jengibre",
+    "kind": "generated-3d",
+    "revision": "9de1770e5b76"
+  },
+  "r285": {
+    "src": "assets/recipes/r285-3d.webp",
+    "title": "Pollo al horno con berenjena y aceitunas",
+    "kind": "generated-3d",
+    "revision": "f6a663a8f5f6"
+  },
+  "r286": {
+    "src": "assets/recipes/r286-3d.webp",
+    "title": "Guanajo asado de fiesta con cítricos",
+    "kind": "generated-3d",
+    "revision": "960902939e67"
+  },
+  "r287": {
+    "src": "assets/recipes/r287-3d.webp",
+    "title": "Muslos de pavo con malanga",
+    "kind": "generated-3d",
+    "revision": "7faec3c18269"
+  },
+  "r288": {
+    "src": "assets/recipes/r288-3d.webp",
+    "title": "Pechuga de pavo rellena de guayaba y queso",
+    "kind": "generated-3d",
+    "revision": "ffa5b8940153"
+  },
+  "r289": {
+    "src": "assets/recipes/r289-3d.webp",
+    "title": "Albóndigas de pavo con coco y cilantro",
+    "kind": "generated-3d",
+    "revision": "ae262deea9fb"
+  },
+  "r290": {
+    "src": "assets/recipes/r290-3d.webp",
+    "title": "Filetes de pavo empanizados con maíz",
+    "kind": "generated-3d",
+    "revision": "1ad15693e475"
+  },
+  "r291": {
+    "src": "assets/recipes/r291-3d.webp",
+    "title": "Rollitos de col rellenos de pavo",
+    "kind": "generated-3d",
+    "revision": "d87ccafd1146"
+  },
+  "r292": {
+    "src": "assets/recipes/r292-3d.webp",
+    "title": "Pavo con frijoles blancos y zanahoria",
+    "kind": "generated-3d",
+    "revision": "48f4c9f6659f"
+  },
+  "r293": {
+    "src": "assets/recipes/r293-3d.webp",
+    "title": "Pavo salteado con piña y habichuelas",
+    "kind": "generated-3d",
+    "revision": "34007571e250"
+  },
+  "r294": {
+    "src": "assets/recipes/r294-3d.webp",
+    "title": "Pulpeta de pavo con zanahoria y aceitunas",
+    "kind": "generated-3d",
+    "revision": "9848b67abcb1"
+  },
+  "r295": {
+    "src": "assets/recipes/r295-3d.webp",
+    "title": "Medallones de pavo a la mostaza y naranja",
+    "kind": "generated-3d",
+    "revision": "3a1d39a0f59d"
+  },
+  "r296": {
+    "src": "assets/recipes/r296-3d.webp",
+    "title": "Pavo al tamarindo con calabaza",
+    "kind": "generated-3d",
+    "revision": "231198512ae2"
+  },
+  "r297": {
+    "src": "assets/recipes/r297-3d.webp",
+    "title": "Hamburguesas de pavo con mango y cilantro",
+    "kind": "generated-3d",
+    "revision": "914c778af3fb"
+  },
+  "r298": {
+    "src": "assets/recipes/r298-3d.webp",
+    "title": "Pavo con quimbombó y maíz",
+    "kind": "generated-3d",
+    "revision": "522f76ccfa4a"
+  },
+  "r299": {
+    "src": "assets/recipes/r299-3d.webp",
+    "title": "Pechuga de pavo escabechada con pimientos",
+    "kind": "generated-3d",
+    "revision": "acf8c6279d26"
+  },
+  "r300": {
+    "src": "assets/recipes/r300-3d.webp",
+    "title": "Pato entero al mojo de naranja",
+    "kind": "generated-3d",
+    "revision": "b711b0be5620"
+  },
+  "r301": {
+    "src": "assets/recipes/r301-3d.webp",
+    "title": "Muslos de pato al tamarindo",
+    "kind": "generated-3d",
+    "revision": "e76d48f02548"
+  },
+  "r302": {
+    "src": "assets/recipes/r302-3d.webp",
+    "title": "Pechuga de pato con salsa de guayaba",
+    "kind": "generated-3d",
+    "revision": "fe5e434e27db"
+  },
+  "r303": {
+    "src": "assets/recipes/r303-3d.webp",
+    "title": "Pato con aceitunas y tomate",
+    "kind": "generated-3d",
+    "revision": "9e54259735e0"
+  },
+  "r304": {
+    "src": "assets/recipes/r304-3d.webp",
+    "title": "Pato con coco y calabaza",
+    "kind": "generated-3d",
+    "revision": "26a318f30380"
+  },
+  "r305": {
+    "src": "assets/recipes/r305-3d.webp",
+    "title": "Pato desmechado con frijoles negros",
+    "kind": "generated-3d",
+    "revision": "4d09ec9bb5ff"
+  },
+  "r306": {
+    "src": "assets/recipes/r306-3d.webp",
+    "title": "Muslos de pato con cerveza y boniato",
+    "kind": "generated-3d",
+    "revision": "57c5529cc795"
+  },
+  "r307": {
+    "src": "assets/recipes/r307-3d.webp",
+    "title": "Pechuga de pato con naranja y jengibre",
+    "kind": "generated-3d",
+    "revision": "d73b6030faf9"
+  },
+  "r308": {
+    "src": "assets/recipes/r308-3d.webp",
+    "title": "Pastel de pato y plátano maduro",
+    "kind": "generated-3d",
+    "revision": "343052f76998"
+  },
+  "r309": {
+    "src": "assets/recipes/r309-3d.webp",
+    "title": "Pato salteado con piña y pimientos",
+    "kind": "generated-3d",
+    "revision": "ea3151db3644"
+  },
+  "r310": {
+    "src": "assets/recipes/r310-3d.webp",
+    "title": "Muslos de pato con lentejas y zanahoria",
+    "kind": "generated-3d",
+    "revision": "23d7dedc6160"
+  },
+  "r311": {
+    "src": "assets/recipes/r311-3d.webp",
+    "title": "Albóndigas de pato con ciruelas",
+    "kind": "generated-3d",
+    "revision": "cdee1bf4d562"
+  },
+  "r312": {
+    "src": "assets/recipes/r312-3d.webp",
+    "title": "Ganso asado al mojo con manzanas",
+    "kind": "generated-3d",
+    "revision": "75e8a253bc86"
+  },
+  "r313": {
+    "src": "assets/recipes/r313-3d.webp",
+    "title": "Muslos de ganso en salsa criolla",
+    "kind": "generated-3d",
+    "revision": "f005abcd513d"
+  },
+  "r314": {
+    "src": "assets/recipes/r314-3d.webp",
+    "title": "Pechuga de ganso con naranja y miel",
+    "kind": "generated-3d",
+    "revision": "f36016e5cc21"
+  },
+  "r315": {
+    "src": "assets/recipes/r315-3d.webp",
+    "title": "Ganso desmechado con boniato y cebolla",
+    "kind": "generated-3d",
+    "revision": "814c2fef91bf"
+  },
+  "r316": {
+    "src": "assets/recipes/r316-3d.webp",
+    "title": "Pargo en papillote con malanga",
+    "kind": "generated-3d",
+    "revision": "3f926dc1e0d1"
+  },
+  "r317": {
+    "src": "assets/recipes/r317-3d.webp",
+    "title": "Pargo con coco y calabaza",
+    "kind": "generated-3d",
+    "revision": "a9496fa2ca87"
+  },
+  "r318": {
+    "src": "assets/recipes/r318-3d.webp",
+    "title": "Pargo a la plancha con mango y cilantro",
+    "kind": "generated-3d",
+    "revision": "92dad4fe52e1"
+  },
+  "r319": {
+    "src": "assets/recipes/r319-3d.webp",
+    "title": "Pargo con costra de casabe",
+    "kind": "generated-3d",
+    "revision": "a7d1401a59ff"
+  },
+  "r320": {
+    "src": "assets/recipes/r320-3d.webp",
+    "title": "Rollitos de pargo con espinaca y queso",
+    "kind": "generated-3d",
+    "revision": "b5aa1f5fba42"
+  },
+  "r321": {
+    "src": "assets/recipes/r321-3d.webp",
+    "title": "Cherna con garbanzos al sofrito",
+    "kind": "generated-3d",
+    "revision": "c01e37d2213d"
+  },
+  "r322": {
+    "src": "assets/recipes/r322-3d.webp",
+    "title": "Cherna al horno con boniato y naranja",
+    "kind": "generated-3d",
+    "revision": "9f830a1d6024"
+  },
+  "r323": {
+    "src": "assets/recipes/r323-3d.webp",
+    "title": "Cherna en salsa de maní y ají dulce",
+    "kind": "generated-3d",
+    "revision": "e139eddbf5aa"
+  },
+  "r324": {
+    "src": "assets/recipes/r324-3d.webp",
+    "title": "Cherna al vapor con jengibre y cebollino",
+    "kind": "generated-3d",
+    "revision": "3d99ef653e3e"
+  },
+  "r325": {
+    "src": "assets/recipes/r325-3d.webp",
+    "title": "Cherna gratinada con maíz",
+    "kind": "generated-3d",
+    "revision": "ec2be6c8718d"
+  },
+  "r326": {
+    "src": "assets/recipes/r326-3d.webp",
+    "title": "Corvina al mojo verde con yuca",
+    "kind": "generated-3d",
+    "revision": "a24b5f9362d8"
+  },
+  "r327": {
+    "src": "assets/recipes/r327-3d.webp",
+    "title": "Corvina en papillote con aceitunas",
+    "kind": "generated-3d",
+    "revision": "786445349bca"
+  },
+  "r328": {
+    "src": "assets/recipes/r328-3d.webp",
+    "title": "Corvina sobre crema de malanga",
+    "kind": "generated-3d",
+    "revision": "6c417305466d"
+  },
+  "r329": {
+    "src": "assets/recipes/r329-3d.webp",
+    "title": "Corvina con salsa salada de guayaba",
+    "kind": "generated-3d",
+    "revision": "dac5dfeb0a77"
+  },
+  "r330": {
+    "src": "assets/recipes/r330-3d.webp",
+    "title": "Corvina empanizada con maíz",
+    "kind": "generated-3d",
+    "revision": "8f76c160a6ab"
+  },
+  "r331": {
+    "src": "assets/recipes/r331-3d.webp",
+    "title": "Tilapia al horno con plátano maduro",
+    "kind": "generated-3d",
+    "revision": "61b23035b89d"
+  },
+  "r332": {
+    "src": "assets/recipes/r332-3d.webp",
+    "title": "Tilapia con berenjena y albahaca",
+    "kind": "generated-3d",
+    "revision": "82ae24be4b8c"
+  },
+  "r333": {
+    "src": "assets/recipes/r333-3d.webp",
+    "title": "Rollitos de tilapia con zanahoria y pimiento",
+    "kind": "generated-3d",
+    "revision": "862b3496162c"
+  },
+  "r334": {
+    "src": "assets/recipes/r334-3d.webp",
+    "title": "Tilapia con coco y cilantro",
+    "kind": "generated-3d",
+    "revision": "f39498973230"
+  },
+  "r335": {
+    "src": "assets/recipes/r335-3d.webp",
+    "title": "Tilapia crujiente con ajonjolí",
+    "kind": "generated-3d",
+    "revision": "d0fd0427f665"
+  },
+  "r336": {
+    "src": "assets/recipes/r336-3d.webp",
+    "title": "Merluza con papas y pimientos asados",
+    "kind": "generated-3d",
+    "revision": "19f7ee109ef5"
+  },
+  "r337": {
+    "src": "assets/recipes/r337-3d.webp",
+    "title": "Merluza en salsa de perejil",
+    "kind": "generated-3d",
+    "revision": "02d762a28339"
+  },
+  "r338": {
+    "src": "assets/recipes/r338-3d.webp",
+    "title": "Merluza al horno con espinaca y queso",
+    "kind": "generated-3d",
+    "revision": "3841bfcf20d9"
+  },
+  "r339": {
+    "src": "assets/recipes/r339-3d.webp",
+    "title": "Albóndigas de merluza en salsa criolla",
+    "kind": "generated-3d",
+    "revision": "a38ec988e1ef"
+  },
+  "r340": {
+    "src": "assets/recipes/r340-3d.webp",
+    "title": "Pastel de merluza y boniato",
+    "kind": "generated-3d",
+    "revision": "6ba12eb2ea07"
+  },
+  "r341": {
+    "src": "assets/recipes/r341-3d.webp",
+    "title": "Bacalao fresco con sofrito de maíz",
+    "kind": "generated-3d",
+    "revision": "45ae13ade1c6"
+  },
+  "r342": {
+    "src": "assets/recipes/r342-3d.webp",
+    "title": "Bacalao con garbanzos y espinaca",
+    "kind": "generated-3d",
+    "revision": "3ee73e6c90b2"
+  },
+  "r343": {
+    "src": "assets/recipes/r343-3d.webp",
+    "title": "Bacalao al horno con pimientos y papas",
+    "kind": "generated-3d",
+    "revision": "9540c2f7bc26"
+  },
+  "r344": {
+    "src": "assets/recipes/r344-3d.webp",
+    "title": "Tortilla de bacalao y cebolla",
+    "kind": "generated-3d",
+    "revision": "39705f26c8ac"
+  },
+  "r345": {
+    "src": "assets/recipes/r345-3d.webp",
+    "title": "Brandada de bacalao y malanga",
+    "kind": "generated-3d",
+    "revision": "0547abb789af"
+  },
+  "r346": {
+    "src": "assets/recipes/r346-3d.webp",
+    "title": "Atún a la plancha con aguacate y tomate",
+    "kind": "generated-3d",
+    "revision": "7cf2b06d9fb7"
+  },
+  "r347": {
+    "src": "assets/recipes/r347-3d.webp",
+    "title": "Atún con frijoles blancos y pimientos",
+    "kind": "generated-3d",
+    "revision": "97f035a26baa"
+  },
+  "r348": {
+    "src": "assets/recipes/r348-3d.webp",
+    "title": "Albóndigas de atún fresco al limón",
+    "kind": "generated-3d",
+    "revision": "e8df4005d114"
+  },
+  "r349": {
+    "src": "assets/recipes/r349-3d.webp",
+    "title": "Pimientos rellenos de atún y arroz",
+    "kind": "generated-3d",
+    "revision": "1e78e13a58d1"
+  },
+  "r350": {
+    "src": "assets/recipes/r350-3d.webp",
+    "title": "Atún gratinado con plátano maduro",
+    "kind": "generated-3d",
+    "revision": "be92e30be043"
+  },
+  "r351": {
+    "src": "assets/recipes/r351-3d.webp",
+    "title": "Salmón al mojo de naranja",
+    "kind": "generated-3d",
+    "revision": "a1910dd61d56"
+  },
+  "r352": {
+    "src": "assets/recipes/r352-3d.webp",
+    "title": "Salmón con costra de maní y limón",
+    "kind": "generated-3d",
+    "revision": "6c5a8a87a7b5"
+  },
+  "r353": {
+    "src": "assets/recipes/r353-3d.webp",
+    "title": "Salmón en papillote con col y zanahoria",
+    "kind": "generated-3d",
+    "revision": "cd9a46f3ede1"
+  },
+  "r354": {
+    "src": "assets/recipes/r354-3d.webp",
+    "title": "Salmón con mango y tamarindo",
+    "kind": "generated-3d",
+    "revision": "0f0b9f898004"
+  },
+  "r355": {
+    "src": "assets/recipes/r355-3d.webp",
+    "title": "Salmón sobre crema de maíz",
+    "kind": "generated-3d",
+    "revision": "619655f1f7fc"
+  },
+  "r356": {
+    "src": "assets/recipes/r356-3d.webp",
+    "title": "Trucha al horno con ajo y perejil",
+    "kind": "generated-3d",
+    "revision": "77c76dfc849d"
+  },
+  "r357": {
+    "src": "assets/recipes/r357-3d.webp",
+    "title": "Trucha con coco y ají dulce",
+    "kind": "generated-3d",
+    "revision": "c59e941a260f"
+  },
+  "r358": {
+    "src": "assets/recipes/r358-3d.webp",
+    "title": "Trucha con almendras y tostones",
+    "kind": "generated-3d",
+    "revision": "fa57863334cc"
+  },
+  "r359": {
+    "src": "assets/recipes/r359-3d.webp",
+    "title": "Trucha rellena de vegetales",
+    "kind": "generated-3d",
+    "revision": "0cce3793653e"
+  },
+  "r360": {
+    "src": "assets/recipes/r360-3d.webp",
+    "title": "Trucha en escabeche de naranja",
+    "kind": "generated-3d",
+    "revision": "aa9530d43017"
+  },
+  "r361": {
+    "src": "assets/recipes/r361-3d.webp",
+    "title": "Sierra guisada con berenjena",
+    "kind": "generated-3d",
+    "revision": "8104ee770c1f"
+  },
+  "r362": {
+    "src": "assets/recipes/r362-3d.webp",
+    "title": "Sierra al horno con boniato y aceitunas",
+    "kind": "generated-3d",
+    "revision": "ccf2b4ae7a54"
+  },
+  "r363": {
+    "src": "assets/recipes/r363-3d.webp",
+    "title": "Jurel al horno con tomate y cebolla",
+    "kind": "generated-3d",
+    "revision": "395867b732f8"
+  },
+  "r364": {
+    "src": "assets/recipes/r364-3d.webp",
+    "title": "Jurel con salsa de tamarindo y pimiento",
+    "kind": "generated-3d",
+    "revision": "b6957761ea50"
+  },
+  "r365": {
+    "src": "assets/recipes/r365-3d.webp",
+    "title": "Sardinas asadas con costra de casabe",
+    "kind": "generated-3d",
+    "revision": "c01061efab98"
+  },
+  "r366": {
+    "src": "assets/recipes/r366-3d.webp",
+    "title": "Sardinas en escabeche de limón",
+    "kind": "generated-3d",
+    "revision": "1f1e737bdbb5"
+  },
+  "r367": {
+    "src": "assets/recipes/r367-3d.webp",
+    "title": "Pastel de sardinas con papa y tomate",
+    "kind": "generated-3d",
+    "revision": "513c993eaaf9"
+  },
+  "r368": {
+    "src": "assets/recipes/r368-3d.webp",
+    "title": "Dorado a la plancha con piña y hierbabuena",
+    "kind": "generated-3d",
+    "revision": "0d1c0d0fab6b"
+  },
+  "r369": {
+    "src": "assets/recipes/r369-3d.webp",
+    "title": "Dorado con garbanzos y calabaza",
+    "kind": "generated-3d",
+    "revision": "c90fc73ade82"
+  },
+  "r370": {
+    "src": "assets/recipes/r370-3d.webp",
+    "title": "Lenguado enrollado con espinaca a la naranja",
+    "kind": "generated-3d",
+    "revision": "84545c712521"
+  },
+  "r371": {
+    "src": "assets/recipes/r371-3d.webp",
+    "title": "Arroz con langosta y azafrán",
+    "kind": "generated-3d",
+    "revision": "7d602f7c6fb2"
+  },
+  "r372": {
+    "src": "assets/recipes/r372-3d.webp",
+    "title": "Arroz meloso de jaiba",
+    "kind": "generated-3d",
+    "revision": "c070e62fe04e"
+  },
+  "r373": {
+    "src": "assets/recipes/r373-3d.webp",
+    "title": "Arroz de cobo con sofrito criollo",
+    "kind": "generated-3d",
+    "revision": "6d56a19933c0"
+  },
+  "r374": {
+    "src": "assets/recipes/r374-3d.webp",
+    "title": "Arroz negro con sepia",
+    "kind": "generated-3d",
+    "revision": "e37d90d00aef"
+  },
+  "r375": {
+    "src": "assets/recipes/r375-3d.webp",
+    "title": "Arroz de pulpo con pimientos asados",
+    "kind": "generated-3d",
+    "revision": "e0527f326915"
+  },
+  "r376": {
+    "src": "assets/recipes/r376-3d.webp",
+    "title": "Arroz de bacalao con garbanzos",
+    "kind": "generated-3d",
+    "revision": "967e269b2815"
+  },
+  "r377": {
+    "src": "assets/recipes/r377-3d.webp",
+    "title": "Arroz al horno con sardinas y aceitunas",
+    "kind": "generated-3d",
+    "revision": "6f82682a5eb0"
+  },
+  "r378": {
+    "src": "assets/recipes/r378-3d.webp",
+    "title": "Arroz salteado con atún y maíz",
+    "kind": "generated-3d",
+    "revision": "03eaafb2b076"
+  },
+  "r379": {
+    "src": "assets/recipes/r379-3d.webp",
+    "title": "Arroz con mejillones al vino seco",
+    "kind": "generated-3d",
+    "revision": "ed7d50fd38ae"
+  },
+  "r380": {
+    "src": "assets/recipes/r380-3d.webp",
+    "title": "Arroz caldoso de almejas y ajo",
+    "kind": "generated-3d",
+    "revision": "3602288c15f5"
+  },
+  "r381": {
+    "src": "assets/recipes/r381-3d.webp",
+    "title": "Arroz marinero de tres mariscos",
+    "kind": "generated-3d",
+    "revision": "006d3e9e9149"
+  },
+  "r382": {
+    "src": "assets/recipes/r382-3d.webp",
+    "title": "Arroz de camarones con coco y limón",
+    "kind": "generated-3d",
+    "revision": "0599e3a71767"
+  },
+  "r383": {
+    "src": "assets/recipes/r383-3d.webp",
+    "title": "Arroz cremoso de camarón y calabaza",
+    "kind": "generated-3d",
+    "revision": "f83d729bb296"
+  },
+  "r384": {
+    "src": "assets/recipes/r384-3d.webp",
+    "title": "Arroz frito de camarón y piña",
+    "kind": "generated-3d",
+    "revision": "f2fa707818a4"
+  },
+  "r385": {
+    "src": "assets/recipes/r385-3d.webp",
+    "title": "Arroz de pargo con tomate al horno",
+    "kind": "generated-3d",
+    "revision": "11e561b84d44"
+  },
+  "r386": {
+    "src": "assets/recipes/r386-3d.webp",
+    "title": "Arroz caldoso de mero y boniato",
+    "kind": "generated-3d",
+    "revision": "ce0954a3da18"
+  },
+  "r387": {
+    "src": "assets/recipes/r387-3d.webp",
+    "title": "Arroz de calamar con habichuelas verdes",
+    "kind": "generated-3d",
+    "revision": "3e5aa0a7fe22"
+  },
+  "r388": {
+    "src": "assets/recipes/r388-3d.webp",
+    "title": "Arroz de jaiba con plátano maduro",
+    "kind": "generated-3d",
+    "revision": "1f37b1487f2b"
+  },
+  "r389": {
+    "src": "assets/recipes/r389-3d.webp",
+    "title": "Arroz cremoso de ostiones",
+    "kind": "generated-3d",
+    "revision": "e469145a0a36"
+  },
+  "r390": {
+    "src": "assets/recipes/r390-3d.webp",
+    "title": "Arroz de cobo con coco y ají dulce",
+    "kind": "generated-3d",
+    "revision": "135260953167"
+  },
+  "r391": {
+    "src": "assets/recipes/r391-3d.webp",
+    "title": "Pastel de arroz con pescado y bechamel",
+    "kind": "generated-3d",
+    "revision": "90a18bfcbe31"
+  },
+  "r392": {
+    "src": "assets/recipes/r392-3d.webp",
+    "title": "Arroz de vieiras con puerro",
+    "kind": "generated-3d",
+    "revision": "9e8f34048312"
+  },
+  "r393": {
+    "src": "assets/recipes/r393-3d.webp",
+    "title": "Arroz verde con cherna y cilantro",
+    "kind": "generated-3d",
+    "revision": "3a17ec1973dd"
+  },
+  "r394": {
+    "src": "assets/recipes/r394-3d.webp",
+    "title": "Arroz integral con camarones y habichuelas",
+    "kind": "generated-3d",
+    "revision": "0c997409c60e"
+  },
+  "r395": {
+    "src": "assets/recipes/r395-3d.webp",
+    "title": "Arroz frito de pulpo y ajo dorado",
+    "kind": "generated-3d",
+    "revision": "04d5bcd6b9f4"
+  },
+  "r396": {
+    "src": "assets/recipes/r396-3d.webp",
+    "title": "Arroz al horno de res y plátano pintón",
+    "kind": "generated-3d",
+    "revision": "03319f3eae6c"
+  },
+  "r397": {
+    "src": "assets/recipes/r397-3d.webp",
+    "title": "Arroz al horno de pavo y pasas",
+    "kind": "generated-3d",
+    "revision": "8e5830c2c087"
+  },
+  "r398": {
+    "src": "assets/recipes/r398-3d.webp",
+    "title": "Arroz con picadillo y berenjena asada",
+    "kind": "generated-3d",
+    "revision": "2570ac494f58"
+  },
+  "r399": {
+    "src": "assets/recipes/r399-3d.webp",
+    "title": "Arroz con cerdo ahumado y garbanzos",
+    "kind": "generated-3d",
+    "revision": "b468cd22196b"
+  },
+  "r400": {
+    "src": "assets/recipes/r400-3d.webp",
+    "title": "Arroz de frijoles rojos con maíz y chicharrón",
+    "kind": "generated-3d",
+    "revision": "46220df80898"
+  },
+  "r401": {
+    "src": "assets/recipes/r401-3d.webp",
+    "title": "Arroz al horno con pollo y maduros",
+    "kind": "generated-3d",
+    "revision": "940b3eaaee64"
+  },
+  "r402": {
+    "src": "assets/recipes/r402-3d.webp",
+    "title": "Arroz con mollejas de pollo",
+    "kind": "generated-3d",
+    "revision": "29215a0cc991"
+  },
+  "r403": {
+    "src": "assets/recipes/r403-3d.webp",
+    "title": "Arroz con higadillos y pimiento asado",
+    "kind": "generated-3d",
+    "revision": "c85d7731bde7"
+  },
+  "r404": {
+    "src": "assets/recipes/r404-3d.webp",
+    "title": "Arroz con conejo y romero",
+    "kind": "generated-3d",
+    "revision": "5017b84e615b"
+  },
+  "r405": {
+    "src": "assets/recipes/r405-3d.webp",
+    "title": "Arroz con pato y aceitunas",
+    "kind": "generated-3d",
+    "revision": "2e8208355016"
+  },
+  "r406": {
+    "src": "assets/recipes/r406-3d.webp",
+    "title": "Arroz integral con frijoles negros y ají",
+    "kind": "generated-3d",
+    "revision": "2afde4e250b6"
+  },
+  "r407": {
+    "src": "assets/recipes/r407-3d.webp",
+    "title": "Arroz integral de calabaza y maní",
+    "kind": "generated-3d",
+    "revision": "7a7128ff2fb6"
+  },
+  "r408": {
+    "src": "assets/recipes/r408-3d.webp",
+    "title": "Arroz integral con lentejas y cebolla dorada",
+    "kind": "generated-3d",
+    "revision": "6d1400094b7e"
+  },
+  "r409": {
+    "src": "assets/recipes/r409-3d.webp",
+    "title": "Arroz integral con champiñones y ajo",
+    "kind": "generated-3d",
+    "revision": "164e3de87fdd"
+  },
+  "r410": {
+    "src": "assets/recipes/r410-3d.webp",
+    "title": "Arroz de espinaca y ajo con huevo duro",
+    "kind": "generated-3d",
+    "revision": "59c511dd9a51"
+  },
+  "r411": {
+    "src": "assets/recipes/r411-3d.webp",
+    "title": "Arroz de berenjena y garbanzos al pimentón",
+    "kind": "generated-3d",
+    "revision": "b71dbfe44262"
+  },
+  "r412": {
+    "src": "assets/recipes/r412-3d.webp",
+    "title": "Arroz de remolacha con queso blanco",
+    "kind": "generated-3d",
+    "revision": "56451085cbe7"
+  },
+  "r413": {
+    "src": "assets/recipes/r413-3d.webp",
+    "title": "Arroz de col y zanahoria al comino",
+    "kind": "generated-3d",
+    "revision": "82bb5fd5f83a"
+  },
+  "r414": {
+    "src": "assets/recipes/r414-3d.webp",
+    "title": "Arroz con calabacín y maíz al limón",
+    "kind": "generated-3d",
+    "revision": "0585dc4ca4f0"
+  },
+  "r415": {
+    "src": "assets/recipes/r415-3d.webp",
+    "title": "Arroz de coco con habas tiernas",
+    "kind": "generated-3d",
+    "revision": "3290b4d06753"
+  },
+  "r416": {
+    "src": "assets/recipes/r416-3d.webp",
+    "title": "Arroz con pasas, almendras y cebolla",
+    "kind": "generated-3d",
+    "revision": "48a7c992e9e4"
+  },
+  "r417": {
+    "src": "assets/recipes/r417-3d.webp",
+    "title": "Arroz frito de huevo y cebollino",
+    "kind": "generated-3d",
+    "revision": "b927b8641d85"
+  },
+  "r418": {
+    "src": "assets/recipes/r418-3d.webp",
+    "title": "Pastel de arroz, espinaca y queso",
+    "kind": "generated-3d",
+    "revision": "5678bd446bc3"
+  },
+  "r419": {
+    "src": "assets/recipes/r419-3d.webp",
+    "title": "Rollos de col rellenos de arroz y frijoles",
+    "kind": "generated-3d",
+    "revision": "1e90cef223c9"
+  },
+  "r420": {
+    "src": "assets/recipes/r420-3d.webp",
+    "title": "Pimientos rellenos de arroz, maíz y queso",
+    "kind": "generated-3d",
+    "revision": "20d818c78619"
+  },
+  "r421": {
+    "src": "assets/recipes/r421-3d.webp",
+    "title": "Frijoles negros con costilla ahumada",
+    "kind": "generated-3d",
+    "revision": "3959d5c61a9e"
+  },
+  "r422": {
+    "src": "assets/recipes/r422-3d.webp",
+    "title": "Frijoles negros con leche de coco",
+    "kind": "generated-3d",
+    "revision": "ea55eda84953"
+  },
+  "r423": {
+    "src": "assets/recipes/r423-3d.webp",
+    "title": "Frijoles negros con berenjena asada",
+    "kind": "generated-3d",
+    "revision": "be3eacfabbef"
+  },
+  "r424": {
+    "src": "assets/recipes/r424-3d.webp",
+    "title": "Potaje de frijoles negros y plátano verde",
+    "kind": "generated-3d",
+    "revision": "db968a99af65"
+  },
+  "r425": {
+    "src": "assets/recipes/r425-3d.webp",
+    "title": "Frijoles colorados con cerdo y malanga",
+    "kind": "generated-3d",
+    "revision": "f3fcefd20b21"
+  },
+  "r426": {
+    "src": "assets/recipes/r426-3d.webp",
+    "title": "Frijoles colorados con maíz y tomate",
+    "kind": "generated-3d",
+    "revision": "1778d80e60d3"
+  },
+  "r427": {
+    "src": "assets/recipes/r427-3d.webp",
+    "title": "Frijoles blancos con pescado y limón",
+    "kind": "generated-3d",
+    "revision": "08f890cf53ec"
+  },
+  "r428": {
+    "src": "assets/recipes/r428-3d.webp",
+    "title": "Frijoles blancos con jamón y calabaza",
+    "kind": "generated-3d",
+    "revision": "656aa04aead7"
+  },
+  "r429": {
+    "src": "assets/recipes/r429-3d.webp",
+    "title": "Frijoles blancos en caldo verde",
+    "kind": "generated-3d",
+    "revision": "73194b4c5f1a"
+  },
+  "r430": {
+    "src": "assets/recipes/r430-3d.webp",
+    "title": "Sopa de caritas con arroz y sofrito",
+    "kind": "generated-3d",
+    "revision": "f409980b6aec"
+  },
+  "r431": {
+    "src": "assets/recipes/r431-3d.webp",
+    "title": "Caritas con boniato y espinaca",
+    "kind": "generated-3d",
+    "revision": "c08f4e6f1094"
+  },
+  "r432": {
+    "src": "assets/recipes/r432-3d.webp",
+    "title": "Garbanzos con espinaca y ajonjolí",
+    "kind": "generated-3d",
+    "revision": "d6ce7b35e8e1"
+  },
+  "r433": {
+    "src": "assets/recipes/r433-3d.webp",
+    "title": "Potaje de garbanzos con bacalao",
+    "kind": "generated-3d",
+    "revision": "a67b8783f3c0"
+  },
+  "r434": {
+    "src": "assets/recipes/r434-3d.webp",
+    "title": "Garbanzos con calabaza y coco",
+    "kind": "generated-3d",
+    "revision": "9a1a04e95c12"
+  },
+  "r435": {
+    "src": "assets/recipes/r435-3d.webp",
+    "title": "Garbanzos guisados con rabo de res",
+    "kind": "generated-3d",
+    "revision": "c11354a831ef"
+  },
+  "r436": {
+    "src": "assets/recipes/r436-3d.webp",
+    "title": "Lentejas con calabaza y pimentón",
+    "kind": "generated-3d",
+    "revision": "ffc157407bd4"
+  },
+  "r437": {
+    "src": "assets/recipes/r437-3d.webp",
+    "title": "Lentejas con pollo y zanahoria",
+    "kind": "generated-3d",
+    "revision": "0f33dfed1c0f"
+  },
+  "r438": {
+    "src": "assets/recipes/r438-3d.webp",
+    "title": "Lentejas con chorizo y plátano pintón",
+    "kind": "generated-3d",
+    "revision": "581fdf8171aa"
+  },
+  "r439": {
+    "src": "assets/recipes/r439-3d.webp",
+    "title": "Sopa de lentejas rojas y maíz",
+    "kind": "generated-3d",
+    "revision": "0e0149549b58"
+  },
+  "r440": {
+    "src": "assets/recipes/r440-3d.webp",
+    "title": "Crema de chícharos y zanahoria al jengibre",
+    "kind": "generated-3d",
+    "revision": "ff6f1f7a027b"
+  },
+  "r441": {
+    "src": "assets/recipes/r441-3d.webp",
+    "title": "Chícharos con cerdo ahumado y apio",
+    "kind": "generated-3d",
+    "revision": "b2c4a95a401f"
+  },
+  "r442": {
+    "src": "assets/recipes/r442-3d.webp",
+    "title": "Potaje de habas secas con tomate",
+    "kind": "generated-3d",
+    "revision": "22d9dc515ee8"
+  },
+  "r443": {
+    "src": "assets/recipes/r443-3d.webp",
+    "title": "Crema de malanga con maíz",
+    "kind": "generated-3d",
+    "revision": "72eb3ed43b38"
+  },
+  "r444": {
+    "src": "assets/recipes/r444-3d.webp",
+    "title": "Crema de yuca y puerro",
+    "kind": "generated-3d",
+    "revision": "799eab25b316"
+  },
+  "r445": {
+    "src": "assets/recipes/r445-3d.webp",
+    "title": "Crema de coliflor y ajo dorado",
+    "kind": "generated-3d",
+    "revision": "a0905b513ee8"
+  },
+  "r446": {
+    "src": "assets/recipes/r446-3d.webp",
+    "title": "Crema de calabaza con coco y naranja",
+    "kind": "generated-3d",
+    "revision": "7972199daf2e"
+  },
+  "r447": {
+    "src": "assets/recipes/r447-3d.webp",
+    "title": "Crema de lentejas rojas con naranja",
+    "kind": "generated-3d",
+    "revision": "bd8d8437c045"
+  },
+  "r448": {
+    "src": "assets/recipes/r448-3d.webp",
+    "title": "Sopa de cebolla gratinada con pan cubano",
+    "kind": "generated-3d",
+    "revision": "2d480280e757"
+  },
+  "r449": {
+    "src": "assets/recipes/r449-3d.webp",
+    "title": "Sopa de fideos con res y zanahoria",
+    "kind": "generated-3d",
+    "revision": "2b1ed01a11d8"
+  },
+  "r450": {
+    "src": "assets/recipes/r450-3d.webp",
+    "title": "Sopa de arroz con pollo y calabaza",
+    "kind": "generated-3d",
+    "revision": "67029edaf838"
+  },
+  "r451": {
+    "src": "assets/recipes/r451-3d.webp",
+    "title": "Sopa de pescado con tomate y fideos",
+    "kind": "generated-3d",
+    "revision": "9b2162eb53dc"
+  },
+  "r452": {
+    "src": "assets/recipes/r452-3d.webp",
+    "title": "Sopa de langosta y boniato",
+    "kind": "generated-3d",
+    "revision": "3fa6f968ca1b"
+  },
+  "r453": {
+    "src": "assets/recipes/r453-3d.webp",
+    "title": "Sopa de cobo con viandas",
+    "kind": "generated-3d",
+    "revision": "546c6e36bff5"
+  },
+  "r454": {
+    "src": "assets/recipes/r454-3d.webp",
+    "title": "Caldo de camarones con maíz",
+    "kind": "generated-3d",
+    "revision": "8a93f1dccb20"
+  },
+  "r455": {
+    "src": "assets/recipes/r455-3d.webp",
+    "title": "Crema de jaiba con pimiento asado",
+    "kind": "generated-3d",
+    "revision": "c7c1592ee963"
+  },
+  "r456": {
+    "src": "assets/recipes/r456-3d.webp",
+    "title": "Sopa salada de plátano maduro y calabaza",
+    "kind": "generated-3d",
+    "revision": "caf1a81452fd"
+  },
+  "r457": {
+    "src": "assets/recipes/r457-3d.webp",
+    "title": "Ajiaco de verduras y maíz",
+    "kind": "generated-3d",
+    "revision": "fcabe5440287"
+  },
+  "r458": {
+    "src": "assets/recipes/r458-3d.webp",
+    "title": "Caldo de tasajo con plátano y calabaza",
+    "kind": "generated-3d",
+    "revision": "8e231ae401b1"
+  },
+  "r459": {
+    "src": "assets/recipes/r459-3d.webp",
+    "title": "Sopa de huevo y espinaca al ajo",
+    "kind": "generated-3d",
+    "revision": "95e55a242000"
+  },
+  "r460": {
+    "src": "assets/recipes/r460-3d.webp",
+    "title": "Sopa de chayote y cilantro",
+    "kind": "generated-3d",
+    "revision": "9fe245bcde56"
+  },
+  "r461": {
+    "src": "assets/recipes/r461-3d.webp",
+    "title": "Puré de yuca con ajo asado",
+    "kind": "generated-3d",
+    "revision": "5ea447449add"
+  },
+  "r462": {
+    "src": "assets/recipes/r462-3d.webp",
+    "title": "Yuca gratinada con queso",
+    "kind": "generated-3d",
+    "revision": "38ae79cd2131"
+  },
+  "r463": {
+    "src": "assets/recipes/r463-3d.webp",
+    "title": "Yuca salteada con pimientos",
+    "kind": "generated-3d",
+    "revision": "c15af68c6da5"
+  },
+  "r464": {
+    "src": "assets/recipes/r464-3d.webp",
+    "title": "Yuca encebollada al horno",
+    "kind": "generated-3d",
+    "revision": "489797ee8f66"
+  },
+  "r465": {
+    "src": "assets/recipes/r465-3d.webp",
+    "title": "Pastel de yuca con espinaca",
+    "kind": "generated-3d",
+    "revision": "2ce20230f8bf"
+  },
+  "r466": {
+    "src": "assets/recipes/r466-3d.webp",
+    "title": "Malanga al horno con pimentón",
+    "kind": "generated-3d",
+    "revision": "15411c369f9c"
+  },
+  "r467": {
+    "src": "assets/recipes/r467-3d.webp",
+    "title": "Puré de malanga con ajo suave",
+    "kind": "generated-3d",
+    "revision": "2d02fe73825c"
+  },
+  "r468": {
+    "src": "assets/recipes/r468-3d.webp",
+    "title": "Malanga guisada con tomate",
+    "kind": "generated-3d",
+    "revision": "7354da7dc0e0"
+  },
+  "r469": {
+    "src": "assets/recipes/r469-3d.webp",
+    "title": "Malanga gratinada con puerro",
+    "kind": "generated-3d",
+    "revision": "9ccb203260ce"
+  },
+  "r470": {
+    "src": "assets/recipes/r470-3d.webp",
+    "title": "Malanga aplastada y dorada",
+    "kind": "generated-3d",
+    "revision": "d37d2a3fa369"
+  },
+  "r471": {
+    "src": "assets/recipes/r471-3d.webp",
+    "title": "Boniato majado con naranja",
+    "kind": "generated-3d",
+    "revision": "69d478ce775a"
+  },
+  "r472": {
+    "src": "assets/recipes/r472-3d.webp",
+    "title": "Boniatos al horno rellenos de frijoles",
+    "kind": "generated-3d",
+    "revision": "d2fead09e9ce"
+  },
+  "r473": {
+    "src": "assets/recipes/r473-3d.webp",
+    "title": "Boniato guisado con calabaza",
+    "kind": "generated-3d",
+    "revision": "bed0cbf97dfa"
+  },
+  "r474": {
+    "src": "assets/recipes/r474-3d.webp",
+    "title": "Bastones de boniato fritos",
+    "kind": "generated-3d",
+    "revision": "96b61223b147"
+  },
+  "r475": {
+    "src": "assets/recipes/r475-3d.webp",
+    "title": "Boniato gratinado con queso",
+    "kind": "generated-3d",
+    "revision": "4b132577d26d"
+  },
+  "r476": {
+    "src": "assets/recipes/r476-3d.webp",
+    "title": "Ñame hervido con mojo de limón",
+    "kind": "generated-3d",
+    "revision": "c57a72c0d1c3"
+  },
+  "r477": {
+    "src": "assets/recipes/r477-3d.webp",
+    "title": "Puré de ñame con coco",
+    "kind": "generated-3d",
+    "revision": "66ff0e3c0ec3"
+  },
+  "r478": {
+    "src": "assets/recipes/r478-3d.webp",
+    "title": "Ñame salteado con cebolla morada",
+    "kind": "generated-3d",
+    "revision": "ee2589c66b87"
+  },
+  "r479": {
+    "src": "assets/recipes/r479-3d.webp",
+    "title": "Guiso de ñame con col",
+    "kind": "generated-3d",
+    "revision": "16b172fe37b6"
+  },
+  "r480": {
+    "src": "assets/recipes/r480-3d.webp",
+    "title": "Fufú de malanga y plátano verde",
+    "kind": "generated-3d",
+    "revision": "049945bae7f8"
+  },
+  "r481": {
+    "src": "assets/recipes/r481-3d.webp",
+    "title": "Plátano verde asado con ajo",
+    "kind": "generated-3d",
+    "revision": "eafc101e9947"
+  },
+  "r482": {
+    "src": "assets/recipes/r482-3d.webp",
+    "title": "Plátanos maduros rellenos de queso al horno",
+    "kind": "generated-3d",
+    "revision": "4a83f2a25b9b"
+  },
+  "r483": {
+    "src": "assets/recipes/r483-3d.webp",
+    "title": "Plátano pintón guisado en tomate",
+    "kind": "generated-3d",
+    "revision": "bd53aa0bf507"
+  },
+  "r484": {
+    "src": "assets/recipes/r484-3d.webp",
+    "title": "Pastel de plátano maduro y frijoles",
+    "kind": "generated-3d",
+    "revision": "80bd27b1f81d"
+  },
+  "r485": {
+    "src": "assets/recipes/r485-3d.webp",
+    "title": "Chatinos de plátano al horno",
+    "kind": "generated-3d",
+    "revision": "cecc81dc206e"
+  },
+  "r486": {
+    "src": "assets/recipes/r486-3d.webp",
+    "title": "Papas a la criolla guisadas",
+    "kind": "generated-3d",
+    "revision": "6d0119aa3a74"
+  },
+  "r487": {
+    "src": "assets/recipes/r487-3d.webp",
+    "title": "Papas aplastadas al ajo",
+    "kind": "generated-3d",
+    "revision": "40111582e680"
+  },
+  "r488": {
+    "src": "assets/recipes/r488-3d.webp",
+    "title": "Papas gratinadas con cebolla",
+    "kind": "generated-3d",
+    "revision": "ae3c26048e29"
+  },
+  "r489": {
+    "src": "assets/recipes/r489-3d.webp",
+    "title": "Papas salteadas con pimiento y orégano",
+    "kind": "generated-3d",
+    "revision": "1d993afc7046"
+  },
+  "r490": {
+    "src": "assets/recipes/r490-3d.webp",
+    "title": "Calabaza asada al comino",
+    "kind": "generated-3d",
+    "revision": "490587625d11"
+  },
+  "r491": {
+    "src": "assets/recipes/r491-3d.webp",
+    "title": "Puré de calabaza y boniato",
+    "kind": "generated-3d",
+    "revision": "19789aa9dd53"
+  },
+  "r492": {
+    "src": "assets/recipes/r492-3d.webp",
+    "title": "Calabaza rellena de garbanzos",
+    "kind": "generated-3d",
+    "revision": "f03632445e1c"
+  },
+  "r493": {
+    "src": "assets/recipes/r493-3d.webp",
+    "title": "Berenjenas rellenas de verduras",
+    "kind": "generated-3d",
+    "revision": "3d43d18c4013"
+  },
+  "r494": {
+    "src": "assets/recipes/r494-3d.webp",
+    "title": "Berenjena al horno con tomate y queso",
+    "kind": "generated-3d",
+    "revision": "a3cf24e9f7d5"
+  },
+  "r495": {
+    "src": "assets/recipes/r495-3d.webp",
+    "title": "Berenjena salteada con ají dulce",
+    "kind": "generated-3d",
+    "revision": "ef7c82bee785"
+  },
+  "r496": {
+    "src": "assets/recipes/r496-3d.webp",
+    "title": "Chayote gratinado con queso",
+    "kind": "generated-3d",
+    "revision": "673d07199c1f"
+  },
+  "r497": {
+    "src": "assets/recipes/r497-3d.webp",
+    "title": "Chayote guisado con tomate y aceitunas",
+    "kind": "generated-3d",
+    "revision": "37b8707f0ba9"
+  },
+  "r498": {
+    "src": "assets/recipes/r498-3d.webp",
+    "title": "Chayote salteado con maíz y cebollino",
+    "kind": "generated-3d",
+    "revision": "b37c9dc8f3b7"
+  },
+  "r499": {
+    "src": "assets/recipes/r499-3d.webp",
+    "title": "Quimbombó al horno con pimentón",
+    "kind": "generated-3d",
+    "revision": "93fb9465625a"
+  },
+  "r500": {
+    "src": "assets/recipes/r500-3d.webp",
+    "title": "Quimbombó con garbanzos y ají",
+    "kind": "generated-3d",
+    "revision": "f7e5eec0215c"
+  },
+  "r501": {
+    "src": "assets/recipes/r501-3d.webp",
+    "title": "Habichuelas verdes con coco",
+    "kind": "generated-3d",
+    "revision": "0ff95876b195"
+  },
+  "r502": {
+    "src": "assets/recipes/r502-3d.webp",
+    "title": "Col guisada con zanahoria y alcaravea",
+    "kind": "generated-3d",
+    "revision": "f843ddfb3c26"
+  },
+  "r503": {
+    "src": "assets/recipes/r503-3d.webp",
+    "title": "Zanahorias asadas al limón",
+    "kind": "generated-3d",
+    "revision": "2618a3a93669"
+  },
+  "r504": {
+    "src": "assets/recipes/r504-3d.webp",
+    "title": "Coliflor al mojo de naranja agria",
+    "kind": "generated-3d",
+    "revision": "3d2aa5aa44e0"
+  },
+  "r505": {
+    "src": "assets/recipes/r505-3d.webp",
+    "title": "Mazorcas con mantequilla de ajo",
+    "kind": "generated-3d",
+    "revision": "93e1f43d9c6b"
+  },
+  "r506": {
+    "src": "assets/recipes/r506-3d.webp",
+    "title": "Croquetas de pescado blanco",
+    "kind": "generated-3d",
+    "revision": "ba76ccec59fb"
+  },
+  "r507": {
+    "src": "assets/recipes/r507-3d.webp",
+    "title": "Croquetas de bacalao y papa",
+    "kind": "generated-3d",
+    "revision": "fae440aed9b8"
+  },
+  "r508": {
+    "src": "assets/recipes/r508-3d.webp",
+    "title": "Croquetas de frijoles negros",
+    "kind": "generated-3d",
+    "revision": "efe552fa5c1e"
+  },
+  "r509": {
+    "src": "assets/recipes/r509-3d.webp",
+    "title": "Croquetas de arroz y queso",
+    "kind": "generated-3d",
+    "revision": "f13f39ec10f4"
+  },
+  "r510": {
+    "src": "assets/recipes/r510-3d.webp",
+    "title": "Croquetas de espinaca",
+    "kind": "generated-3d",
+    "revision": "e9ed219d212c"
+  },
+  "r511": {
+    "src": "assets/recipes/r511-3d.webp",
+    "title": "Croquetas de boniato y jamón",
+    "kind": "generated-3d",
+    "revision": "3434d1d8e5e0"
+  },
+  "r512": {
+    "src": "assets/recipes/r512-3d.webp",
+    "title": "Frituras saladas de calabaza",
+    "kind": "generated-3d",
+    "revision": "00901321622f"
+  },
+  "r513": {
+    "src": "assets/recipes/r513-3d.webp",
+    "title": "Frituras de maíz con camarón",
+    "kind": "generated-3d",
+    "revision": "8c6ffbbfeef8"
+  },
+  "r514": {
+    "src": "assets/recipes/r514-3d.webp",
+    "title": "Frituras de yuca cocida con ajo",
+    "kind": "generated-3d",
+    "revision": "cf3bd23244d4"
+  },
+  "r515": {
+    "src": "assets/recipes/r515-3d.webp",
+    "title": "Frituras de plátano verde y queso",
+    "kind": "generated-3d",
+    "revision": "de43a1a7e42c"
+  },
+  "r516": {
+    "src": "assets/recipes/r516-3d.webp",
+    "title": "Frituras de malanga y jaiba",
+    "kind": "generated-3d",
+    "revision": "77aa39f4d645"
+  },
+  "r517": {
+    "src": "assets/recipes/r517-3d.webp",
+    "title": "Buñuelos salados de ñame",
+    "kind": "generated-3d",
+    "revision": "2e28d3ff7940"
+  },
+  "r518": {
+    "src": "assets/recipes/r518-3d.webp",
+    "title": "Bolas de yuca rellenas de queso",
+    "kind": "generated-3d",
+    "revision": "5ceeca16844c"
+  },
+  "r519": {
+    "src": "assets/recipes/r519-3d.webp",
+    "title": "Bolitas de plátano maduro con picadillo",
+    "kind": "generated-3d",
+    "revision": "b71404b31f2d"
+  },
+  "r520": {
+    "src": "assets/recipes/r520-3d.webp",
+    "title": "Papas rellenas de pollo y aceitunas",
+    "kind": "generated-3d",
+    "revision": "dc077f80af59"
+  },
+  "r521": {
+    "src": "assets/recipes/r521-3d.webp",
+    "title": "Tostones rellenos de camarones",
+    "kind": "generated-3d",
+    "revision": "1fc578799771"
+  },
+  "r522": {
+    "src": "assets/recipes/r522-3d.webp",
+    "title": "Canasticas de plátano con frijoles negros",
+    "kind": "generated-3d",
+    "revision": "7ede00cdf99e"
+  },
+  "r523": {
+    "src": "assets/recipes/r523-3d.webp",
+    "title": "Tamales de pollo al sofrito",
+    "kind": "generated-3d",
+    "revision": "11dcce75b12a"
+  },
+  "r524": {
+    "src": "assets/recipes/r524-3d.webp",
+    "title": "Tamales de calabaza y queso",
+    "kind": "generated-3d",
+    "revision": "01c9f2e02ef8"
+  },
+  "r525": {
+    "src": "assets/recipes/r525-3d.webp",
+    "title": "Tamales salados de maíz y coco",
+    "kind": "generated-3d",
+    "revision": "64f5ad149520"
+  },
+  "r526": {
+    "src": "assets/recipes/r526-3d.webp",
+    "title": "Tamal en cazuela de camarones",
+    "kind": "generated-3d",
+    "revision": "6097ad509ca2"
+  },
+  "r527": {
+    "src": "assets/recipes/r527-3d.webp",
+    "title": "Empanadas de res y aceitunas al horno",
+    "kind": "generated-3d",
+    "revision": "f5748d2a3a0b"
+  },
+  "r528": {
+    "src": "assets/recipes/r528-3d.webp",
+    "title": "Empanadas de pollo y pimiento",
+    "kind": "generated-3d",
+    "revision": "561e190de7b4"
+  },
+  "r529": {
+    "src": "assets/recipes/r529-3d.webp",
+    "title": "Empanadas de atún, tomate y huevo",
+    "kind": "generated-3d",
+    "revision": "137fd48a7156"
+  },
+  "r530": {
+    "src": "assets/recipes/r530-3d.webp",
+    "title": "Empanadas de espinaca y queso blanco",
+    "kind": "generated-3d",
+    "revision": "fef7e21e118a"
+  },
+  "r531": {
+    "src": "assets/recipes/r531-3d.webp",
+    "title": "Empanadas de cerdo asado y cebolla",
+    "kind": "generated-3d",
+    "revision": "79273b5314ba"
+  },
+  "r532": {
+    "src": "assets/recipes/r532-3d.webp",
+    "title": "Frituras de cobo cocido",
+    "kind": "generated-3d",
+    "revision": "87e77bc66379"
+  },
+  "r533": {
+    "src": "assets/recipes/r533-3d.webp",
+    "title": "Champiñones rellenos de jamón",
+    "kind": "generated-3d",
+    "revision": "d17954875057"
+  },
+  "r534": {
+    "src": "assets/recipes/r534-3d.webp",
+    "title": "Huevos rellenos gratinados con atún",
+    "kind": "generated-3d",
+    "revision": "51fb136f901f"
+  },
+  "r535": {
+    "src": "assets/recipes/r535-3d.webp",
+    "title": "Bocados de calabacín empanizado",
+    "kind": "generated-3d",
+    "revision": "ff34aa5d73fe"
+  },
+  "r536": {
+    "src": "assets/recipes/r536-3d.webp",
+    "title": "Cake tres leches de guayaba",
+    "kind": "generated-3d",
+    "revision": "87cb019d43a8"
+  },
+  "r537": {
+    "src": "assets/recipes/r537-3d.webp",
+    "title": "Volteado de piña",
+    "kind": "generated-3d",
+    "revision": "8b8d95c6b929"
+  },
+  "r538": {
+    "src": "assets/recipes/r538-3d.webp",
+    "title": "Panetela de coco y limón",
+    "kind": "generated-3d",
+    "revision": "0b51cf63ccf0"
+  },
+  "r539": {
+    "src": "assets/recipes/r539-3d.webp",
+    "title": "Bizcocho de boniato y especias",
+    "kind": "generated-3d",
+    "revision": "d41461e6d216"
+  },
+  "r540": {
+    "src": "assets/recipes/r540-3d.webp",
+    "title": "Cake marmoleado de café y cacao",
+    "kind": "generated-3d",
+    "revision": "a1b912669195"
+  },
+  "r541": {
+    "src": "assets/recipes/r541-3d.webp",
+    "title": "Cake de naranja con almíbar de miel",
+    "kind": "generated-3d",
+    "revision": "95ed956fbbde"
+  },
+  "r542": {
+    "src": "assets/recipes/r542-3d.webp",
+    "title": "Cake de maní con cobertura de cacao",
+    "kind": "generated-3d",
+    "revision": "dedccaf609d3"
+  },
+  "r543": {
+    "src": "assets/recipes/r543-3d.webp",
+    "title": "Rosca de plátano y coco",
+    "kind": "generated-3d",
+    "revision": "cd8d0a0eb938"
+  },
+  "r544": {
+    "src": "assets/recipes/r544-3d.webp",
+    "title": "Cake de zanahoria y piña",
+    "kind": "generated-3d",
+    "revision": "051f894aca8c"
+  },
+  "r545": {
+    "src": "assets/recipes/r545-3d.webp",
+    "title": "Cake de mango y yogur",
+    "kind": "generated-3d",
+    "revision": "296d2df910b6"
+  },
+  "r546": {
+    "src": "assets/recipes/r546-3d.webp",
+    "title": "Panetela de chocolate al vapor",
+    "kind": "generated-3d",
+    "revision": "fe55377675e1"
+  },
+  "r547": {
+    "src": "assets/recipes/r547-3d.webp",
+    "title": "Cake de limón y queso crema",
+    "kind": "generated-3d",
+    "revision": "9d4c9e2e9fe8"
+  },
+  "r548": {
+    "src": "assets/recipes/r548-3d.webp",
+    "title": "Cake de guayaba con migas crujientes",
+    "kind": "generated-3d",
+    "revision": "12fe2f573de4"
+  },
+  "r549": {
+    "src": "assets/recipes/r549-3d.webp",
+    "title": "Cake de mamey y almendra",
+    "kind": "generated-3d",
+    "revision": "5e55f8ef8426"
+  },
+  "r550": {
+    "src": "assets/recipes/r550-3d.webp",
+    "title": "Panetela de cacao rellena de natilla",
+    "kind": "generated-3d",
+    "revision": "7abe63a02b6b"
+  },
+  "r551": {
+    "src": "assets/recipes/r551-3d.webp",
+    "title": "Galletas de avena y coco",
+    "kind": "generated-3d",
+    "revision": "e1a72f0441a8"
+  },
+  "r552": {
+    "src": "assets/recipes/r552-3d.webp",
+    "title": "Galletas de maní crujientes",
+    "kind": "generated-3d",
+    "revision": "1182554647a5"
+  },
+  "r553": {
+    "src": "assets/recipes/r553-3d.webp",
+    "title": "Galletas de cacao y café",
+    "kind": "generated-3d",
+    "revision": "2736c19859a7"
+  },
+  "r554": {
+    "src": "assets/recipes/r554-3d.webp",
+    "title": "Galletas rellenas de dulce de leche",
+    "kind": "generated-3d",
+    "revision": "cfda38bab2e7"
+  },
+  "r555": {
+    "src": "assets/recipes/r555-3d.webp",
+    "title": "Galletas de naranja y ajonjolí",
+    "kind": "generated-3d",
+    "revision": "8ea0a76a7bbc"
+  },
+  "r556": {
+    "src": "assets/recipes/r556-3d.webp",
+    "title": "Biscotes de vainilla, pasas y almendra",
+    "kind": "generated-3d",
+    "revision": "ba8c1c4d90e3"
+  },
+  "r557": {
+    "src": "assets/recipes/r557-3d.webp",
+    "title": "Galletas de limón y harina de maíz",
+    "kind": "generated-3d",
+    "revision": "9ded9ff5437c"
+  },
+  "r558": {
+    "src": "assets/recipes/r558-3d.webp",
+    "title": "Galletas tiernas de calabaza y chocolate",
+    "kind": "generated-3d",
+    "revision": "9b5afd5045cc"
+  },
+  "r559": {
+    "src": "assets/recipes/r559-3d.webp",
+    "title": "Galletas de jengibre y melado",
+    "kind": "generated-3d",
+    "revision": "6b50341cc8fd"
+  },
+  "r560": {
+    "src": "assets/recipes/r560-3d.webp",
+    "title": "Barritas de avena y guayaba",
+    "kind": "generated-3d",
+    "revision": "359382e9d9e5"
+  },
+  "r561": {
+    "src": "assets/recipes/r561-3d.webp",
+    "title": "Tartaletas de piña y merengue",
+    "kind": "generated-3d",
+    "revision": "95ed3ce2c12c"
+  },
+  "r562": {
+    "src": "assets/recipes/r562-3d.webp",
+    "title": "Tarta de mango y yogur con base de avena",
+    "kind": "generated-3d",
+    "revision": "19866d11597b"
+  },
+  "r563": {
+    "src": "assets/recipes/r563-3d.webp",
+    "title": "Pie de guayaba con enrejado",
+    "kind": "generated-3d",
+    "revision": "d047fdd2f13b"
+  },
+  "r564": {
+    "src": "assets/recipes/r564-3d.webp",
+    "title": "Tarta fría de plátano y crema",
+    "kind": "generated-3d",
+    "revision": "5d3bbbcf4076"
+  },
+  "r565": {
+    "src": "assets/recipes/r565-3d.webp",
+    "title": "Pie de boniato y especias",
+    "kind": "generated-3d",
+    "revision": "22e14f81afb3"
+  },
+  "r566": {
+    "src": "assets/recipes/r566-3d.webp",
+    "title": "Tarta de queso y coco horneada",
+    "kind": "generated-3d",
+    "revision": "0610ea5ab99e"
+  },
+  "r567": {
+    "src": "assets/recipes/r567-3d.webp",
+    "title": "Tarta de lima y leche condensada",
+    "kind": "generated-3d",
+    "revision": "b793686093c4"
+  },
+  "r568": {
+    "src": "assets/recipes/r568-3d.webp",
+    "title": "Galette de mango y jengibre",
+    "kind": "generated-3d",
+    "revision": "75756d3f13e9"
+  },
+  "r569": {
+    "src": "assets/recipes/r569-3d.webp",
+    "title": "Tarta de piña, coco y migas",
+    "kind": "generated-3d",
+    "revision": "6a8e2fab3cad"
+  },
+  "r570": {
+    "src": "assets/recipes/r570-3d.webp",
+    "title": "Tarta de maní y cacao",
+    "kind": "generated-3d",
+    "revision": "5222e3d5c668"
+  },
+  "r571": {
+    "src": "assets/recipes/r571-3d.webp",
+    "title": "Bollos rellenos de guayaba",
+    "kind": "generated-3d",
+    "revision": "60b8b2e2265a"
+  },
+  "r572": {
+    "src": "assets/recipes/r572-3d.webp",
+    "title": "Trenza de coco y pasas",
+    "kind": "generated-3d",
+    "revision": "d16881a7389f"
+  },
+  "r573": {
+    "src": "assets/recipes/r573-3d.webp",
+    "title": "Pan de leche y calabaza",
+    "kind": "generated-3d",
+    "revision": "254498a29395"
+  },
+  "r574": {
+    "src": "assets/recipes/r574-3d.webp",
+    "title": "Rollos de canela y naranja",
+    "kind": "generated-3d",
+    "revision": "574f0c28c39d"
+  },
+  "r575": {
+    "src": "assets/recipes/r575-3d.webp",
+    "title": "Panecillos de boniato",
+    "kind": "generated-3d",
+    "revision": "fbb17a3b95d7"
+  },
+  "r576": {
+    "src": "assets/recipes/r576-3d.webp",
+    "title": "Pan de café y nueces",
+    "kind": "generated-3d",
+    "revision": "b8b64ba61544"
+  },
+  "r577": {
+    "src": "assets/recipes/r577-3d.webp",
+    "title": "Pan de cacao con dados de guayaba",
+    "kind": "generated-3d",
+    "revision": "cd4a9cb6b94f"
+  },
+  "r578": {
+    "src": "assets/recipes/r578-3d.webp",
+    "title": "Pan integral de miel y ajonjolí",
+    "kind": "generated-3d",
+    "revision": "e720d171cd60"
+  },
+  "r579": {
+    "src": "assets/recipes/r579-3d.webp",
+    "title": "Pan de queso crema y hierbas",
+    "kind": "generated-3d",
+    "revision": "38ad764af39d"
+  },
+  "r580": {
+    "src": "assets/recipes/r580-3d.webp",
+    "title": "Bollitos de limón y anís",
+    "kind": "generated-3d",
+    "revision": "8b982888200d"
+  },
+  "r581": {
+    "src": "assets/recipes/r581-3d.webp",
+    "title": "Empanadas dulces de piña y coco",
+    "kind": "generated-3d",
+    "revision": "b8e6254907d1"
+  },
+  "r582": {
+    "src": "assets/recipes/r582-3d.webp",
+    "title": "Empanaditas de mango y queso",
+    "kind": "generated-3d",
+    "revision": "c5c1812f1ed5"
+  },
+  "r583": {
+    "src": "assets/recipes/r583-3d.webp",
+    "title": "Hojaldres de plátano y chocolate",
+    "kind": "generated-3d",
+    "revision": "1e7a75f14b94"
+  },
+  "r584": {
+    "src": "assets/recipes/r584-3d.webp",
+    "title": "Cestitas de hojaldre y crema de naranja",
+    "kind": "generated-3d",
+    "revision": "454b0c8c5630"
+  },
+  "r585": {
+    "src": "assets/recipes/r585-3d.webp",
+    "title": "Caracolas de hojaldre, coco y café",
+    "kind": "generated-3d",
+    "revision": "893d25c59cd0"
+  },
+  "r586": {
+    "src": "assets/recipes/r586-3d.webp",
+    "title": "Trenza de hojaldre, guayaba y almendra",
+    "kind": "generated-3d",
+    "revision": "f57e2bfd519e"
+  },
+  "r587": {
+    "src": "assets/recipes/r587-3d.webp",
+    "title": "Milhojas de mango y crema de coco",
+    "kind": "generated-3d",
+    "revision": "fcb79b3de9e3"
+  },
+  "r588": {
+    "src": "assets/recipes/r588-3d.webp",
+    "title": "Abanicos de hojaldre con maní y cacao",
+    "kind": "generated-3d",
+    "revision": "0a2d59a3d1a6"
+  },
+  "r589": {
+    "src": "assets/recipes/r589-3d.webp",
+    "title": "Volovanes de champiñones y queso",
+    "kind": "generated-3d",
+    "revision": "1f8a5dff0a7f"
+  },
+  "r590": {
+    "src": "assets/recipes/r590-3d.webp",
+    "title": "Hojaldres de espinaca y queso blanco",
+    "kind": "generated-3d",
+    "revision": "0104de0ab3e3"
+  },
+  "r591": {
+    "src": "assets/recipes/r591-3d.webp",
+    "title": "Profiteroles de crema de coco",
+    "kind": "generated-3d",
+    "revision": "3ebb70e98b91"
+  },
+  "r592": {
+    "src": "assets/recipes/r592-3d.webp",
+    "title": "Éclairs de café y cacao",
+    "kind": "generated-3d",
+    "revision": "e524544b6aa9"
+  },
+  "r593": {
+    "src": "assets/recipes/r593-3d.webp",
+    "title": "Buñuelos de viento a la naranja",
+    "kind": "generated-3d",
+    "revision": "4f05a175765f"
+  },
+  "r594": {
+    "src": "assets/recipes/r594-3d.webp",
+    "title": "Rosquillas de queso y limón",
+    "kind": "generated-3d",
+    "revision": "45369c94c50c"
+  },
+  "r595": {
+    "src": "assets/recipes/r595-3d.webp",
+    "title": "Donas de boniato glaseadas",
+    "kind": "generated-3d",
+    "revision": "8f220b00d8eb"
+  },
+  "r596": {
+    "src": "assets/recipes/r596-3d.webp",
+    "title": "Torta de yuca cocida y coco",
+    "kind": "generated-3d",
+    "revision": "965a6e7da93b"
+  },
+  "r597": {
+    "src": "assets/recipes/r597-3d.webp",
+    "title": "Pastel de crepas con guayaba",
+    "kind": "generated-3d",
+    "revision": "f1671c76f288"
+  },
+  "r598": {
+    "src": "assets/recipes/r598-3d.webp",
+    "title": "Piononos de crema de cacao",
+    "kind": "generated-3d",
+    "revision": "a8aae65fc6f8"
+  },
+  "r599": {
+    "src": "assets/recipes/r599-3d.webp",
+    "title": "Besitos de almendra y limón",
+    "kind": "generated-3d",
+    "revision": "b31f51d70673"
+  },
+  "r600": {
+    "src": "assets/recipes/r600-3d.webp",
+    "title": "Magdalenas de guayaba con migas",
+    "kind": "generated-3d",
+    "revision": "180fddbfa994"
+  },
+  "r601": {
+    "src": "assets/recipes/r601-3d.webp",
+    "title": "Financiers de coco y mantequilla tostada",
+    "kind": "generated-3d",
+    "revision": "09bdb852c9c2"
+  },
+  "r602": {
+    "src": "assets/recipes/r602-3d.webp",
+    "title": "Soufflés de mamey",
+    "kind": "generated-3d",
+    "revision": "b57dfc3066d2"
+  },
+  "r603": {
+    "src": "assets/recipes/r603-3d.webp",
+    "title": "Cuadrados de cacao y frijoles negros",
+    "kind": "generated-3d",
+    "revision": "ebe04eb684dd"
+  },
+  "r604": {
+    "src": "assets/recipes/r604-3d.webp",
+    "title": "Pastel de maíz tierno y queso",
+    "kind": "generated-3d",
+    "revision": "804e10bc2964"
+  },
+  "r605": {
+    "src": "assets/recipes/r605-3d.webp",
+    "title": "Rollitos de masa filo y piña",
+    "kind": "generated-3d",
+    "revision": "a5425ff08613"
+  },
+  "r606": {
+    "src": "assets/recipes/r606-3d.webp",
+    "title": "Flan de café",
+    "kind": "generated-3d",
+    "revision": "edbe15c88151"
+  },
+  "r607": {
+    "src": "assets/recipes/r607-3d.webp",
+    "title": "Flan de queso crema",
+    "kind": "generated-3d",
+    "revision": "bb01f49f14dc"
+  },
+  "r608": {
+    "src": "assets/recipes/r608-3d.webp",
+    "title": "Flan de mamey",
+    "kind": "generated-3d",
+    "revision": "03e287332c26"
+  },
+  "r609": {
+    "src": "assets/recipes/r609-3d.webp",
+    "title": "Pudín de pan, coco y piña",
+    "kind": "generated-3d",
+    "revision": "915c665ff5dd"
+  },
+  "r610": {
+    "src": "assets/recipes/r610-3d.webp",
+    "title": "Pudín de boniato y pasas",
+    "kind": "generated-3d",
+    "revision": "a426dff930ad"
+  },
+  "r611": {
+    "src": "assets/recipes/r611-3d.webp",
+    "title": "Arroz con leche de coco y mango",
+    "kind": "generated-3d",
+    "revision": "1a807a55d1c4"
+  },
+  "r612": {
+    "src": "assets/recipes/r612-3d.webp",
+    "title": "Natilla de chocolate y naranja",
+    "kind": "generated-3d",
+    "revision": "818d441465d0"
+  },
+  "r613": {
+    "src": "assets/recipes/r613-3d.webp",
+    "title": "Natilla de café sin huevo",
+    "kind": "generated-3d",
+    "revision": "497d3d98332b"
+  },
+  "r614": {
+    "src": "assets/recipes/r614-3d.webp",
+    "title": "Crema de maíz y coco",
+    "kind": "generated-3d",
+    "revision": "360f1737bc1b"
+  },
+  "r615": {
+    "src": "assets/recipes/r615-3d.webp",
+    "title": "Mousse de guayaba y yogur",
+    "kind": "generated-3d",
+    "revision": "0be9afeb19cd"
+  },
+  "r616": {
+    "src": "assets/recipes/r616-3d.webp",
+    "title": "Mousse de mango sin huevo",
+    "kind": "generated-3d",
+    "revision": "eedf790d00da"
+  },
+  "r617": {
+    "src": "assets/recipes/r617-3d.webp",
+    "title": "Crema de cacao y aguacate",
+    "kind": "generated-3d",
+    "revision": "7dbb157aa99c"
+  },
+  "r618": {
+    "src": "assets/recipes/r618-3d.webp",
+    "title": "Helado de coco sin huevo",
+    "kind": "generated-3d",
+    "revision": "3cd3d869c2a2"
+  },
+  "r619": {
+    "src": "assets/recipes/r619-3d.webp",
+    "title": "Helado de guayaba y queso",
+    "kind": "generated-3d",
+    "revision": "86cfbf190e96"
+  },
+  "r620": {
+    "src": "assets/recipes/r620-3d.webp",
+    "title": "Sorbete de mango y limón",
+    "kind": "generated-3d",
+    "revision": "bffaa42bf595"
+  },
+  "r621": {
+    "src": "assets/recipes/r621-3d.webp",
+    "title": "Paletas de mamey y leche de coco",
+    "kind": "generated-3d",
+    "revision": "e00f10cfb8b7"
+  },
+  "r622": {
+    "src": "assets/recipes/r622-3d.webp",
+    "title": "Gelatina de piña cocida",
+    "kind": "generated-3d",
+    "revision": "b9010d564d4c"
+  },
+  "r624": {
+    "src": "assets/recipes/r624-3d.webp",
+    "title": "Naranjas rellenas de crema fría",
+    "kind": "generated-3d",
+    "revision": "08a16bb76571"
+  },
+  "r625": {
+    "src": "assets/recipes/r625-3d.webp",
+    "title": "Piña asada con especias",
+    "kind": "generated-3d",
+    "revision": "7ac06178dacb"
+  },
+  "r627": {
+    "src": "assets/recipes/r627-3d.webp",
+    "title": "Plátanos maduros rellenos de queso y miel",
+    "kind": "generated-3d",
+    "revision": "afa027b72fa1"
+  },
+  "r628": {
+    "src": "assets/recipes/r628-3d.webp",
+    "title": "Boniato en almíbar de naranja",
+    "kind": "generated-3d",
+    "revision": "6b2c64b8292a"
+  },
+  "r629": {
+    "src": "assets/recipes/r629-3d.webp",
+    "title": "Crema de maní en vasitos",
+    "kind": "generated-3d",
+    "revision": "40f2052d6241"
+  },
+  "r630": {
+    "src": "assets/recipes/r630-3d.webp",
+    "title": "Gelatina de coco y café en capas",
+    "kind": "generated-3d",
+    "revision": "b01366cbc8e6"
+  },
+  "r633": {
+    "src": "assets/recipes/r633-3d.webp",
+    "title": "Champola de guanábana con agua",
+    "kind": "generated-3d",
+    "revision": "6d7ab987379e"
+  },
+  "r636": {
+    "src": "assets/recipes/r636-3d.webp",
+    "title": "Cortadito casero",
+    "kind": "generated-3d",
+    "revision": "b4d6294c41be"
+  },
+  "r637": {
+    "src": "assets/recipes/r637-3d.webp",
+    "title": "Café frío con leche condensada",
+    "kind": "generated-3d",
+    "revision": "5c9858cba4b2"
+  },
+  "r638": {
+    "src": "assets/recipes/r638-3d.webp",
+    "title": "Infusión de piña y canela",
+    "kind": "generated-3d",
+    "revision": "094ad83c6a02"
+  },
+  "r639": {
+    "src": "assets/recipes/r639-3d.webp",
+    "title": "Bebida caliente de maíz y coco",
+    "kind": "generated-3d",
+    "revision": "2c88eb986f96"
+  },
+  "r641": {
+    "src": "assets/recipes/r641-3d.webp",
+    "title": "Camarones empanizados con coco",
+    "kind": "generated-3d",
+    "revision": "a13fe607bfb4"
+  },
+  "r642": {
+    "src": "assets/recipes/r642-3d.webp",
+    "title": "Camarones a la plancha con mojo de naranja",
+    "kind": "generated-3d",
+    "revision": "4b6349cbd12f"
+  },
+  "r643": {
+    "src": "assets/recipes/r643-3d.webp",
+    "title": "Camarones en salsa de mango",
+    "kind": "generated-3d",
+    "revision": "9df02a50cb03"
+  },
+  "r644": {
+    "src": "assets/recipes/r644-3d.webp",
+    "title": "Camarones con quimbombó y tomate",
+    "kind": "generated-3d",
+    "revision": "29160f5fd35a"
+  },
+  "r645": {
+    "src": "assets/recipes/r645-3d.webp",
+    "title": "Brochetas de camarón y piña",
+    "kind": "generated-3d",
+    "revision": "7e33d4dd049d"
+  },
+  "r646": {
+    "src": "assets/recipes/r646-3d.webp",
+    "title": "Camarones con calabaza y coco",
+    "kind": "generated-3d",
+    "revision": "03847e475498"
+  },
+  "r647": {
+    "src": "assets/recipes/r647-3d.webp",
+    "title": "Camarones gratinados con queso",
+    "kind": "generated-3d",
+    "revision": "d52de728b1a1"
+  },
+  "r648": {
+    "src": "assets/recipes/r648-3d.webp",
+    "title": "Camarones envueltos en jamón",
+    "kind": "generated-3d",
+    "revision": "903dabc605a2"
+  },
+  "r649": {
+    "src": "assets/recipes/r649-3d.webp",
+    "title": "Calamares rellenos de camarones",
+    "kind": "generated-3d",
+    "revision": "d8c08da503d6"
+  },
+  "r650": {
+    "src": "assets/recipes/r650-3d.webp",
+    "title": "Calamares a la plancha con perejil",
+    "kind": "generated-3d",
+    "revision": "0b6b0487bfca"
+  },
+  "r651": {
+    "src": "assets/recipes/r651-3d.webp",
+    "title": "Anillos de calamar con cobertura de maíz",
+    "kind": "generated-3d",
+    "revision": "87744baf4eab"
+  },
+  "r652": {
+    "src": "assets/recipes/r652-3d.webp",
+    "title": "Calamares guisados con coco y boniato",
+    "kind": "generated-3d",
+    "revision": "c22ec2dab4b5"
+  },
+  "r653": {
+    "src": "assets/recipes/r653-3d.webp",
+    "title": "Calamares salteados con piña y pimiento",
+    "kind": "generated-3d",
+    "revision": "22929538e227"
+  },
+  "r654": {
+    "src": "assets/recipes/r654-3d.webp",
+    "title": "Pulpo a la plancha con mojo verde",
+    "kind": "generated-3d",
+    "revision": "08943a85dc42"
+  },
+  "r655": {
+    "src": "assets/recipes/r655-3d.webp",
+    "title": "Pulpo en vinagreta de cítricos",
+    "kind": "generated-3d",
+    "revision": "ca4367d38f21"
+  },
+  "r656": {
+    "src": "assets/recipes/r656-3d.webp",
+    "title": "Pulpo con tomate y aceitunas",
+    "kind": "generated-3d",
+    "revision": "29bf89717c02"
+  },
+  "r657": {
+    "src": "assets/recipes/r657-3d.webp",
+    "title": "Cangrejo gratinado en cazuelitas",
+    "kind": "generated-3d",
+    "revision": "183daa9a9e23"
+  },
+  "r658": {
+    "src": "assets/recipes/r658-3d.webp",
+    "title": "Torticas de cangrejo y maíz",
+    "kind": "generated-3d",
+    "revision": "2502af07c968"
+  },
+  "r659": {
+    "src": "assets/recipes/r659-3d.webp",
+    "title": "Cangrejo guisado con calabaza",
+    "kind": "generated-3d",
+    "revision": "dcd697fd19fb"
+  },
+  "r660": {
+    "src": "assets/recipes/r660-3d.webp",
+    "title": "Langosta al horno con mantequilla de naranja",
+    "kind": "generated-3d",
+    "revision": "50934ca2f12f"
+  },
+  "r661": {
+    "src": "assets/recipes/r661-3d.webp",
+    "title": "Langosta en coco y jengibre",
+    "kind": "generated-3d",
+    "revision": "77b5b1a1bd69"
+  },
+  "r662": {
+    "src": "assets/recipes/r662-3d.webp",
+    "title": "Langosta rellena de camarones",
+    "kind": "generated-3d",
+    "revision": "25ae950a4269"
+  },
+  "r663": {
+    "src": "assets/recipes/r663-3d.webp",
+    "title": "Mejillones en salsa criolla",
+    "kind": "generated-3d",
+    "revision": "683b09760ccd"
+  },
+  "r664": {
+    "src": "assets/recipes/r664-3d.webp",
+    "title": "Almejas en mojo caldoso",
+    "kind": "generated-3d",
+    "revision": "8d2db55589a3"
+  },
+  "r665": {
+    "src": "assets/recipes/r665-3d.webp",
+    "title": "Cobo guisado con tomate",
+    "kind": "generated-3d",
+    "revision": "d56c28e0a109"
+  },
+  "r666": {
+    "src": "assets/recipes/r666-3d.webp",
+    "title": "Ensalada de garbanzos con aguacate y ají",
+    "kind": "generated-3d",
+    "revision": "4bb71d3d87d7"
+  },
+  "r667": {
+    "src": "assets/recipes/r667-3d.webp",
+    "title": "Ensalada de frijoles negros y mango",
+    "kind": "generated-3d",
+    "revision": "284f81c39ec7"
+  },
+  "r668": {
+    "src": "assets/recipes/r668-3d.webp",
+    "title": "Ensalada fría de boniato y naranja",
+    "kind": "generated-3d",
+    "revision": "174fd01766cd"
+  },
+  "r669": {
+    "src": "assets/recipes/r669-3d.webp",
+    "title": "Ensalada de yuca con cilantro y pepino",
+    "kind": "generated-3d",
+    "revision": "a9f6df1b43d1"
+  },
+  "r670": {
+    "src": "assets/recipes/r670-3d.webp",
+    "title": "Ensalada de malanga con huevo y perejil",
+    "kind": "generated-3d",
+    "revision": "6a167d1683ef"
+  },
+  "r671": {
+    "src": "assets/recipes/r671-3d.webp",
+    "title": "Ensalada de papa con remolacha y yogur",
+    "kind": "generated-3d",
+    "revision": "192a014efdbd"
+  },
+  "r672": {
+    "src": "assets/recipes/r672-3d.webp",
+    "title": "Ensalada de col morada, piña y maní",
+    "kind": "generated-3d",
+    "revision": "17ffd93fe55e"
+  },
+  "r673": {
+    "src": "assets/recipes/r673-3d.webp",
+    "title": "Ensalada de calabaza asada y queso blanco",
+    "kind": "generated-3d",
+    "revision": "1945de3ffa81"
+  },
+  "r674": {
+    "src": "assets/recipes/r674-3d.webp",
+    "title": "Ensalada de plátano maduro con berros",
+    "kind": "generated-3d",
+    "revision": "f95af2a4a55c"
+  },
+  "r675": {
+    "src": "assets/recipes/r675-3d.webp",
+    "title": "Ensalada de habichuelas verdes y tomate",
+    "kind": "generated-3d",
+    "revision": "2f5ab1c2f437"
+  },
+  "r676": {
+    "src": "assets/recipes/r676-3d.webp",
+    "title": "Ensalada de maíz con pimientos asados",
+    "kind": "generated-3d",
+    "revision": "fd36d25b7299"
+  },
+  "r677": {
+    "src": "assets/recipes/r677-3d.webp",
+    "title": "Ensalada de lentejas con cebolla encurtida",
+    "kind": "generated-3d",
+    "revision": "595a8ff0ec59"
+  },
+  "r678": {
+    "src": "assets/recipes/r678-3d.webp",
+    "title": "Ensalada de arroz frío y vegetales",
+    "kind": "generated-3d",
+    "revision": "a59d4461690a"
+  },
+  "r679": {
+    "src": "assets/recipes/r679-3d.webp",
+    "title": "Ensalada de coditos con atún y aceitunas",
+    "kind": "generated-3d",
+    "revision": "815d2ae56975"
+  },
+  "r680": {
+    "src": "assets/recipes/r680-3d.webp",
+    "title": "Ensalada de remolacha con naranja y comino",
+    "kind": "generated-3d",
+    "revision": "26b59ae7ca78"
+  },
+  "r681": {
+    "src": "assets/recipes/r681-3d.webp",
+    "title": "Ensalada de palmitos, pepino y aguacate",
+    "kind": "generated-3d",
+    "revision": "1c6a0dce7d64"
+  },
+  "r682": {
+    "src": "assets/recipes/r682-3d.webp",
+    "title": "Ensalada de chayote con cebolla y limón",
+    "kind": "generated-3d",
+    "revision": "487f9d013b8e"
+  },
+  "r683": {
+    "src": "assets/recipes/r683-3d.webp",
+    "title": "Ensalada de zanahoria con pasas y coco",
+    "kind": "generated-3d",
+    "revision": "6e62630bee2a"
+  },
+  "r684": {
+    "src": "assets/recipes/r684-3d.webp",
+    "title": "Ensalada de tomate con casabe crujiente",
+    "kind": "generated-3d",
+    "revision": "aecfa1738a90"
+  },
+  "r685": {
+    "src": "assets/recipes/r685-3d.webp",
+    "title": "Ensalada de pollo con guayaba y apio",
+    "kind": "generated-3d",
+    "revision": "c907c3a80a62"
+  },
+  "r686": {
+    "src": "assets/recipes/r686-3d.webp",
+    "title": "Bocaditos de pasta de jamón y piña",
+    "kind": "generated-3d",
+    "revision": "5c0a2f4a2f32"
+  },
+  "r687": {
+    "src": "assets/recipes/r687-3d.webp",
+    "title": "Sándwich de pollo con mojo de cilantro",
+    "kind": "generated-3d",
+    "revision": "73322c6ef584"
+  },
+  "r688": {
+    "src": "assets/recipes/r688-3d.webp",
+    "title": "Pan con cerdo al tamarindo y pepino",
+    "kind": "generated-3d",
+    "revision": "40e12d21ffdd"
+  },
+  "r689": {
+    "src": "assets/recipes/r689-3d.webp",
+    "title": "Bocaditos de queso crema y pimiento asado",
+    "kind": "generated-3d",
+    "revision": "01fc91d6a478"
+  },
+  "r690": {
+    "src": "assets/recipes/r690-3d.webp",
+    "title": "Sándwich de atún y aguacate",
+    "kind": "generated-3d",
+    "revision": "540d1f546cd3"
+  },
+  "r691": {
+    "src": "assets/recipes/r691-3d.webp",
+    "title": "Pan con tortilla de calabaza",
+    "kind": "generated-3d",
+    "revision": "be20d3004577"
+  },
+  "r692": {
+    "src": "assets/recipes/r692-3d.webp",
+    "title": "Sándwich de berenjena asada y queso blanco",
+    "kind": "generated-3d",
+    "revision": "e7b9169ebc21"
+  },
+  "r693": {
+    "src": "assets/recipes/r693-3d.webp",
+    "title": "Bocaditos de frijoles negros y plátano",
+    "kind": "generated-3d",
+    "revision": "13df4754b3af"
+  },
+  "r694": {
+    "src": "assets/recipes/r694-3d.webp",
+    "title": "Sándwich de res deshebrada y queso fundido",
+    "kind": "generated-3d",
+    "revision": "d0499be255cd"
+  },
+  "r695": {
+    "src": "assets/recipes/r695-3d.webp",
+    "title": "Pan con pescado al limón y col",
+    "kind": "generated-3d",
+    "revision": "bc7df5e454b2"
+  },
+  "r696": {
+    "src": "assets/recipes/r696-3d.webp",
+    "title": "Bocaditos de huevo y aceitunas",
+    "kind": "generated-3d",
+    "revision": "381c83bc44a8"
+  },
+  "r697": {
+    "src": "assets/recipes/r697-3d.webp",
+    "title": "Pan tostado con guayaba, queso y ajonjolí",
+    "kind": "generated-3d",
+    "revision": "957fa220669b"
+  },
+  "r698": {
+    "src": "assets/recipes/r698-3d.webp",
+    "title": "Sándwich de pavo con mojo de naranja",
+    "kind": "generated-3d",
+    "revision": "aad2f501a601"
+  },
+  "r699": {
+    "src": "assets/recipes/r699-3d.webp",
+    "title": "Pan con tortitas de malanga y comino",
+    "kind": "generated-3d",
+    "revision": "4a16398a4fc7"
+  },
+  "r700": {
+    "src": "assets/recipes/r700-3d.webp",
+    "title": "Bocaditos de garbanzos y ajo asado",
+    "kind": "generated-3d",
+    "revision": "de779de42997"
+  },
+  "r701": {
+    "src": "assets/recipes/r701-3d.webp",
+    "title": "Pollo con yuca y ají dulce",
+    "kind": "generated-3d",
+    "revision": "0ce3dc96b8ce"
+  },
+  "r702": {
+    "src": "assets/recipes/r702-3d.webp",
+    "title": "Hígados de pollo encebollados",
+    "kind": "generated-3d",
+    "revision": "297a42f8617d"
+  },
+  "r703": {
+    "src": "assets/recipes/r703-3d.webp",
+    "title": "Mollejas de pollo con papas y tomate",
+    "kind": "generated-3d",
+    "revision": "582c8a7e7770"
+  },
+  "r704": {
+    "src": "assets/recipes/r704-3d.webp",
+    "title": "Corazones de pollo al ajillo con pimientos",
+    "kind": "generated-3d",
+    "revision": "396524cc0390"
+  },
+  "r705": {
+    "src": "assets/recipes/r705-3d.webp",
+    "title": "Contramuslos rellenos de espinaca y maní",
+    "kind": "generated-3d",
+    "revision": "5ff4da812a24"
+  },
+  "r706": {
+    "src": "assets/recipes/r706-3d.webp",
+    "title": "Pechuga de pollo en salsa de aguacate",
+    "kind": "generated-3d",
+    "revision": "f76d4de2b029"
+  },
+  "r707": {
+    "src": "assets/recipes/r707-3d.webp",
+    "title": "Pollo gratinado con chayote",
+    "kind": "generated-3d",
+    "revision": "4ebbb7e32de3"
+  },
+  "r708": {
+    "src": "assets/recipes/r708-3d.webp",
+    "title": "Pollo con tamal en cazuela",
+    "kind": "generated-3d",
+    "revision": "cde4146b73ce"
+  },
+  "r709": {
+    "src": "assets/recipes/r709-3d.webp",
+    "title": "Tortitas de pollo y boniato",
+    "kind": "generated-3d",
+    "revision": "3e275afcc220"
+  },
+  "r710": {
+    "src": "assets/recipes/r710-3d.webp",
+    "title": "Pollo con mojo de tomate asado",
+    "kind": "generated-3d",
+    "revision": "1be8398c84ef"
+  },
+  "r711": {
+    "src": "assets/recipes/r711-3d.webp",
+    "title": "Gallina en salsa de maní y huevo",
+    "kind": "generated-3d",
+    "revision": "60f52e6b3e6f"
+  },
+  "r712": {
+    "src": "assets/recipes/r712-3d.webp",
+    "title": "Gallina con yuca y naranja agria",
+    "kind": "generated-3d",
+    "revision": "c0917139036f"
+  },
+  "r713": {
+    "src": "assets/recipes/r713-3d.webp",
+    "title": "Gallina desmechada con quimbombó",
+    "kind": "generated-3d",
+    "revision": "0b1d4b338717"
+  },
+  "r714": {
+    "src": "assets/recipes/r714-3d.webp",
+    "title": "Gallina guisada con aceitunas y pasas",
+    "kind": "generated-3d",
+    "revision": "95f21ffeeadd"
+  },
+  "r715": {
+    "src": "assets/recipes/r715-3d.webp",
+    "title": "Gallina dorada con puré de calabaza",
+    "kind": "generated-3d",
+    "revision": "217c0e772d80"
+  },
+  "r716": {
+    "src": "assets/recipes/r716-3d.webp",
+    "title": "Guanajo en salsa de mango verde",
+    "kind": "generated-3d",
+    "revision": "d6e79511fb91"
+  },
+  "r717": {
+    "src": "assets/recipes/r717-3d.webp",
+    "title": "Medallones de pavo con puré de frijoles negros",
+    "kind": "generated-3d",
+    "revision": "f23a879b558b"
+  },
+  "r718": {
+    "src": "assets/recipes/r718-3d.webp",
+    "title": "Pavo desmechado con mojo de pimientos asados",
+    "kind": "generated-3d",
+    "revision": "53026cf48ee3"
+  },
+  "r719": {
+    "src": "assets/recipes/r719-3d.webp",
+    "title": "Calabacines rellenos de pavo y plátano",
+    "kind": "generated-3d",
+    "revision": "977709bed69d"
+  },
+  "r720": {
+    "src": "assets/recipes/r720-3d.webp",
+    "title": "Pavo guisado con berenjena y tomate",
+    "kind": "generated-3d",
+    "revision": "fa110715f5ed"
+  },
+  "r721": {
+    "src": "assets/recipes/r721-3d.webp",
+    "title": "Rollo de pavo relleno de huevo y espinaca",
+    "kind": "generated-3d",
+    "revision": "a5e1655f3c7a"
+  },
+  "r722": {
+    "src": "assets/recipes/r722-3d.webp",
+    "title": "Tiras de pavo con salsa de ajonjolí y limón",
+    "kind": "generated-3d",
+    "revision": "5d7068472033"
+  },
+  "r723": {
+    "src": "assets/recipes/r723-3d.webp",
+    "title": "Muslos de pato con garbanzos y espinaca",
+    "kind": "generated-3d",
+    "revision": "acd161809717"
+  },
+  "r724": {
+    "src": "assets/recipes/r724-3d.webp",
+    "title": "Pato guisado con malanga y ají dulce",
+    "kind": "generated-3d",
+    "revision": "f0850d38a323"
+  },
+  "r725": {
+    "src": "assets/recipes/r725-3d.webp",
+    "title": "Pechuga de pato con mojo de ajo asado",
+    "kind": "generated-3d",
+    "revision": "cb3e7893cdf9"
+  },
+  "r726": {
+    "src": "assets/recipes/r726-3d.webp",
+    "title": "Pato desmechado con chayote y cebolla",
+    "kind": "generated-3d",
+    "revision": "5d773ad29898"
+  },
+  "r727": {
+    "src": "assets/recipes/r727-3d.webp",
+    "title": "Pato con salsa de mango y vino seco",
+    "kind": "generated-3d",
+    "revision": "372a733db454"
+  },
+  "r728": {
+    "src": "assets/recipes/r728-3d.webp",
+    "title": "Muslos de ganso con frijoles colorados",
+    "kind": "generated-3d",
+    "revision": "56c0dd4bd779"
+  },
+  "r729": {
+    "src": "assets/recipes/r729-3d.webp",
+    "title": "Ganso con col y plátano pintón",
+    "kind": "generated-3d",
+    "revision": "981b75689eca"
+  },
+  "r730": {
+    "src": "assets/recipes/r730-3d.webp",
+    "title": "Pechuga de ganso en salsa de ciruelas",
+    "kind": "generated-3d",
+    "revision": "eabcb3bcaf62"
+  },
+  "r731": {
+    "src": "assets/recipes/r731-3d.webp",
+    "title": "Arroz asopado de camarones y malanga",
+    "kind": "generated-3d",
+    "revision": "05b3a95752dd"
+  },
+  "r732": {
+    "src": "assets/recipes/r732-3d.webp",
+    "title": "Arroz al horno con jurel y cebolla",
+    "kind": "generated-3d",
+    "revision": "ce1af01c46ce"
+  },
+  "r733": {
+    "src": "assets/recipes/r733-3d.webp",
+    "title": "Arroz caldoso de cobo y quimbombó",
+    "kind": "generated-3d",
+    "revision": "17e229c58876"
+  },
+  "r734": {
+    "src": "assets/recipes/r734-3d.webp",
+    "title": "Arroz con dorado y piña asada",
+    "kind": "generated-3d",
+    "revision": "23f77006a5e2"
+  },
+  "r735": {
+    "src": "assets/recipes/r735-3d.webp",
+    "title": "Arroz caldoso de pescado y camarones",
+    "kind": "generated-3d",
+    "revision": "543e5139ed06"
+  },
+  "r736": {
+    "src": "assets/recipes/r736-3d.webp",
+    "title": "Arroz con mejillones y garbanzos",
+    "kind": "generated-3d",
+    "revision": "102180daab58"
+  },
+  "r737": {
+    "src": "assets/recipes/r737-3d.webp",
+    "title": "Arroz con langostinos y quimbombó",
+    "kind": "generated-3d",
+    "revision": "4c33410a05d4"
+  },
+  "r738": {
+    "src": "assets/recipes/r738-3d.webp",
+    "title": "Arroz de bacalao fresco y habas",
+    "kind": "generated-3d",
+    "revision": "45878a0d7f58"
+  },
+  "r739": {
+    "src": "assets/recipes/r739-3d.webp",
+    "title": "Arroz frito de cangrejo y huevo",
+    "kind": "generated-3d",
+    "revision": "2852a73c046e"
+  },
+  "r740": {
+    "src": "assets/recipes/r740-3d.webp",
+    "title": "Arroz con sardinas y calabaza",
+    "kind": "generated-3d",
+    "revision": "baef064a549f"
+  },
+  "r741": {
+    "src": "assets/recipes/r741-3d.webp",
+    "title": "Arroz con gallina y yuca",
+    "kind": "generated-3d",
+    "revision": "f7ef0ecc4515"
+  },
+  "r742": {
+    "src": "assets/recipes/r742-3d.webp",
+    "title": "Arroz con chivo desmechado",
+    "kind": "generated-3d",
+    "revision": "50c34104dc7f"
+  },
+  "r743": {
+    "src": "assets/recipes/r743-3d.webp",
+    "title": "Arroz con lomo de cerdo y piña",
+    "kind": "generated-3d",
+    "revision": "3ac7c222ff34"
+  },
+  "r744": {
+    "src": "assets/recipes/r744-3d.webp",
+    "title": "Arroz con albóndigas de res",
+    "kind": "generated-3d",
+    "revision": "561d096df056"
+  },
+  "r745": {
+    "src": "assets/recipes/r745-3d.webp",
+    "title": "Arroz con salchicha fresca y col",
+    "kind": "generated-3d",
+    "revision": "b2c27082d73e"
+  },
+  "r746": {
+    "src": "assets/recipes/r746-3d.webp",
+    "title": "Arroz con pato y frijoles blancos",
+    "kind": "generated-3d",
+    "revision": "8c8d969bf5d3"
+  },
+  "r747": {
+    "src": "assets/recipes/r747-3d.webp",
+    "title": "Arroz con lengua de res y aceitunas",
+    "kind": "generated-3d",
+    "revision": "81a29edc76b0"
+  },
+  "r748": {
+    "src": "assets/recipes/r748-3d.webp",
+    "title": "Arroz con pavo molido y zanahoria",
+    "kind": "generated-3d",
+    "revision": "7ea6a86f6758"
+  },
+  "r749": {
+    "src": "assets/recipes/r749-3d.webp",
+    "title": "Arroz al horno con berenjena y queso",
+    "kind": "generated-3d",
+    "revision": "9a40be300cc0"
+  },
+  "r750": {
+    "src": "assets/recipes/r750-3d.webp",
+    "title": "Arroz con calabaza y frijoles caritas",
+    "kind": "generated-3d",
+    "revision": "d65ed120b5dd"
+  },
+  "r751": {
+    "src": "assets/recipes/r751-3d.webp",
+    "title": "Arroz integral con quimbombó y tomate",
+    "kind": "generated-3d",
+    "revision": "c0640c2462b5"
+  },
+  "r752": {
+    "src": "assets/recipes/r752-3d.webp",
+    "title": "Arroz con malanga y puerro",
+    "kind": "generated-3d",
+    "revision": "453748654fa8"
+  },
+  "r753": {
+    "src": "assets/recipes/r753-3d.webp",
+    "title": "Arroz con plátano verde y frijoles negros",
+    "kind": "generated-3d",
+    "revision": "a6e143cf2aed"
+  },
+  "r754": {
+    "src": "assets/recipes/r754-3d.webp",
+    "title": "Arroz al horno con coliflor y ajonjolí",
+    "kind": "generated-3d",
+    "revision": "071c17394926"
+  },
+  "r755": {
+    "src": "assets/recipes/r755-3d.webp",
+    "title": "Arroz con zanahoria, coco y maní",
+    "kind": "generated-3d",
+    "revision": "9e811cb9dfef"
+  },
+  "r756": {
+    "src": "assets/recipes/r756-3d.webp",
+    "title": "Arroz con acelga y ajonjolí",
+    "kind": "generated-3d",
+    "revision": "a16fd2db82cb"
+  },
+  "r757": {
+    "src": "assets/recipes/r757-3d.webp",
+    "title": "Arroz al horno con huevo y sofrito",
+    "kind": "generated-3d",
+    "revision": "870b83212c42"
+  },
+  "r758": {
+    "src": "assets/recipes/r758-3d.webp",
+    "title": "Tortitas de arroz y calabacín",
+    "kind": "generated-3d",
+    "revision": "2d02f83a7745"
+  },
+  "r759": {
+    "src": "assets/recipes/r759-3d.webp",
+    "title": "Arroz con apio, aceitunas y limón",
+    "kind": "generated-3d",
+    "revision": "168d9d19e2a1"
+  },
+  "r760": {
+    "src": "assets/recipes/r760-3d.webp",
+    "title": "Arroz con maíz tostado y queso de freír",
+    "kind": "generated-3d",
+    "revision": "4055c795c4a0"
+  },
+  "r761": {
+    "src": "assets/recipes/r761-3d.webp",
+    "title": "Frijoles negros con champiñones y pimiento asado",
+    "kind": "generated-3d",
+    "revision": "0e538dabd4d5"
+  },
+  "r762": {
+    "src": "assets/recipes/r762-3d.webp",
+    "title": "Ensalada tibia de frijoles negros y maíz asado",
+    "kind": "generated-3d",
+    "revision": "3cb651d43011"
+  },
+  "r763": {
+    "src": "assets/recipes/r763-3d.webp",
+    "title": "Crema de frijoles negros con chips de plátano",
+    "kind": "generated-3d",
+    "revision": "ccc8133e7ff0"
+  },
+  "r764": {
+    "src": "assets/recipes/r764-3d.webp",
+    "title": "Frijoles colorados con albóndigas de res",
+    "kind": "generated-3d",
+    "revision": "01a340132ef9"
+  },
+  "r765": {
+    "src": "assets/recipes/r765-3d.webp",
+    "title": "Frijoles colorados con remolacha y comino",
+    "kind": "generated-3d",
+    "revision": "bd49fdca7013"
+  },
+  "r766": {
+    "src": "assets/recipes/r766-3d.webp",
+    "title": "Ensalada de frijoles colorados con aguacate y tomate",
+    "kind": "generated-3d",
+    "revision": "9c9bb1aa3c0d"
+  },
+  "r767": {
+    "src": "assets/recipes/r767-3d.webp",
+    "title": "Potaje de frijoles pintos con costillas frescas",
+    "kind": "generated-3d",
+    "revision": "eb2c086d9a57"
+  },
+  "r768": {
+    "src": "assets/recipes/r768-3d.webp",
+    "title": "Frijoles pintos con berenjena y tomate",
+    "kind": "generated-3d",
+    "revision": "68ee1ca4db97"
+  },
+  "r769": {
+    "src": "assets/recipes/r769-3d.webp",
+    "title": "Frijoles blancos con pollo y apio",
+    "kind": "generated-3d",
+    "revision": "b982ef0f945c"
+  },
+  "r770": {
+    "src": "assets/recipes/r770-3d.webp",
+    "title": "Frijoles blancos al horno con costra de pan",
+    "kind": "generated-3d",
+    "revision": "6b02d4199f3f"
+  },
+  "r771": {
+    "src": "assets/recipes/r771-3d.webp",
+    "title": "Crema de frijoles blancos con espárragos",
+    "kind": "generated-3d",
+    "revision": "3afb649fe693"
+  },
+  "r772": {
+    "src": "assets/recipes/r772-3d.webp",
+    "title": "Caritas con quimbombó y tomate",
+    "kind": "generated-3d",
+    "revision": "1c19ea3e7d80"
+  },
+  "r773": {
+    "src": "assets/recipes/r773-3d.webp",
+    "title": "Ensalada de caritas con pepino y naranja",
+    "kind": "generated-3d",
+    "revision": "2ef22e0a916c"
+  },
+  "r774": {
+    "src": "assets/recipes/r774-3d.webp",
+    "title": "Garbanzos con berenjena y huevo duro",
+    "kind": "generated-3d",
+    "revision": "291aea038b38"
+  },
+  "r775": {
+    "src": "assets/recipes/r775-3d.webp",
+    "title": "Garbanzos crujientes con coliflor al horno",
+    "kind": "generated-3d",
+    "revision": "39f87f9c9676"
+  },
+  "r776": {
+    "src": "assets/recipes/r776-3d.webp",
+    "title": "Sopa de garbanzos con coditos y acelga",
+    "kind": "generated-3d",
+    "revision": "3e473a58a699"
+  },
+  "r777": {
+    "src": "assets/recipes/r777-3d.webp",
+    "title": "Lentejas con salchicha de pavo y pimiento",
+    "kind": "generated-3d",
+    "revision": "35c2ff8184d0"
+  },
+  "r778": {
+    "src": "assets/recipes/r778-3d.webp",
+    "title": "Lentejas con boniato y habichuelas verdes",
+    "kind": "generated-3d",
+    "revision": "af6e657376e3"
+  },
+  "r779": {
+    "src": "assets/recipes/r779-3d.webp",
+    "title": "Ensalada tibia de lentejas y calabaza asada",
+    "kind": "generated-3d",
+    "revision": "fc98bf7e6f92"
+  },
+  "r780": {
+    "src": "assets/recipes/r780-3d.webp",
+    "title": "Crema de lentejas con pimiento rojo asado",
+    "kind": "generated-3d",
+    "revision": "68049a0d43c2"
+  },
+  "r781": {
+    "src": "assets/recipes/r781-3d.webp",
+    "title": "Chícharos partidos con maíz y calabaza",
+    "kind": "generated-3d",
+    "revision": "a0b9769e6ae0"
+  },
+  "r782": {
+    "src": "assets/recipes/r782-3d.webp",
+    "title": "Sopa de habas tiernas con papa y puerro",
+    "kind": "generated-3d",
+    "revision": "00ac508afbb3"
+  },
+  "r783": {
+    "src": "assets/recipes/r783-3d.webp",
+    "title": "Sopa de cebada con verduras al sofrito",
+    "kind": "generated-3d",
+    "revision": "fd6bcae1057f"
+  },
+  "r784": {
+    "src": "assets/recipes/r784-3d.webp",
+    "title": "Sopa salada de avena con pollo",
+    "kind": "generated-3d",
+    "revision": "37423b890213"
+  },
+  "r785": {
+    "src": "assets/recipes/r785-3d.webp",
+    "title": "Caldo de pavo con ñame y zanahoria",
+    "kind": "generated-3d",
+    "revision": "51db8bbdd79a"
+  },
+  "r786": {
+    "src": "assets/recipes/r786-3d.webp",
+    "title": "Sopa de albóndigas de pollo y arroz",
+    "kind": "generated-3d",
+    "revision": "96c5a22ed19e"
+  },
+  "r787": {
+    "src": "assets/recipes/r787-3d.webp",
+    "title": "Sopa de cerdo con col y papa",
+    "kind": "generated-3d",
+    "revision": "c24e4bc6c5aa"
+  },
+  "r788": {
+    "src": "assets/recipes/r788-3d.webp",
+    "title": "Caldo de res con garbanzos y apio",
+    "kind": "generated-3d",
+    "revision": "bdb28901711a"
+  },
+  "r789": {
+    "src": "assets/recipes/r789-3d.webp",
+    "title": "Sopa de calamar con papas y pimiento",
+    "kind": "generated-3d",
+    "revision": "1c3853c2f504"
+  },
+  "r790": {
+    "src": "assets/recipes/r790-3d.webp",
+    "title": "Sopa de mejillones con tomate y maíz",
+    "kind": "generated-3d",
+    "revision": "ac7d7835439a"
+  },
+  "r791": {
+    "src": "assets/recipes/r791-3d.webp",
+    "title": "Sopa de camarones con fideos y coco",
+    "kind": "generated-3d",
+    "revision": "a8bf5b1da66c"
+  },
+  "r792": {
+    "src": "assets/recipes/r792-3d.webp",
+    "title": "Sopa de pescado con quimbombó y limón",
+    "kind": "generated-3d",
+    "revision": "60f7f3e2678b"
+  },
+  "r793": {
+    "src": "assets/recipes/r793-3d.webp",
+    "title": "Crema de zanahoria con maní tostado",
+    "kind": "generated-3d",
+    "revision": "2bd0be58fcce"
+  },
+  "r794": {
+    "src": "assets/recipes/r794-3d.webp",
+    "title": "Crema de remolacha con yogur natural",
+    "kind": "generated-3d",
+    "revision": "caadb8dff0c0"
+  },
+  "r795": {
+    "src": "assets/recipes/r795-3d.webp",
+    "title": "Crema de papa y berro",
+    "kind": "generated-3d",
+    "revision": "13cbd5d217c3"
+  },
+  "r796": {
+    "src": "assets/recipes/r796-3d.webp",
+    "title": "Crema de berenjena asada con tomate",
+    "kind": "generated-3d",
+    "revision": "809521e831fe"
+  },
+  "r797": {
+    "src": "assets/recipes/r797-3d.webp",
+    "title": "Sopa de col con plátano verde",
+    "kind": "generated-3d",
+    "revision": "1f9db879c30c"
+  },
+  "r798": {
+    "src": "assets/recipes/r798-3d.webp",
+    "title": "Sopa de calabacín con bolitas de queso",
+    "kind": "generated-3d",
+    "revision": "4cca68fcc2dd"
+  },
+  "r799": {
+    "src": "assets/recipes/r799-3d.webp",
+    "title": "Crema de brócoli con queso blanco",
+    "kind": "generated-3d",
+    "revision": "cec66ad46777"
+  },
+  "r800": {
+    "src": "assets/recipes/r800-3d.webp",
+    "title": "Sopa de champiñones con maíz y perejil",
+    "kind": "generated-3d",
+    "revision": "d9bd8cb8b8f4"
+  },
+  "r801": {
+    "src": "assets/recipes/r801-3d.webp",
+    "title": "Yuca guisada con quimbombó y tomate",
+    "kind": "generated-3d",
+    "revision": "34815639029d"
+  },
+  "r802": {
+    "src": "assets/recipes/r802-3d.webp",
+    "title": "Ensalada tibia de ñame, habichuelas y ají asado",
+    "kind": "generated-3d",
+    "revision": "877fc228e099"
+  },
+  "r803": {
+    "src": "assets/recipes/r803-3d.webp",
+    "title": "Malanga en láminas con calabaza y leche de coco",
+    "kind": "generated-3d",
+    "revision": "4f1069b92567"
+  },
+  "r804": {
+    "src": "assets/recipes/r804-3d.webp",
+    "title": "Puré de plátano pintón con ajo y puerro",
+    "kind": "generated-3d",
+    "revision": "c513e8740196"
+  },
+  "r805": {
+    "src": "assets/recipes/r805-3d.webp",
+    "title": "Boniato asado con salsa de maní y limón",
+    "kind": "generated-3d",
+    "revision": "c9eda7648c4f"
+  },
+  "r806": {
+    "src": "assets/recipes/r806-3d.webp",
+    "title": "Chayotes rellenos de maíz y frijoles colorados",
+    "kind": "generated-3d",
+    "revision": "c473fcc22d34"
+  },
+  "r807": {
+    "src": "assets/recipes/r807-3d.webp",
+    "title": "Calabaza en escabeche suave de naranja",
+    "kind": "generated-3d",
+    "revision": "bf28ef0c4d7b"
+  },
+  "r808": {
+    "src": "assets/recipes/r808-3d.webp",
+    "title": "Berenjena asada con crema de frijoles blancos",
+    "kind": "generated-3d",
+    "revision": "0fccb74ce2d5"
+  },
+  "r809": {
+    "src": "assets/recipes/r809-3d.webp",
+    "title": "Plátano maduro al horno con cebolla y comino",
+    "kind": "generated-3d",
+    "revision": "e22a9ad77f08"
+  },
+  "r810": {
+    "src": "assets/recipes/r810-3d.webp",
+    "title": "Coliflor gratinada con puré de malanga",
+    "kind": "generated-3d",
+    "revision": "1f7987ec7c9c"
+  },
+  "r811": {
+    "src": "assets/recipes/r811-3d.webp",
+    "title": "Ensalada de berros, mango y semillas de calabaza",
+    "kind": "generated-3d",
+    "revision": "49a5b28a7ec9"
+  },
+  "r812": {
+    "src": "assets/recipes/r812-3d.webp",
+    "title": "Ensalada de pepino, piña y ají dulce",
+    "kind": "generated-3d",
+    "revision": "3f8d54b8cba7"
+  },
+  "r813": {
+    "src": "assets/recipes/r813-3d.webp",
+    "title": "Ensalada de remolacha, garbanzos y hierbabuena",
+    "kind": "generated-3d",
+    "revision": "9223d014bbe4"
+  },
+  "r814": {
+    "src": "assets/recipes/r814-3d.webp",
+    "title": "Ensalada de tomate asado, aguacate y cebolla",
+    "kind": "generated-3d",
+    "revision": "76fa030acc41"
+  },
+  "r815": {
+    "src": "assets/recipes/r815-3d.webp",
+    "title": "Ensalada de col, guayaba y yogur",
+    "kind": "generated-3d",
+    "revision": "cf1061b0c15f"
+  },
+  "r816": {
+    "src": "assets/recipes/r816-3d.webp",
+    "title": "Ensalada de habichuelas, papa y aceitunas",
+    "kind": "generated-3d",
+    "revision": "915e35f99bf7"
+  },
+  "r817": {
+    "src": "assets/recipes/r817-3d.webp",
+    "title": "Ensalada de chayote, maíz y queso blanco",
+    "kind": "generated-3d",
+    "revision": "27b101a3d724"
+  },
+  "r818": {
+    "src": "assets/recipes/r818-3d.webp",
+    "title": "Ensalada de yuca, atún y tomate",
+    "kind": "generated-3d",
+    "revision": "f2214546f35f"
+  },
+  "r819": {
+    "src": "assets/recipes/r819-3d.webp",
+    "title": "Ensalada de ñame, aguacate y rábano",
+    "kind": "generated-3d",
+    "revision": "110cc50f652b"
+  },
+  "r820": {
+    "src": "assets/recipes/r820-3d.webp",
+    "title": "Ensalada de espinaca, plátano asado y maní",
+    "kind": "generated-3d",
+    "revision": "8279d94da823"
+  },
+  "r821": {
+    "src": "assets/recipes/r821-3d.webp",
+    "title": "Croquetas de pavo y maíz",
+    "kind": "generated-3d",
+    "revision": "bb306f2781d7"
+  },
+  "r822": {
+    "src": "assets/recipes/r822-3d.webp",
+    "title": "Croquetas de calabaza y queso blanco",
+    "kind": "generated-3d",
+    "revision": "ed762a1b416c"
+  },
+  "r823": {
+    "src": "assets/recipes/r823-3d.webp",
+    "title": "Croquetas de lentejas y comino",
+    "kind": "generated-3d",
+    "revision": "307d093ea6cc"
+  },
+  "r824": {
+    "src": "assets/recipes/r824-3d.webp",
+    "title": "Croquetas de plátano maduro y cebolla",
+    "kind": "generated-3d",
+    "revision": "7fac2885377f"
+  },
+  "r825": {
+    "src": "assets/recipes/r825-3d.webp",
+    "title": "Croquetas de atún y pimiento",
+    "kind": "generated-3d",
+    "revision": "aa758a87a8f8"
+  },
+  "r826": {
+    "src": "assets/recipes/r826-3d.webp",
+    "title": "Tortitas de papa, maíz y cebollino",
+    "kind": "generated-3d",
+    "revision": "55047bed776a"
+  },
+  "r827": {
+    "src": "assets/recipes/r827-3d.webp",
+    "title": "Tortitas de zanahoria y queso",
+    "kind": "generated-3d",
+    "revision": "cf1d321fffb9"
+  },
+  "r828": {
+    "src": "assets/recipes/r828-3d.webp",
+    "title": "Tortitas de garbanzos y ají dulce",
+    "kind": "generated-3d",
+    "revision": "acaf844723a9"
+  },
+  "r829": {
+    "src": "assets/recipes/r829-3d.webp",
+    "title": "Tortitas de calabacín y avena",
+    "kind": "generated-3d",
+    "revision": "27d171ff68d0"
+  },
+  "r830": {
+    "src": "assets/recipes/r830-3d.webp",
+    "title": "Tortitas de boniato y frijoles negros",
+    "kind": "generated-3d",
+    "revision": "e90dcae51b76"
+  },
+  "r831": {
+    "src": "assets/recipes/r831-3d.webp",
+    "title": "Casabe con jaiba y limón",
+    "kind": "generated-3d",
+    "revision": "f5d2f04d3665"
+  },
+  "r832": {
+    "src": "assets/recipes/r832-3d.webp",
+    "title": "Tostaditas de pan cubano con picadillo",
+    "kind": "generated-3d",
+    "revision": "d111ab37f14d"
+  },
+  "r833": {
+    "src": "assets/recipes/r833-3d.webp",
+    "title": "Casabe con berenjena y tomate al ajo",
+    "kind": "generated-3d",
+    "revision": "18879133eae7"
+  },
+  "r834": {
+    "src": "assets/recipes/r834-3d.webp",
+    "title": "Tostaditas de sardinas y pimiento asado",
+    "kind": "generated-3d",
+    "revision": "5ed7a6893b32"
+  },
+  "r835": {
+    "src": "assets/recipes/r835-3d.webp",
+    "title": "Canapés de pepino con atún y yogur",
+    "kind": "generated-3d",
+    "revision": "ddf380a8d40c"
+  },
+  "r836": {
+    "src": "assets/recipes/r836-3d.webp",
+    "title": "Huevos rellenos de aguacate y cebollino",
+    "kind": "generated-3d",
+    "revision": "2c64c08d5a85"
+  },
+  "r837": {
+    "src": "assets/recipes/r837-3d.webp",
+    "title": "Rollitos de jamón con queso y zanahoria",
+    "kind": "generated-3d",
+    "revision": "0e5d1c40663d"
+  },
+  "r838": {
+    "src": "assets/recipes/r838-3d.webp",
+    "title": "Brochetas de queso blanco, tomate y guayaba",
+    "kind": "generated-3d",
+    "revision": "f5c54a8db99f"
+  },
+  "r839": {
+    "src": "assets/recipes/r839-3d.webp",
+    "title": "Bocaditos de pollo, maíz y apio",
+    "kind": "generated-3d",
+    "revision": "2a0a45b85f27"
+  },
+  "r840": {
+    "src": "assets/recipes/r840-3d.webp",
+    "title": "Tostadas de crema de calabaza y semillas",
+    "kind": "generated-3d",
+    "revision": "ff9d981c21d7"
+  },
+  "r841": {
+    "src": "assets/recipes/r841-3d.webp",
+    "title": "Empanaditas de frijoles colorados y queso",
+    "kind": "generated-3d",
+    "revision": "aec9f7b8b074"
+  },
+  "r842": {
+    "src": "assets/recipes/r842-3d.webp",
+    "title": "Empanaditas de champiñones y cebolla",
+    "kind": "generated-3d",
+    "revision": "871568c25398"
+  },
+  "r843": {
+    "src": "assets/recipes/r843-3d.webp",
+    "title": "Empanaditas de pavo y calabaza",
+    "kind": "generated-3d",
+    "revision": "6b01f1caa649"
+  },
+  "r844": {
+    "src": "assets/recipes/r844-3d.webp",
+    "title": "Empanaditas de jaiba y maíz",
+    "kind": "generated-3d",
+    "revision": "dd756099adb2"
+  },
+  "r845": {
+    "src": "assets/recipes/r845-3d.webp",
+    "title": "Empanaditas de plátano y frijoles negros",
+    "kind": "generated-3d",
+    "revision": "09524a9d1c10"
+  },
+  "r846": {
+    "src": "assets/recipes/r846-3d.webp",
+    "title": "Mini quiches de espinaca y ají",
+    "kind": "generated-3d",
+    "revision": "6e587f93a286"
+  },
+  "r847": {
+    "src": "assets/recipes/r847-3d.webp",
+    "title": "Mini quiches de boniato y queso",
+    "kind": "generated-3d",
+    "revision": "531c2d8d2854"
+  },
+  "r848": {
+    "src": "assets/recipes/r848-3d.webp",
+    "title": "Mini quiches de camarones y puerro",
+    "kind": "generated-3d",
+    "revision": "a2dca2f4c16d"
+  },
+  "r849": {
+    "src": "assets/recipes/r849-3d.webp",
+    "title": "Mini quiches de maíz y cebollino",
+    "kind": "generated-3d",
+    "revision": "ea4f64da2988"
+  },
+  "r850": {
+    "src": "assets/recipes/r850-3d.webp",
+    "title": "Mini quiches de jamón y calabaza",
+    "kind": "generated-3d",
+    "revision": "9857a5a247b9"
+  },
+  "r851": {
+    "src": "assets/recipes/r851-3d.webp",
+    "title": "Rollitos de berenjena rellenos de picadillo",
+    "kind": "generated-3d",
+    "revision": "347ce4edec02"
+  },
+  "r852": {
+    "src": "assets/recipes/r852-3d.webp",
+    "title": "Pimientos pequeños rellenos de atún y papa",
+    "kind": "generated-3d",
+    "revision": "01b09e207ff5"
+  },
+  "r853": {
+    "src": "assets/recipes/r853-3d.webp",
+    "title": "Tomates rellenos de garbanzos y huevo duro",
+    "kind": "generated-3d",
+    "revision": "06bd6e92bdb7"
+  },
+  "r854": {
+    "src": "assets/recipes/r854-3d.webp",
+    "title": "Barquitas de calabacín con pollo al sofrito",
+    "kind": "generated-3d",
+    "revision": "36742ed83a50"
+  },
+  "r855": {
+    "src": "assets/recipes/r855-3d.webp",
+    "title": "Champiñones rellenos de frijoles negros y maíz",
+    "kind": "generated-3d",
+    "revision": "92df60718867"
+  },
+  "r856": {
+    "src": "assets/recipes/r856-3d.webp",
+    "title": "Cazuelitas de plátano con ropa vieja",
+    "kind": "generated-3d",
+    "revision": "dfa0fe894e89"
+  },
+  "r857": {
+    "src": "assets/recipes/r857-3d.webp",
+    "title": "Buñuelos de maíz y queso al horno",
+    "kind": "generated-3d",
+    "revision": "d7fc1c8e4905"
+  },
+  "r858": {
+    "src": "assets/recipes/r858-3d.webp",
+    "title": "Bolitas de arroz con atún y perejil",
+    "kind": "generated-3d",
+    "revision": "8176f891168f"
+  },
+  "r859": {
+    "src": "assets/recipes/r859-3d.webp",
+    "title": "Tiras de pescado con costra de casabe",
+    "kind": "generated-3d",
+    "revision": "1cac16307fcc"
+  },
+  "r860": {
+    "src": "assets/recipes/r860-3d.webp",
+    "title": "Pinchos de pollo al mojo con piña",
+    "kind": "generated-3d",
+    "revision": "7f03b1bb7ae3"
+  },
+  "r861": {
+    "src": "assets/recipes/r861-3d.webp",
+    "title": "Panetela de naranja agria y sémola",
+    "kind": "generated-3d",
+    "revision": "bcde10928c46"
+  },
+  "r862": {
+    "src": "assets/recipes/r862-3d.webp",
+    "title": "Cake de guanábana y coco",
+    "kind": "generated-3d",
+    "revision": "f7729e366cc2"
+  },
+  "r863": {
+    "src": "assets/recipes/r863-3d.webp",
+    "title": "Cake de plátano y cacao",
+    "kind": "generated-3d",
+    "revision": "85b393ad62e8"
+  },
+  "r864": {
+    "src": "assets/recipes/r864-3d.webp",
+    "title": "Cake de calabaza y pepitas",
+    "kind": "generated-3d",
+    "revision": "2936a0a831b3"
+  },
+  "r865": {
+    "src": "assets/recipes/r865-3d.webp",
+    "title": "Panetela de maracuyá y aceite",
+    "kind": "generated-3d",
+    "revision": "73f84f2d6512"
+  },
+  "r866": {
+    "src": "assets/recipes/r866-3d.webp",
+    "title": "Cake de papaya y jengibre",
+    "kind": "generated-3d",
+    "revision": "4270220d0481"
+  },
+  "r867": {
+    "src": "assets/recipes/r867-3d.webp",
+    "title": "Cake integral de miel y nueces",
+    "kind": "generated-3d",
+    "revision": "2479101d8e50"
+  },
+  "r868": {
+    "src": "assets/recipes/r868-3d.webp",
+    "title": "Cake de tamarindo y melado",
+    "kind": "generated-3d",
+    "revision": "b9e7e521b748"
+  },
+  "r869": {
+    "src": "assets/recipes/r869-3d.webp",
+    "title": "Cake de manzana y avena",
+    "kind": "generated-3d",
+    "revision": "ec0414438722"
+  },
+  "r870": {
+    "src": "assets/recipes/r870-3d.webp",
+    "title": "Panetela de anís y limón",
+    "kind": "generated-3d",
+    "revision": "ade2ffbc2c3a"
+  },
+  "r871": {
+    "src": "assets/recipes/r871-3d.webp",
+    "title": "Galletas de yuca cocida y limón",
+    "kind": "generated-3d",
+    "revision": "cbf5d59c2765"
+  },
+  "r872": {
+    "src": "assets/recipes/r872-3d.webp",
+    "title": "Galletas de coco y chocolate blanco",
+    "kind": "generated-3d",
+    "revision": "e1e2ffce8bd8"
+  },
+  "r873": {
+    "src": "assets/recipes/r873-3d.webp",
+    "title": "Galletas integrales de plátano y nueces",
+    "kind": "generated-3d",
+    "revision": "0cfc068afca1"
+  },
+  "r874": {
+    "src": "assets/recipes/r874-3d.webp",
+    "title": "Galletas de maní con centro de guayaba",
+    "kind": "generated-3d",
+    "revision": "58c02a5eea1c"
+  },
+  "r875": {
+    "src": "assets/recipes/r875-3d.webp",
+    "title": "Galletas de queso crema y naranja",
+    "kind": "generated-3d",
+    "revision": "01b1ede34f87"
+  },
+  "r876": {
+    "src": "assets/recipes/r876-3d.webp",
+    "title": "Galletas de maíz y anís",
+    "kind": "generated-3d",
+    "revision": "305325418c42"
+  },
+  "r877": {
+    "src": "assets/recipes/r877-3d.webp",
+    "title": "Galletas de avena y papaya seca",
+    "kind": "generated-3d",
+    "revision": "d84f687a75c8"
+  },
+  "r878": {
+    "src": "assets/recipes/r878-3d.webp",
+    "title": "Galletas de canela rellenas de ciruela",
+    "kind": "generated-3d",
+    "revision": "342cc932ffe7"
+  },
+  "r879": {
+    "src": "assets/recipes/r879-3d.webp",
+    "title": "Galletas de ajonjolí y melado",
+    "kind": "generated-3d",
+    "revision": "dd53204b6c32"
+  },
+  "r880": {
+    "src": "assets/recipes/r880-3d.webp",
+    "title": "Galletas de cacao con centro de coco",
+    "kind": "generated-3d",
+    "revision": "6c06df854fc3"
+  },
+  "r881": {
+    "src": "assets/recipes/r881-3d.webp",
+    "title": "Galletas saladas de queso y comino",
+    "kind": "generated-3d",
+    "revision": "b402ed2b7eb0"
+  },
+  "r882": {
+    "src": "assets/recipes/r882-3d.webp",
+    "title": "Galletas de almendra y guayaba",
+    "kind": "generated-3d",
+    "revision": "01785f418652"
+  },
+  "r883": {
+    "src": "assets/recipes/r883-3d.webp",
+    "title": "Cuadrados de piña y coco tostado",
+    "kind": "generated-3d",
+    "revision": "e11b7d1466e3"
+  },
+  "r884": {
+    "src": "assets/recipes/r884-3d.webp",
+    "title": "Barritas de maní y chocolate",
+    "kind": "generated-3d",
+    "revision": "1aa0bb7020c5"
+  },
+  "r885": {
+    "src": "assets/recipes/r885-3d.webp",
+    "title": "Cuadrados de mamey y vainilla",
+    "kind": "generated-3d",
+    "revision": "260a9600ead3"
+  },
+  "r886": {
+    "src": "assets/recipes/r886-3d.webp",
+    "title": "Barritas de plátano y avena",
+    "kind": "generated-3d",
+    "revision": "21994f21ca4c"
+  },
+  "r887": {
+    "src": "assets/recipes/r887-3d.webp",
+    "title": "Cuadrados de limón con base de maíz",
+    "kind": "generated-3d",
+    "revision": "c842a84a66ec"
+  },
+  "r888": {
+    "src": "assets/recipes/r888-3d.webp",
+    "title": "Barritas de coco y dulce de leche",
+    "kind": "generated-3d",
+    "revision": "9d9b51ade03a"
+  },
+  "r889": {
+    "src": "assets/recipes/r889-3d.webp",
+    "title": "Cuadrados de café y nueces",
+    "kind": "generated-3d",
+    "revision": "4e8d752c0680"
+  },
+  "r890": {
+    "src": "assets/recipes/r890-3d.webp",
+    "title": "Barritas de calabaza y queso crema",
+    "kind": "generated-3d",
+    "revision": "68cf021d4368"
+  },
+  "r891": {
+    "src": "assets/recipes/r891-3d.webp",
+    "title": "Cuadrados de guayaba y cacao",
+    "kind": "generated-3d",
+    "revision": "4c5f974eec67"
+  },
+  "r892": {
+    "src": "assets/recipes/r892-3d.webp",
+    "title": "Barritas crujientes de ajonjolí y miel",
+    "kind": "generated-3d",
+    "revision": "2e0599d21480"
+  },
+  "r893": {
+    "src": "assets/recipes/r893-3d.webp",
+    "title": "Magdalenas de boniato y naranja",
+    "kind": "generated-3d",
+    "revision": "172324e37f0d"
+  },
+  "r894": {
+    "src": "assets/recipes/r894-3d.webp",
+    "title": "Magdalenas de mamey y coco",
+    "kind": "generated-3d",
+    "revision": "54001619cbca"
+  },
+  "r895": {
+    "src": "assets/recipes/r895-3d.webp",
+    "title": "Magdalenas de plátano y maní",
+    "kind": "generated-3d",
+    "revision": "953ff57851f9"
+  },
+  "r896": {
+    "src": "assets/recipes/r896-3d.webp",
+    "title": "Magdalenas de cacao y remolacha",
+    "kind": "generated-3d",
+    "revision": "a8701dbfba52"
+  },
+  "r897": {
+    "src": "assets/recipes/r897-3d.webp",
+    "title": "Magdalenas de piña y yogur",
+    "kind": "generated-3d",
+    "revision": "cd5c86f3b579"
+  },
+  "r898": {
+    "src": "assets/recipes/r898-3d.webp",
+    "title": "Magdalenas de mango y maíz",
+    "kind": "generated-3d",
+    "revision": "eba393a7f219"
+  },
+  "r899": {
+    "src": "assets/recipes/r899-3d.webp",
+    "title": "Magdalenas de café y canela",
+    "kind": "generated-3d",
+    "revision": "33d39c1efa24"
+  },
+  "r900": {
+    "src": "assets/recipes/r900-3d.webp",
+    "title": "Magdalenas de zanahoria y pasas",
+    "kind": "generated-3d",
+    "revision": "fc4b1887f8f8"
+  },
+  "r901": {
+    "src": "assets/recipes/r901-3d.webp",
+    "title": "Magdalenas de guayaba y queso blanco",
+    "kind": "generated-3d",
+    "revision": "9b95fff4db52"
+  },
+  "r902": {
+    "src": "assets/recipes/r902-3d.webp",
+    "title": "Magdalenas saladas de maíz y ají dulce",
+    "kind": "generated-3d",
+    "revision": "24a03027a29f"
+  },
+  "r903": {
+    "src": "assets/recipes/r903-3d.webp",
+    "title": "Pan rápido de boniato y nueces",
+    "kind": "generated-3d",
+    "revision": "8dcc9cb8e3c1"
+  },
+  "r904": {
+    "src": "assets/recipes/r904-3d.webp",
+    "title": "Pan rápido de plátano y ajonjolí",
+    "kind": "generated-3d",
+    "revision": "9f81a4c80f0b"
+  },
+  "r905": {
+    "src": "assets/recipes/r905-3d.webp",
+    "title": "Pan rápido de calabaza y naranja",
+    "kind": "generated-3d",
+    "revision": "499571e7f0d8"
+  },
+  "r906": {
+    "src": "assets/recipes/r906-3d.webp",
+    "title": "Pan rápido de mamey y cacao",
+    "kind": "generated-3d",
+    "revision": "0677157fb33a"
+  },
+  "r907": {
+    "src": "assets/recipes/r907-3d.webp",
+    "title": "Pan rápido de coco y piña",
+    "kind": "generated-3d",
+    "revision": "1763ca33278c"
+  },
+  "r908": {
+    "src": "assets/recipes/r908-3d.webp",
+    "title": "Pan rápido de maíz y queso blanco",
+    "kind": "generated-3d",
+    "revision": "4e7d74a2ef2b"
+  },
+  "r909": {
+    "src": "assets/recipes/r909-3d.webp",
+    "title": "Pan rápido integral de papaya y pasas",
+    "kind": "generated-3d",
+    "revision": "fd2d41fb3419"
+  },
+  "r910": {
+    "src": "assets/recipes/r910-3d.webp",
+    "title": "Pan rápido de malanga y cebollino",
+    "kind": "generated-3d",
+    "revision": "7b117c2f2f94"
+  },
+  "r911": {
+    "src": "assets/recipes/r911-3d.webp",
+    "title": "Trenza de naranja y miel",
+    "kind": "generated-3d",
+    "revision": "2228d86ef3b3"
+  },
+  "r912": {
+    "src": "assets/recipes/r912-3d.webp",
+    "title": "Rollos de guayaba y maní",
+    "kind": "generated-3d",
+    "revision": "02dd6b23e6b0"
+  },
+  "r913": {
+    "src": "assets/recipes/r913-3d.webp",
+    "title": "Pan de coco y leche condensada",
+    "kind": "generated-3d",
+    "revision": "6d0ef6475acb"
+  },
+  "r914": {
+    "src": "assets/recipes/r914-3d.webp",
+    "title": "Bollos de piña caramelizada",
+    "kind": "generated-3d",
+    "revision": "d860d1f9b44d"
+  },
+  "r915": {
+    "src": "assets/recipes/r915-3d.webp",
+    "title": "Espirales de café y dulce de leche",
+    "kind": "generated-3d",
+    "revision": "24e4a07a261f"
+  },
+  "r916": {
+    "src": "assets/recipes/r916-3d.webp",
+    "title": "Pan de mamey y vainilla",
+    "kind": "generated-3d",
+    "revision": "92be0a19ab57"
+  },
+  "r917": {
+    "src": "assets/recipes/r917-3d.webp",
+    "title": "Pan de maíz tierno con levadura",
+    "kind": "generated-3d",
+    "revision": "43c5cdd7b8ad"
+  },
+  "r918": {
+    "src": "assets/recipes/r918-3d.webp",
+    "title": "Nudos de ajo y perejil",
+    "kind": "generated-3d",
+    "revision": "90401bde316f"
+  },
+  "r919": {
+    "src": "assets/recipes/r919-3d.webp",
+    "title": "Pan de aceitunas y orégano",
+    "kind": "generated-3d",
+    "revision": "c23c2dab5067"
+  },
+  "r920": {
+    "src": "assets/recipes/r920-3d.webp",
+    "title": "Focaccia de tomate y cebolla",
+    "kind": "generated-3d",
+    "revision": "6c34f04d57d4"
+  },
+  "r921": {
+    "src": "assets/recipes/r921-3d.webp",
+    "title": "Rosca fermentada de plátano y cacao",
+    "kind": "generated-3d",
+    "revision": "f9ad488fd15c"
+  },
+  "r922": {
+    "src": "assets/recipes/r922-3d.webp",
+    "title": "Pan de avena y melado",
+    "kind": "generated-3d",
+    "revision": "1b8822c27f5f"
+  },
+  "r923": {
+    "src": "assets/recipes/r923-3d.webp",
+    "title": "Panecillos de queso blanco y ajonjolí",
+    "kind": "generated-3d",
+    "revision": "d817a644ac9b"
+  },
+  "r924": {
+    "src": "assets/recipes/r924-3d.webp",
+    "title": "Pan de calabaza y guayaba en espiral",
+    "kind": "generated-3d",
+    "revision": "ca503a0e3b12"
+  },
+  "r925": {
+    "src": "assets/recipes/r925-3d.webp",
+    "title": "Bollos de yogur y pasas con costra de azúcar",
+    "kind": "generated-3d",
+    "revision": "1815e730ef64"
+  },
+  "r926": {
+    "src": "assets/recipes/r926-3d.webp",
+    "title": "Hojaldres de piña y jengibre",
+    "kind": "generated-3d",
+    "revision": "d0a63d86a014"
+  },
+  "r927": {
+    "src": "assets/recipes/r927-3d.webp",
+    "title": "Trenza de hojaldre de mamey y queso",
+    "kind": "generated-3d",
+    "revision": "878142a358ba"
+  },
+  "r928": {
+    "src": "assets/recipes/r928-3d.webp",
+    "title": "Molinetes de guayaba y coco",
+    "kind": "generated-3d",
+    "revision": "8a86be2e3175"
+  },
+  "r929": {
+    "src": "assets/recipes/r929-3d.webp",
+    "title": "Hojaldres de manzana y melado",
+    "kind": "generated-3d",
+    "revision": "45f2e8103b1e"
+  },
+  "r930": {
+    "src": "assets/recipes/r930-3d.webp",
+    "title": "Tartas finas de mango y almendra",
+    "kind": "generated-3d",
+    "revision": "b9042a84330d"
+  },
+  "r932": {
+    "src": "assets/recipes/r932-3d.webp",
+    "title": "Espirales de hojaldre con boniato y naranja",
+    "kind": "generated-3d",
+    "revision": "da18e5eaf03a"
+  },
+  "r933": {
+    "src": "assets/recipes/r933-3d.webp",
+    "title": "Pañuelos de hojaldre con ricota y pasas",
+    "kind": "generated-3d",
+    "revision": "4b359bc1a434"
+  },
+  "r934": {
+    "src": "assets/recipes/r934-3d.webp",
+    "title": "Palitos de hojaldre con queso y ajonjolí",
+    "kind": "generated-3d",
+    "revision": "a336898471c1"
+  },
+  "r935": {
+    "src": "assets/recipes/r935-3d.webp",
+    "title": "Hojaldres de calabaza y queso blanco",
+    "kind": "generated-3d",
+    "revision": "9550c53b9585"
+  },
+  "r936": {
+    "src": "assets/recipes/r936-3d.webp",
+    "title": "Tarta de mamey y almendra",
+    "kind": "generated-3d",
+    "revision": "864f70369824"
+  },
+  "r937": {
+    "src": "assets/recipes/r937-3d.webp",
+    "title": "Tartaletas de plátano y cacao",
+    "kind": "generated-3d",
+    "revision": "7421b38ddbc1"
+  },
+  "r938": {
+    "src": "assets/recipes/r938-3d.webp",
+    "title": "Tarta de naranja y almendra",
+    "kind": "generated-3d",
+    "revision": "4d0641923567"
+  },
+  "r939": {
+    "src": "assets/recipes/r939-3d.webp",
+    "title": "Tarta de café y nueces",
+    "kind": "generated-3d",
+    "revision": "f0ad8e9378e7"
+  },
+  "r940": {
+    "src": "assets/recipes/r940-3d.webp",
+    "title": "Tartaletas de mango y crema de vainilla",
+    "kind": "generated-3d",
+    "revision": "2068d2f50531"
+  },
+  "r942": {
+    "src": "assets/recipes/r942-3d.webp",
+    "title": "Tarta de guanábana y queso crema",
+    "kind": "generated-3d",
+    "revision": "4dc46084c00b"
+  },
+  "r943": {
+    "src": "assets/recipes/r943-3d.webp",
+    "title": "Tartaletas de chocolate y ajonjolí",
+    "kind": "generated-3d",
+    "revision": "8438cbdd311b"
+  },
+  "r944": {
+    "src": "assets/recipes/r944-3d.webp",
+    "title": "Tarta de calabaza y coco",
+    "kind": "generated-3d",
+    "revision": "22bd76593815"
+  },
+  "r945": {
+    "src": "assets/recipes/r945-3d.webp",
+    "title": "Galette de manzana y maní",
+    "kind": "generated-3d",
+    "revision": "d2374c113eae"
+  },
+  "r946": {
+    "src": "assets/recipes/r946-3d.webp",
+    "title": "Choux de crema de guayaba",
+    "kind": "generated-3d",
+    "revision": "95cd6baa93b3"
+  },
+  "r947": {
+    "src": "assets/recipes/r947-3d.webp",
+    "title": "Éclairs de crema de limón",
+    "kind": "generated-3d",
+    "revision": "2878101e24a2"
+  },
+  "r948": {
+    "src": "assets/recipes/r948-3d.webp",
+    "title": "Corona choux de chocolate y maní",
+    "kind": "generated-3d",
+    "revision": "6db1ee817110"
+  },
+  "r949": {
+    "src": "assets/recipes/r949-3d.webp",
+    "title": "Choux de crema de plátano",
+    "kind": "generated-3d",
+    "revision": "5de44cb54c35"
+  },
+  "r950": {
+    "src": "assets/recipes/r950-3d.webp",
+    "title": "Choux salados de queso y cebollino",
+    "kind": "generated-3d",
+    "revision": "b1b49cebf5dc"
+  },
+  "r951": {
+    "src": "assets/recipes/r951-3d.webp",
+    "title": "Choux craquelin de café",
+    "kind": "generated-3d",
+    "revision": "e0633a63802d"
+  },
+  "r952": {
+    "src": "assets/recipes/r952-3d.webp",
+    "title": "Éclairs de naranja y chocolate",
+    "kind": "generated-3d",
+    "revision": "fe93b1f73ea9"
+  },
+  "r953": {
+    "src": "assets/recipes/r953-3d.webp",
+    "title": "Choux de crema de boniato y canela",
+    "kind": "generated-3d",
+    "revision": "967f6ce9c75d"
+  },
+  "r954": {
+    "src": "assets/recipes/r954-3d.webp",
+    "title": "Triángulos de filo con guayaba y queso",
+    "kind": "generated-3d",
+    "revision": "f079e498f2d9"
+  },
+  "r955": {
+    "src": "assets/recipes/r955-3d.webp",
+    "title": "Cestitas de filo con mango y crema de coco",
+    "kind": "generated-3d",
+    "revision": "d2d70b65933c"
+  },
+  "r956": {
+    "src": "assets/recipes/r956-3d.webp",
+    "title": "Espiral de filo de calabaza y nueces",
+    "kind": "generated-3d",
+    "revision": "4c92e35dd54c"
+  },
+  "r957": {
+    "src": "assets/recipes/r957-3d.webp",
+    "title": "Paquetes de filo con plátano y maní",
+    "kind": "generated-3d",
+    "revision": "5e08fdabe209"
+  },
+  "r958": {
+    "src": "assets/recipes/r958-3d.webp",
+    "title": "Baklava de coco y almendras al limón",
+    "kind": "generated-3d",
+    "revision": "5667dc39efb8"
+  },
+  "r959": {
+    "src": "assets/recipes/r959-3d.webp",
+    "title": "Strudel de mango y pasas con filo",
+    "kind": "generated-3d",
+    "revision": "ba755fe61d8c"
+  },
+  "r960": {
+    "src": "assets/recipes/r960-3d.webp",
+    "title": "Tartaletas de filo de queso y membrillo",
+    "kind": "generated-3d",
+    "revision": "454002b60af1"
+  },
+  "r961": {
+    "src": "assets/recipes/r961-3d.webp",
+    "title": "Flan de guayaba",
+    "kind": "generated-3d",
+    "revision": "f6a193a4917a"
+  },
+  "r962": {
+    "src": "assets/recipes/r962-3d.webp",
+    "title": "Flan de cacao",
+    "kind": "generated-3d",
+    "revision": "a802c248fa0f"
+  },
+  "r963": {
+    "src": "assets/recipes/r963-3d.webp",
+    "title": "Flan de boniato",
+    "kind": "generated-3d",
+    "revision": "2fc746d0769f"
+  },
+  "r964": {
+    "src": "assets/recipes/r964-3d.webp",
+    "title": "Flan de plátano maduro asado",
+    "kind": "generated-3d",
+    "revision": "c311e8938cf4"
+  },
+  "r965": {
+    "src": "assets/recipes/r965-3d.webp",
+    "title": "Flan de maní tostado",
+    "kind": "generated-3d",
+    "revision": "419c81ad5a3d"
+  },
+  "r966": {
+    "src": "assets/recipes/r966-3d.webp",
+    "title": "Flan de dulce de leche",
+    "kind": "generated-3d",
+    "revision": "ed198137761e"
+  },
+  "r967": {
+    "src": "assets/recipes/r967-3d.webp",
+    "title": "Flan de naranja y vainilla",
+    "kind": "generated-3d",
+    "revision": "2d8061d31241"
+  },
+  "r968": {
+    "src": "assets/recipes/r968-3d.webp",
+    "title": "Flan de mango y leche de coco",
+    "kind": "generated-3d",
+    "revision": "cd0627bb5596"
+  },
+  "r969": {
+    "src": "assets/recipes/r969-3d.webp",
+    "title": "Natilla de guayaba sin huevo",
+    "kind": "generated-3d",
+    "revision": "f127ceb33873"
+  },
+  "r970": {
+    "src": "assets/recipes/r970-3d.webp",
+    "title": "Natilla de coco y ralladura de limón",
+    "kind": "generated-3d",
+    "revision": "8a7c3da6b313"
+  },
+  "r971": {
+    "src": "assets/recipes/r971-3d.webp",
+    "title": "Natilla de mamey",
+    "kind": "generated-3d",
+    "revision": "b0ea644e1d45"
+  },
+  "r972": {
+    "src": "assets/recipes/r972-3d.webp",
+    "title": "Natilla de maní y miel",
+    "kind": "generated-3d",
+    "revision": "fcc7f35f42db"
+  },
+  "r973": {
+    "src": "assets/recipes/r973-3d.webp",
+    "title": "Crema de sémola con pasas",
+    "kind": "generated-3d",
+    "revision": "9c131d63f49e"
+  },
+  "r974": {
+    "src": "assets/recipes/r974-3d.webp",
+    "title": "Arroz dulce con piña cocida",
+    "kind": "generated-3d",
+    "revision": "5c2adb669ad6"
+  },
+  "r975": {
+    "src": "assets/recipes/r975-3d.webp",
+    "title": "Arroz dulce de café y cacao",
+    "kind": "generated-3d",
+    "revision": "ae401f8b6466"
+  },
+  "r976": {
+    "src": "assets/recipes/r976-3d.webp",
+    "title": "Pudín de calabaza y queso blanco",
+    "kind": "generated-3d",
+    "revision": "533384ee40a9"
+  },
+  "r977": {
+    "src": "assets/recipes/r977-3d.webp",
+    "title": "Pudín de yuca cocida y leche de coco",
+    "kind": "generated-3d",
+    "revision": "12b637d7a7d7"
+  },
+  "r978": {
+    "src": "assets/recipes/r978-3d.webp",
+    "title": "Pudín de avena y plátano fruta",
+    "kind": "generated-3d",
+    "revision": "de4de76b1808"
+  },
+  "r979": {
+    "src": "assets/recipes/r979-3d.webp",
+    "title": "Dulce de calabaza con melado de caña",
+    "kind": "generated-3d",
+    "revision": "7be590fffb71"
+  },
+  "r980": {
+    "src": "assets/recipes/r980-3d.webp",
+    "title": "Cocada cremosa de piña",
+    "kind": "generated-3d",
+    "revision": "85c62b86c0d8"
+  },
+  "r981": {
+    "src": "assets/recipes/r981-3d.webp",
+    "title": "Compota de mango y maracuyá",
+    "kind": "generated-3d",
+    "revision": "c9c0570ce0e5"
+  },
+  "r982": {
+    "src": "assets/recipes/r982-3d.webp",
+    "title": "Compota de fruta bomba y naranja",
+    "kind": "generated-3d",
+    "revision": "24c41b5a3505"
+  },
+  "r983": {
+    "src": "assets/recipes/r983-3d.webp",
+    "title": "Compota de plátano fruta y cacao",
+    "kind": "generated-3d",
+    "revision": "24244481b3e0"
+  },
+  "r984": {
+    "src": "assets/recipes/r984-3d.webp",
+    "title": "Compota de manzana con guayaba",
+    "kind": "generated-3d",
+    "revision": "b91d5da567e0"
+  },
+  "r985": {
+    "src": "assets/recipes/r985-3d.webp",
+    "title": "Guayabas rellenas de queso con almíbar de naranja",
+    "kind": "generated-3d",
+    "revision": "9143c8501dc9"
+  },
+  "r986": {
+    "src": "assets/recipes/r986-3d.webp",
+    "title": "Naranjas en almíbar de canela",
+    "kind": "generated-3d",
+    "revision": "a6bd4d82c072"
+  },
+  "r987": {
+    "src": "assets/recipes/r987-3d.webp",
+    "title": "Dulce de piña rallada",
+    "kind": "generated-3d",
+    "revision": "1ecedd0c8139"
+  },
+  "r988": {
+    "src": "assets/recipes/r988-3d.webp",
+    "title": "Dulce de mango verde en almíbar",
+    "kind": "generated-3d",
+    "revision": "999cd1808705"
+  },
+  "r989": {
+    "src": "assets/recipes/r989-3d.webp",
+    "title": "Boniato asado con crema de coco",
+    "kind": "generated-3d",
+    "revision": "bf43c900afeb"
+  },
+  "r990": {
+    "src": "assets/recipes/r990-3d.webp",
+    "title": "Plátanos maduros en naranja con pasas",
+    "kind": "generated-3d",
+    "revision": "5a6fe7aa3bad"
+  },
+  "r991": {
+    "src": "assets/recipes/r991-3d.webp",
+    "title": "Helado de café con leche sin máquina",
+    "kind": "generated-3d",
+    "revision": "9a449b1eb721"
+  },
+  "r992": {
+    "src": "assets/recipes/r992-3d.webp",
+    "title": "Helado de chocolate y maní sin máquina",
+    "kind": "generated-3d",
+    "revision": "813eb35b891a"
+  },
+  "r993": {
+    "src": "assets/recipes/r993-3d.webp",
+    "title": "Helado de mango y yogur sin máquina",
+    "kind": "generated-3d",
+    "revision": "1401227630cf"
+  },
+  "r994": {
+    "src": "assets/recipes/r994-3d.webp",
+    "title": "Helado de mamey y vainilla sin máquina",
+    "kind": "generated-3d",
+    "revision": "97d6f8f65532"
+  },
+  "r995": {
+    "src": "assets/recipes/r995-3d.webp",
+    "title": "Helado de piña cocida y coco sin máquina",
+    "kind": "generated-3d",
+    "revision": "2a8f43642bc5"
+  },
+  "r996": {
+    "src": "assets/recipes/r996-3d.webp",
+    "title": "Sorbete de guayaba sin máquina",
+    "kind": "generated-3d",
+    "revision": "2ceca434c978"
+  },
+  "r997": {
+    "src": "assets/recipes/r997-3d.webp",
+    "title": "Sorbete de maracuyá sin máquina",
+    "kind": "generated-3d",
+    "revision": "e630d440957e"
+  },
+  "r998": {
+    "src": "assets/recipes/r998-3d.webp",
+    "title": "Sorbete de toronja rosada sin máquina",
+    "kind": "generated-3d",
+    "revision": "74c3d5fa2937"
+  },
+  "r999": {
+    "src": "assets/recipes/r999-3d.webp",
+    "title": "Paletas de plátano fruta y maní",
+    "kind": "generated-3d",
+    "revision": "56483be4ebd7"
+  },
+  "r1000": {
+    "src": "assets/recipes/r1000-3d.webp",
+    "title": "Paletas de yogur y guayaba",
+    "kind": "generated-3d",
+    "revision": "7df67e32e494"
+  },
+  "r1001": {
+    "src": "assets/recipes/r1001-3d.webp",
+    "title": "Paletas de café con leche",
+    "kind": "generated-3d",
+    "revision": "202fcd20fc08"
+  },
+  "r1002": {
+    "src": "assets/recipes/r1002-3d.webp",
+    "title": "Paletas de sandía y hierbabuena",
+    "kind": "generated-3d",
+    "revision": "8639582a08d4"
+  },
+  "r1003": {
+    "src": "assets/recipes/r1003-3d.webp",
+    "title": "Gelatina de mango y yogur",
+    "kind": "generated-3d",
+    "revision": "7d4972d39d19"
+  },
+  "r1004": {
+    "src": "assets/recipes/r1004-3d.webp",
+    "title": "Gelatina de guayaba con leche",
+    "kind": "generated-3d",
+    "revision": "e484ef1ea4bd"
+  },
+  "r1005": {
+    "src": "assets/recipes/r1005-3d.webp",
+    "title": "Gelatina de naranja y zanahoria",
+    "kind": "generated-3d",
+    "revision": "ad55456fd8db"
+  },
+  "r1006": {
+    "src": "assets/recipes/r1006-3d.webp",
+    "title": "Gelatina de fruta bomba cocida",
+    "kind": "generated-3d",
+    "revision": "1bcba4ae9ac5"
+  },
+  "r1007": {
+    "src": "assets/recipes/r1007-3d.webp",
+    "title": "Bolitas de coco y guayaba sin horno",
+    "kind": "generated-3d",
+    "revision": "19df8f55b411"
+  },
+  "r1008": {
+    "src": "assets/recipes/r1008-3d.webp",
+    "title": "Trufas de cacao, maní y dátiles",
+    "kind": "generated-3d",
+    "revision": "ff8d45264872"
+  },
+  "r1009": {
+    "src": "assets/recipes/r1009-3d.webp",
+    "title": "Vasitos de queso con mango y miel",
+    "kind": "generated-3d",
+    "revision": "162fa69ebf4e"
+  },
+  "r1010": {
+    "src": "assets/recipes/r1010-3d.webp",
+    "title": "Copa de frutas con natilla de vainilla",
+    "kind": "generated-3d",
+    "revision": "2ee8308b5906"
+  },
+  "r1011": {
+    "src": "assets/recipes/r1011-3d.webp",
+    "title": "Mango con crema de batir",
+    "kind": "generated-3d",
+    "revision": "ed2aec21f5d8"
+  },
+  "r1012": {
+    "src": "assets/recipes/r1012-3d.webp",
+    "title": "Hallacas cubanas (hayacas) en hojas de plátano",
+    "kind": "generated-3d",
+    "revision": "9f320d255b95"
+  },
+  "r1013": {
+    "src": "assets/recipes/r1013-3d.webp",
+    "title": "Croquetas de yuca",
+    "kind": "generated-3d",
+    "revision": "dc9f86702fd6"
+  },
+  "r1014": {
+    "src": "assets/recipes/r1014-3d.webp",
+    "title": "Sopa de pescado pargo",
+    "kind": "generated-3d",
+    "revision": "17abd46fae73"
+  },
+  "r1015": {
+    "src": "assets/recipes/r1015-3d.webp",
+    "title": "Sopa de pescado lisa",
+    "kind": "generated-3d",
+    "revision": "497cf86fde7d"
+  },
+  "r1016": {
+    "src": "assets/recipes/r1016-3d.webp",
+    "title": "Camarones empanizados con ajo, cebolla y limón",
+    "kind": "generated-3d",
+    "revision": "9ffb2cc4ead6"
+  },
+  "r1017": {
+    "src": "assets/recipes/r1017-3d.webp",
+    "title": "Caldosa cubana con maíz",
+    "kind": "generated-3d",
+    "revision": "5ff7154fac72"
+  },
+  "r1018": {
+    "src": "assets/recipes/r1018-3d.webp",
+    "title": "Harina de maíz caldosa con cerdo",
+    "kind": "generated-3d",
+    "revision": "dc90b4b54b68"
+  },
+  "r1019": {
+    "src": "assets/recipes/r1019-3d.webp",
+    "title": "Ensalada mixta de lechuga, rábano y huevo",
+    "kind": "generated-3d",
+    "revision": "20915625b78c"
+  },
+  "r1020": {
+    "src": "assets/recipes/r1020-3d.webp",
+    "title": "Ensalada de repollo, manzana y apio",
+    "kind": "generated-3d",
+    "revision": "a5ac5c5887a4"
+  },
+  "r1021": {
+    "src": "assets/recipes/r1021-3d.webp",
+    "title": "Ensalada de camarones, aguacate y toronja",
+    "kind": "generated-3d",
+    "revision": "9973a78ff0bb"
+  },
+  "r1022": {
+    "src": "assets/recipes/r1022-3d.webp",
+    "title": "Ensalada de pollo, piña y pimientos",
+    "kind": "generated-3d",
+    "revision": "e98c3b5ff3dc"
+  },
+  "r1023": {
+    "src": "assets/recipes/r1023-3d.webp",
+    "title": "Ensalada de berenjena asada, tomate y garbanzos",
+    "kind": "generated-3d",
+    "revision": "68b99f9dd9c7"
+  },
+  "r1024": {
+    "src": "assets/recipes/r1024-3d.webp",
+    "title": "Ensalada de quinoa, pepino y naranja",
+    "kind": "generated-3d",
+    "revision": "2915f8cb023d"
+  },
+  "r1025": {
+    "src": "assets/recipes/r1025-3d.webp",
+    "title": "Ensalada de calabacín a la plancha, queso y tomate",
+    "kind": "generated-3d",
+    "revision": "4f12cc652f03"
+  },
+  "r1026": {
+    "src": "assets/recipes/r1026-3d.webp",
+    "title": "Ensalada de pasta, brócoli y jamón cocido",
+    "kind": "generated-3d",
+    "revision": "4a50d581b8e4"
+  },
+  "r1027": {
+    "src": "assets/recipes/r1027-3d.webp",
+    "title": "Ensalada de sandía, pepino y queso blanco",
+    "kind": "generated-3d",
+    "revision": "eb765b530ed1"
+  },
+  "r1028": {
+    "src": "assets/recipes/r1028-3d.webp",
+    "title": "Ensalada de sardinas, papas y pimientos",
+    "kind": "generated-3d",
+    "revision": "9b07cbae1a60"
+  },
+  "r1029": {
+    "src": "assets/recipes/r1029-3d.webp",
+    "title": "Batido de coco",
+    "kind": "generated-3d",
+    "revision": "d95af656c55c"
+  },
+  "r1030": {
+    "src": "assets/recipes/r1030-3d.webp",
+    "title": "Guarapo frío",
+    "kind": "generated-3d",
+    "revision": "31c71f8b8893"
+  },
+  "r1031": {
+    "src": "assets/recipes/r1031-3d.webp",
+    "title": "Jugo de mango",
+    "kind": "generated-3d",
+    "revision": "fa9fc35c8a40"
+  },
+  "r1033": {
+    "src": "assets/recipes/r1033-3d.webp",
+    "title": "Jugo de naranja",
+    "kind": "generated-3d",
+    "revision": "ceeda4dbf59f"
+  },
+  "r1034": {
+    "src": "assets/recipes/r1034-3d.webp",
+    "title": "Jugo de piña",
+    "kind": "generated-3d",
+    "revision": "9fa991d945f7"
+  },
+  "r1060": {
+    "src": "assets/recipes/r1060-3d.webp",
+    "title": "Batido de níspero",
+    "kind": "generated-3d",
+    "revision": "1f18ce7db617"
+  },
+  "r1066": {
+    "src": "assets/recipes/r1066-3d.webp",
+    "title": "Pasta clásica de jamón y queso para bocaditos",
+    "kind": "generated-3d",
+    "revision": "dd7d7f3bc464"
+  },
+  "r1067": {
+    "src": "assets/recipes/r1067-3d.webp",
+    "title": "Pasta de atún y pepinillos para bocaditos",
+    "kind": "generated-3d",
+    "revision": "21492a3c1394"
+  },
+  "r1068": {
+    "src": "assets/recipes/r1068-3d.webp",
+    "title": "Pasta de sardinas y tomate para bocaditos",
+    "kind": "generated-3d",
+    "revision": "3993975dbce9"
+  },
+  "r1069": {
+    "src": "assets/recipes/r1069-3d.webp",
+    "title": "Pasta de queso amarillo y zanahoria para bocaditos",
+    "kind": "generated-3d",
+    "revision": "77152bda45d5"
+  },
+  "r1070": {
+    "src": "assets/recipes/r1070-3d.webp",
+    "title": "Pasta de pollo y mostaza para bocaditos",
+    "kind": "generated-3d",
+    "revision": "53543716ba16"
+  },
+  "r1071": {
+    "src": "assets/recipes/r1071-3d.webp",
+    "title": "Pasta de huevo, jamón y cebollino para bocaditos",
+    "kind": "generated-3d",
+    "revision": "b05e225b0b3d"
+  },
+  "r1072": {
+    "src": "assets/recipes/r1072-3d.webp",
+    "title": "Pasta de aguacate y frijoles blancos para bocaditos",
+    "kind": "generated-3d",
+    "revision": "f78f00828f90"
+  },
+  "r1073": {
+    "src": "assets/recipes/r1073-3d.webp",
+    "title": "Pudín de pan con coco",
+    "kind": "generated-3d",
+    "revision": "5b9bc85ddc76"
+  },
+  "r1074": {
+    "src": "assets/recipes/r1074-3d.webp",
+    "title": "Pudín de pan con guayaba y queso crema",
+    "kind": "generated-3d",
+    "revision": "52cdb440f35d"
+  },
+  "r1075": {
+    "src": "assets/recipes/r1075-3d.webp",
+    "title": "Pudín de pan con chocolate",
+    "kind": "generated-3d",
+    "revision": "ca369c70d3f1"
+  },
+  "r1076": {
+    "src": "assets/recipes/r1076-3d.webp",
+    "title": "Pudín de pan con plátano maduro",
+    "kind": "generated-3d",
+    "revision": "83b2c25027d9"
+  },
+  "r1077": {
+    "src": "assets/recipes/r1077-3d.webp",
+    "title": "Pudín de pan con café",
+    "kind": "generated-3d",
+    "revision": "f026875dfaf4"
+  },
+  "r1078": {
+    "src": "assets/recipes/r1078-3d.webp",
+    "title": "Pudín de pan con naranja",
+    "kind": "generated-3d",
+    "revision": "cabb973a4cb7"
+  },
+  "r1079": {
+    "src": "assets/recipes/r1079-3d.webp",
+    "title": "Garapiña cubana de cáscara de piña",
+    "kind": "generated-3d",
+    "revision": "586051f8c78f"
+  },
+  "r1080": {
+    "src": "assets/recipes/r1080-3d.webp",
+    "title": "Batido de mamey amarillo",
+    "kind": "generated-3d",
+    "revision": "f304e47fad29"
+  },
+  "r1081": {
+    "src": "assets/recipes/r1081-3d.webp",
+    "title": "Tamal de maíz solo con sal",
+    "kind": "generated-3d",
+    "revision": "d684b23c7e70"
+  }
+}
