@@ -2,6 +2,13 @@
 
 Aplicación web en español e inglés con **1041 recetas completas entre clásicos y versiones caseras**, pastelería cubana y herramientas para organizar la cocina. Proyecto preparado para Beacon of the Eagle LLC en el repositorio `Centinell2025/cocina-cubana-`.
 
+## Precio previsto en Google Play
+
+- **Precio regular previsto (EE. UU.): US$2.50**, pago único por descarga.
+- **Opción de promoción: US$1.50**, sin fecha ni activación confirmadas.
+
+Estos importes documentan el plan para la versión Android. No están configurados en Google Play y no implican que la aplicación ya esté disponible en la tienda. La versión web no cambia.
+
 ## Contenido
 
 | Categoría | Recetas |
